@@ -1,0 +1,1677 @@
+{
+  "schema_version": "figma-source-node-tree/v1",
+  "root_id": "243:187",
+  "node_count": 43,
+  "nodes": [
+    {
+      "id": "243:187",
+      "name": "Menu_Trigger",
+      "node_type": "frame",
+      "parent_id": null,
+      "order": 0,
+      "path": "Menu_Trigger",
+      "x": 3094.0,
+      "y": 847.0,
+      "width": 960.0,
+      "height": 240.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:189",
+      "name": "cont_Trigger",
+      "node_type": "frame",
+      "parent_id": "243:187",
+      "order": 0,
+      "path": "Menu_Trigger/cont_Trigger",
+      "x": 105.0,
+      "y": 0.0,
+      "width": 855.0,
+      "height": 240.0,
+      "fill": [
+        "#020202",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#020202"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.5,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "754:2",
+      "name": "cont_DC_Change_Group",
+      "node_type": "frame",
+      "parent_id": "243:189",
+      "order": 0,
+      "path": "Menu_Trigger/cont_Trigger/cont_DC_Change_Group",
+      "x": 0.0,
+      "y": 0.0,
+      "width": 630.0,
+      "height": 80.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "571:16",
+      "name": "cont_section_dc_change",
+      "node_type": "frame",
+      "parent_id": "754:2",
+      "order": 0,
+      "path": "Menu_Trigger/cont_Trigger/cont_DC_Change_Group/cont_section_dc_change",
+      "x": 10.0,
+      "y": 0.0,
+      "width": 136.0,
+      "height": 20.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:229",
+      "name": "decor_section_dc_change",
+      "node_type": "frame",
+      "parent_id": "571:16",
+      "order": 0,
+      "path": "Menu_Trigger/cont_Trigger/cont_DC_Change_Group/cont_section_dc_change/decor_section_dc_change",
+      "x": 0.0,
+      "y": 10.0,
+      "width": 22.0,
+      "height": 1.0,
+      "fill": [
+        "#9e7a33",
+        184
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 184,
+          "c": "#9e7a33"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "255:2",
+      "name": "label_section_dc_change",
+      "node_type": "text",
+      "parent_id": "571:16",
+      "order": 1,
+      "path": "Menu_Trigger/cont_Trigger/cont_DC_Change_Group/cont_section_dc_change/label_section_dc_change",
+      "x": 32.0,
+      "y": 0.0,
+      "width": 97.0,
+      "height": 20.0,
+      "fill": [
+        "#756b52",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#756b52"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "DC CHANGE",
+      "font_size": 16,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 20,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:192",
+      "name": "cont_DC_Change",
+      "node_type": "frame",
+      "parent_id": "754:2",
+      "order": 1,
+      "path": "Menu_Trigger/cont_Trigger/cont_DC_Change_Group/cont_DC_Change",
+      "x": 0.0,
+      "y": 26.0,
+      "width": 417.0,
+      "height": 54.0,
+      "fill": [
+        "#060606",
+        255
+      ],
+      "stroke": [
+        "#242422",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:193",
+      "name": "label_DC_Change",
+      "node_type": "text",
+      "parent_id": "243:192",
+      "order": 0,
+      "path": "Menu_Trigger/cont_Trigger/cont_DC_Change_Group/cont_DC_Change/label_DC_Change",
+      "x": 14.0,
+      "y": 17.0,
+      "width": 136.0,
+      "height": 20.0,
+      "fill": [
+        "#9e9e96",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#9e9e96"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "DC Change Map",
+      "font_size": 18,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 20,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:190",
+      "name": "sw_DC_Change",
+      "node_type": "frame",
+      "parent_id": "243:192",
+      "order": 1,
+      "path": "Menu_Trigger/cont_Trigger/cont_DC_Change_Group/cont_DC_Change/sw_DC_Change",
+      "x": 288.0,
+      "y": 13.0,
+      "width": 64.0,
+      "height": 28.0,
+      "fill": [
+        "#0a0a0a",
+        255
+      ],
+      "stroke": [
+        "#4d422e",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#0a0a0a"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#4d422e"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 14.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:191",
+      "name": "img_DC_Change_knob",
+      "node_type": "frame",
+      "parent_id": "243:190",
+      "order": 0,
+      "path": "Menu_Trigger/cont_Trigger/cont_DC_Change_Group/cont_DC_Change/sw_DC_Change/img_DC_Change_knob",
+      "x": 4.0,
+      "y": 5.0,
+      "width": 18.0,
+      "height": 18.0,
+      "fill": [
+        "#bab096",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#bab096"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 9.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:195",
+      "name": "label_DC_Change_off",
+      "node_type": "text",
+      "parent_id": "243:192",
+      "order": 2,
+      "path": "Menu_Trigger/cont_Trigger/cont_DC_Change_Group/cont_DC_Change/label_DC_Change_off",
+      "x": 365.5,
+      "y": 17.0,
+      "width": 29.0,
+      "height": 20.0,
+      "fill": [
+        "#73736b",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#73736b"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "OFF",
+      "font_size": 16,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 20,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:198",
+      "name": "ddlist_DC_Change_mapto",
+      "node_type": "frame",
+      "parent_id": "754:2",
+      "order": 2,
+      "path": "Menu_Trigger/cont_Trigger/cont_DC_Change_Group/ddlist_DC_Change_mapto",
+      "x": 437.0,
+      "y": 25.0,
+      "width": 193.0,
+      "height": 55.0,
+      "fill": [
+        "#060606",
+        255
+      ],
+      "stroke": [
+        "#242422",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:200",
+      "name": "label_DC_Change_mapto_value",
+      "node_type": "text",
+      "parent_id": "243:198",
+      "order": 0,
+      "path": "Menu_Trigger/cont_Trigger/cont_DC_Change_Group/ddlist_DC_Change_mapto/label_DC_Change_mapto_value",
+      "x": 14.0,
+      "y": 23.0,
+      "width": 165.0,
+      "height": 29.0,
+      "fill": [
+        "#d6d6cf",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "Pin 1",
+      "font_size": 24,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 29,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:197",
+      "name": "label_DC_Change_mapto",
+      "node_type": "text",
+      "parent_id": "243:198",
+      "order": 1,
+      "path": "Menu_Trigger/cont_Trigger/cont_DC_Change_Group/ddlist_DC_Change_mapto/label_DC_Change_mapto",
+      "x": 14.0,
+      "y": 3.0,
+      "width": 60.0,
+      "height": 20.0,
+      "fill": [
+        "#9e9e96",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#9e9e96"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "Map to",
+      "font_size": 18,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 20,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "754:3",
+      "name": "cont_Arb_Step_Group",
+      "node_type": "frame",
+      "parent_id": "243:189",
+      "order": 1,
+      "path": "Menu_Trigger/cont_Trigger/cont_Arb_Step_Group",
+      "x": 0.0,
+      "y": 80.0,
+      "width": 630.0,
+      "height": 80.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "571:17",
+      "name": "cont_section_arb_step",
+      "node_type": "frame",
+      "parent_id": "754:3",
+      "order": 0,
+      "path": "Menu_Trigger/cont_Trigger/cont_Arb_Step_Group/cont_section_arb_step",
+      "x": 10.0,
+      "y": 0.0,
+      "width": 116.0,
+      "height": 20.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:231",
+      "name": "decor_section_arb_step",
+      "node_type": "frame",
+      "parent_id": "571:17",
+      "order": 0,
+      "path": "Menu_Trigger/cont_Trigger/cont_Arb_Step_Group/cont_section_arb_step/decor_section_arb_step",
+      "x": 0.0,
+      "y": 10.0,
+      "width": 22.0,
+      "height": 1.0,
+      "fill": [
+        "#9e7a33",
+        184
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 184,
+          "c": "#9e7a33"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "255:3",
+      "name": "label_section_arb_step",
+      "node_type": "text",
+      "parent_id": "571:17",
+      "order": 1,
+      "path": "Menu_Trigger/cont_Trigger/cont_Arb_Step_Group/cont_section_arb_step/label_section_arb_step",
+      "x": 32.0,
+      "y": 0.0,
+      "width": 78.0,
+      "height": 20.0,
+      "fill": [
+        "#756b52",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#756b52"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "ARB STEP",
+      "font_size": 16,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 20,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:201",
+      "name": "cont_Arb_Step_Tout",
+      "node_type": "frame",
+      "parent_id": "754:3",
+      "order": 1,
+      "path": "Menu_Trigger/cont_Trigger/cont_Arb_Step_Group/cont_Arb_Step_Tout",
+      "x": 0.0,
+      "y": 26.0,
+      "width": 417.0,
+      "height": 49.0,
+      "fill": [
+        "#060606",
+        255
+      ],
+      "stroke": [
+        "#242422",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:202",
+      "name": "label_Arb_Step_Tout",
+      "node_type": "text",
+      "parent_id": "243:201",
+      "order": 0,
+      "path": "Menu_Trigger/cont_Trigger/cont_Arb_Step_Group/cont_Arb_Step_Tout/label_Arb_Step_Tout",
+      "x": 14.0,
+      "y": 15.0,
+      "width": 157.0,
+      "height": 20.0,
+      "fill": [
+        "#9e9e96",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#9e9e96"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "Arb Step Tout Map",
+      "font_size": 18,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 20,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:203",
+      "name": "sw_Arb_Step_Tout",
+      "node_type": "frame",
+      "parent_id": "243:201",
+      "order": 1,
+      "path": "Menu_Trigger/cont_Trigger/cont_Arb_Step_Group/cont_Arb_Step_Tout/sw_Arb_Step_Tout",
+      "x": 288.0,
+      "y": 11.0,
+      "width": 64.0,
+      "height": 28.0,
+      "fill": [
+        "#0a0a0a",
+        255
+      ],
+      "stroke": [
+        "#4d422e",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#0a0a0a"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#4d422e"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 14.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:204",
+      "name": "img_Arb_Step_Tout_knob",
+      "node_type": "frame",
+      "parent_id": "243:203",
+      "order": 0,
+      "path": "Menu_Trigger/cont_Trigger/cont_Arb_Step_Group/cont_Arb_Step_Tout/sw_Arb_Step_Tout/img_Arb_Step_Tout_knob",
+      "x": 4.0,
+      "y": 5.0,
+      "width": 18.0,
+      "height": 18.0,
+      "fill": [
+        "#bab096",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#bab096"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 9.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:206",
+      "name": "label_Arb_Step_Tout_off",
+      "node_type": "text",
+      "parent_id": "243:201",
+      "order": 2,
+      "path": "Menu_Trigger/cont_Trigger/cont_Arb_Step_Group/cont_Arb_Step_Tout/label_Arb_Step_Tout_off",
+      "x": 365.5,
+      "y": 15.0,
+      "width": 29.0,
+      "height": 20.0,
+      "fill": [
+        "#73736b",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#73736b"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "OFF",
+      "font_size": 16,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 20,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:207",
+      "name": "ddlist_Arb_Step_Tout_mapto",
+      "node_type": "frame",
+      "parent_id": "754:3",
+      "order": 2,
+      "path": "Menu_Trigger/cont_Trigger/cont_Arb_Step_Group/ddlist_Arb_Step_Tout_mapto",
+      "x": 437.0,
+      "y": 23.0,
+      "width": 193.0,
+      "height": 57.0,
+      "fill": [
+        "#060606",
+        255
+      ],
+      "stroke": [
+        "#242422",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:209",
+      "name": "label_Arb_Step_Tout_mapto_value",
+      "node_type": "text",
+      "parent_id": "243:207",
+      "order": 0,
+      "path": "Menu_Trigger/cont_Trigger/cont_Arb_Step_Group/ddlist_Arb_Step_Tout_mapto/label_Arb_Step_Tout_mapto_value",
+      "x": 14.0,
+      "y": 25.0,
+      "width": 165.0,
+      "height": 29.0,
+      "fill": [
+        "#d6d6cf",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "Pin 1",
+      "font_size": 24,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 29,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:211",
+      "name": "label_Arb_Step_Tout_mapto",
+      "node_type": "text",
+      "parent_id": "243:207",
+      "order": 1,
+      "path": "Menu_Trigger/cont_Trigger/cont_Arb_Step_Group/ddlist_Arb_Step_Tout_mapto/label_Arb_Step_Tout_mapto",
+      "x": 14.0,
+      "y": 5.0,
+      "width": 60.0,
+      "height": 20.0,
+      "fill": [
+        "#9e9e96",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#9e9e96"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "Map to",
+      "font_size": 18,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 20,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "754:4",
+      "name": "cont_Transient_Group",
+      "node_type": "frame",
+      "parent_id": "243:189",
+      "order": 2,
+      "path": "Menu_Trigger/cont_Trigger/cont_Transient_Group",
+      "x": 0.0,
+      "y": 159.0,
+      "width": 853.0,
+      "height": 80.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "571:18",
+      "name": "cont_section_transient",
+      "node_type": "frame",
+      "parent_id": "754:4",
+      "order": 0,
+      "path": "Menu_Trigger/cont_Trigger/cont_Transient_Group/cont_section_transient",
+      "x": 10.0,
+      "y": 0.0,
+      "width": 131.0,
+      "height": 20.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "253:2",
+      "name": "decor_section_transient",
+      "node_type": "frame",
+      "parent_id": "571:18",
+      "order": 0,
+      "path": "Menu_Trigger/cont_Trigger/cont_Transient_Group/cont_section_transient/decor_section_transient",
+      "x": 0.0,
+      "y": 11.0,
+      "width": 22.0,
+      "height": 1.0,
+      "fill": [
+        "#9e7a33",
+        184
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 184,
+          "c": "#9e7a33"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "255:4",
+      "name": "label_section_transient",
+      "node_type": "text",
+      "parent_id": "571:18",
+      "order": 1,
+      "path": "Menu_Trigger/cont_Trigger/cont_Transient_Group/cont_section_transient/label_section_transient",
+      "x": 32.0,
+      "y": 0.0,
+      "width": 92.0,
+      "height": 20.0,
+      "fill": [
+        "#756b52",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#756b52"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "TRANSIENT",
+      "font_size": 16,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 20,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:214",
+      "name": "ddlist_Trigger_Source",
+      "node_type": "frame",
+      "parent_id": "754:4",
+      "order": 1,
+      "path": "Menu_Trigger/cont_Trigger/cont_Transient_Group/ddlist_Trigger_Source",
+      "x": 0.0,
+      "y": 21.0,
+      "width": 271.0,
+      "height": 55.0,
+      "fill": [
+        "#060606",
+        255
+      ],
+      "stroke": [
+        "#242422",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:216",
+      "name": "label_Trigger_Source_value",
+      "node_type": "text",
+      "parent_id": "243:214",
+      "order": 0,
+      "path": "Menu_Trigger/cont_Trigger/cont_Transient_Group/ddlist_Trigger_Source/label_Trigger_Source_value",
+      "x": 14.0,
+      "y": 22.0,
+      "width": 243.0,
+      "height": 29.0,
+      "fill": [
+        "#d6d6cf",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "Immediate",
+      "font_size": 24,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 29,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:213",
+      "name": "label_Trigger_Source",
+      "node_type": "text",
+      "parent_id": "243:214",
+      "order": 1,
+      "path": "Menu_Trigger/cont_Trigger/cont_Transient_Group/ddlist_Trigger_Source/label_Trigger_Source",
+      "x": 14.0,
+      "y": 3.0,
+      "width": 206.0,
+      "height": 20.0,
+      "fill": [
+        "#9e9e96",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#9e9e96"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "Transient Trigger Source",
+      "font_size": 18,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 20,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:217",
+      "name": "cont_Transient_Start",
+      "node_type": "frame",
+      "parent_id": "754:4",
+      "order": 2,
+      "path": "Menu_Trigger/cont_Trigger/cont_Transient_Group/cont_Transient_Start",
+      "x": 292.0,
+      "y": 21.0,
+      "width": 271.0,
+      "height": 54.0,
+      "fill": [
+        "#060606",
+        255
+      ],
+      "stroke": [
+        "#242422",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:218",
+      "name": "label_Transient_Start",
+      "node_type": "text",
+      "parent_id": "243:217",
+      "order": 0,
+      "path": "Menu_Trigger/cont_Trigger/cont_Transient_Group/cont_Transient_Start/label_Transient_Start",
+      "x": 14.0,
+      "y": 0.0,
+      "width": 215.0,
+      "height": 20.0,
+      "fill": [
+        "#9e9e96",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#9e9e96"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "Trigger on Transient Start",
+      "font_size": 18,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 20,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:219",
+      "name": "sw_Transient_Start",
+      "node_type": "frame",
+      "parent_id": "243:217",
+      "order": 1,
+      "path": "Menu_Trigger/cont_Trigger/cont_Transient_Group/cont_Transient_Start/sw_Transient_Start",
+      "x": 14.0,
+      "y": 23.0,
+      "width": 64.0,
+      "height": 28.0,
+      "fill": [
+        "#0a0a0a",
+        255
+      ],
+      "stroke": [
+        "#4d422e",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#0a0a0a"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#4d422e"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 14.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:220",
+      "name": "img_Transient_Start_knob",
+      "node_type": "frame",
+      "parent_id": "243:219",
+      "order": 0,
+      "path": "Menu_Trigger/cont_Trigger/cont_Transient_Group/cont_Transient_Start/sw_Transient_Start/img_Transient_Start_knob",
+      "x": 4.0,
+      "y": 5.0,
+      "width": 18.0,
+      "height": 18.0,
+      "fill": [
+        "#bab096",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#bab096"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 9.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:222",
+      "name": "label_Transient_Start_off",
+      "node_type": "text",
+      "parent_id": "243:217",
+      "order": 2,
+      "path": "Menu_Trigger/cont_Trigger/cont_Transient_Group/cont_Transient_Start/label_Transient_Start_off",
+      "x": 90.5,
+      "y": 31.0,
+      "width": 29.0,
+      "height": 20.0,
+      "fill": [
+        "#73736b",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#73736b"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "OFF",
+      "font_size": 16,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 20,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:223",
+      "name": "cont_Transient_End",
+      "node_type": "frame",
+      "parent_id": "754:4",
+      "order": 3,
+      "path": "Menu_Trigger/cont_Trigger/cont_Transient_Group/cont_Transient_End",
+      "x": 582.0,
+      "y": 25.0,
+      "width": 271.0,
+      "height": 54.0,
+      "fill": [
+        "#060606",
+        255
+      ],
+      "stroke": [
+        "#242422",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:224",
+      "name": "label_Transient_End",
+      "node_type": "text",
+      "parent_id": "243:223",
+      "order": 0,
+      "path": "Menu_Trigger/cont_Trigger/cont_Transient_Group/cont_Transient_End/label_Transient_End",
+      "x": 14.0,
+      "y": 0.0,
+      "width": 207.0,
+      "height": 20.0,
+      "fill": [
+        "#9e9e96",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#9e9e96"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "Trigger on Transient End",
+      "font_size": 18,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 20,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:225",
+      "name": "sw_Transient_End",
+      "node_type": "frame",
+      "parent_id": "243:223",
+      "order": 1,
+      "path": "Menu_Trigger/cont_Trigger/cont_Transient_Group/cont_Transient_End/sw_Transient_End",
+      "x": 14.0,
+      "y": 23.0,
+      "width": 64.0,
+      "height": 28.0,
+      "fill": [
+        "#0a0a0a",
+        255
+      ],
+      "stroke": [
+        "#4d422e",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#0a0a0a"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#4d422e"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 14.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:226",
+      "name": "img_Transient_End_knob",
+      "node_type": "frame",
+      "parent_id": "243:225",
+      "order": 0,
+      "path": "Menu_Trigger/cont_Trigger/cont_Transient_Group/cont_Transient_End/sw_Transient_End/img_Transient_End_knob",
+      "x": 4.0,
+      "y": 5.0,
+      "width": 18.0,
+      "height": 18.0,
+      "fill": [
+        "#bab096",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#bab096"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 9.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:228",
+      "name": "label_Transient_End_off",
+      "node_type": "text",
+      "parent_id": "243:223",
+      "order": 2,
+      "path": "Menu_Trigger/cont_Trigger/cont_Transient_Group/cont_Transient_End/label_Transient_End_off",
+      "x": 91.5,
+      "y": 28.0,
+      "width": 29.0,
+      "height": 20.0,
+      "fill": [
+        "#73736b",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#73736b"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "OFF",
+      "font_size": 16,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 20,
+      "image_hash": null,
+      "image_reference": null
+    }
+  ]
+}

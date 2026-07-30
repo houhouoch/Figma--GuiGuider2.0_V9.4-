@@ -1,0 +1,103 @@
+{
+  "schema": "figma-compact-manifest/v1",
+  "rootId": "130:2",
+  "total": 3,
+  "start": 0,
+  "limit": 3,
+  "nodes": [
+    {
+      "id": "130:2",
+      "n": "Back",
+      "ty": "FRAME",
+      "p": null,
+      "o": 0,
+      "path": "Back",
+      "x": -25,
+      "y": -371,
+      "w": 960,
+      "h": 240,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#ffffff",
+        0
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 0,
+          "c": "#ffffff"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "130:3",
+      "n": "cont_back",
+      "ty": "FRAME",
+      "p": "130:2",
+      "o": 0,
+      "path": "Back/cont_back",
+      "x": 0,
+      "y": 0,
+      "w": 960,
+      "h": 240,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#000000",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#000000"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "130:4",
+      "n": "img_Logo",
+      "ty": "FRAME",
+      "p": "130:3",
+      "o": 0,
+      "path": "Back/cont_back/img_Logo",
+      "x": 198.984375,
+      "y": 42.984375,
+      "w": 568.9921875,
+      "h": 159,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": null,
+      "s": null,
+      "fp": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "a9f26133b62fc1551c1c0954344c276d784c38ed",
+          "sm": "FIT"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": "a9f26133b62fc1551c1c0954344c276d784c38ed",
+      "t": null
+    }
+  ]
+}

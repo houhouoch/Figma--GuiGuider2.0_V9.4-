@@ -1,0 +1,121 @@
+{
+  "schema": "figma-compact-manifest/v1",
+  "rootId": "365:5",
+  "total": 3,
+  "start": 0,
+  "limit": 3,
+  "nodes": [
+    {
+      "id": "365:5",
+      "n": "cont_mode_select_small",
+      "ty": "FRAME",
+      "p": null,
+      "o": 0,
+      "path": "cont_mode_select_small",
+      "x": 1171,
+      "y": 2364,
+      "w": 500,
+      "h": 200,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#050505",
+        251
+      ],
+      "s": [
+        "#4f452b",
+        235
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 251,
+          "c": "#050505"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 235,
+          "c": "#4f452b"
+        }
+      ],
+      "sw": 1,
+      "r": 8,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "365:6",
+      "n": "decor_mode_select_small_title",
+      "ty": "RECTANGLE",
+      "p": "365:5",
+      "o": 0,
+      "path": "cont_mode_select_small/decor_mode_select_small_title",
+      "x": 18,
+      "y": 23,
+      "w": 24,
+      "h": 1,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#b8872b",
+        242
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 242,
+          "c": "#b8872b"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "365:7",
+      "n": "label_mode_select_small_title",
+      "ty": "TEXT",
+      "p": "365:5",
+      "o": 1,
+      "path": "cont_mode_select_small/label_mode_select_small_title",
+      "x": 54,
+      "y": 9,
+      "w": 220,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#c7c4b8",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#c7c4b8"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Select",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 28
+      }
+    }
+  ]
+}

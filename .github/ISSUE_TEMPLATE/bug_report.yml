@@ -1,0 +1,41 @@
+name: Bug report / 缺陷报告
+description: Report a reproducible conversion, project, font, or validation issue.
+title: "[Bug] "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请移除 Token、私有链接和客户数据。Remove tokens, private links, and customer data.
+  - type: input
+    id: version
+    attributes:
+      label: Version / 版本
+      placeholder: Commit SHA, GUI Guider version, LVGL version
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction / 复现步骤
+      description: Include the manifest version and affected screen or node.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result / 预期结果
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual result / 实际结果
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence / 证据
+      description: Validation output, sanitized logs, screenshots, or diffs.

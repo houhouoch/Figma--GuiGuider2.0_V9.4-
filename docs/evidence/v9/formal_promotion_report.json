@@ -1,0 +1,20 @@
+{
+  "schema_version": "guiguider-formal-promotion/v1",
+  "approved": true,
+  "approval_note": "User approved formal promotion after importing and verifying the Alibaba PuHuiTi font in GUI Guider 2.0.",
+  "formal_project": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\guiguider_2.0.guiguider",
+  "candidate": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\artifacts\\figma_sync_20260729_v9_controlled\\guiguider_2.0.v9_candidate.guiguider",
+  "backup": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\artifacts\\backups\\v9_controlled_promotion\\guiguider_2.0.before_v9_promotion_20260729_135900.guiguider",
+  "before_sha256": "4c85aabad353f61fa35281416f613330ff3380fd3835e324026434c8528aff0b",
+  "candidate_sha256": "9e297c7cc62d302fbf307471e28826fd5cdc6bf4ba893d20980a149c7816fd51",
+  "promoted_sha256": "bc7ec48eefaffc9277f5602d88768edba944c5a209934296d9fc11cb37b4ec00",
+  "saved_sha256": "5b07a55d945188dbe08bdf2a7fe3169e3cde473d2469a66595020095e3b87ab0",
+  "backup_sha256": "4c85aabad353f61fa35281416f613330ff3380fd3835e324026434c8528aff0b",
+  "non_ui_configuration_preserved": true,
+  "formal_ui_matches_candidate": true,
+  "resource_count": 50,
+  "missing_resources": [],
+  "saved_last_modified": "2026-07-29T06:05:48.728Z",
+  "saved_only_last_modified_changed": true,
+  "gui_guider_open_save_verified": true
+}

@@ -1,0 +1,130 @@
+{
+  "schema_version": "figma-source-node-tree/v1",
+  "root_id": "365:5",
+  "node_count": 3,
+  "nodes": [
+    {
+      "id": "365:5",
+      "name": "cont_mode_select_small",
+      "node_type": "frame",
+      "parent_id": null,
+      "order": 0,
+      "path": "cont_mode_select_small",
+      "x": 1171.0,
+      "y": 2364.0,
+      "width": 500.0,
+      "height": 200.0,
+      "fill": [
+        "#050505",
+        251
+      ],
+      "stroke": [
+        "#4f452b",
+        235
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 251,
+          "c": "#050505"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 235,
+          "c": "#4f452b"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 8.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "365:6",
+      "name": "decor_mode_select_small_title",
+      "node_type": "rectangle",
+      "parent_id": "365:5",
+      "order": 0,
+      "path": "cont_mode_select_small/decor_mode_select_small_title",
+      "x": 18.0,
+      "y": 23.0,
+      "width": 24.0,
+      "height": 1.0,
+      "fill": [
+        "#b8872b",
+        242
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 242,
+          "c": "#b8872b"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "365:7",
+      "name": "label_mode_select_small_title",
+      "node_type": "text",
+      "parent_id": "365:5",
+      "order": 1,
+      "path": "cont_mode_select_small/label_mode_select_small_title",
+      "x": 54.0,
+      "y": 9.0,
+      "width": 220.0,
+      "height": 28.0,
+      "fill": [
+        "#c7c4b8",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#c7c4b8"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "Select",
+      "font_size": 23,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 28,
+      "image_hash": null,
+      "image_reference": null
+    }
+  ]
+}

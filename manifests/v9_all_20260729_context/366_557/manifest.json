@@ -1,0 +1,142 @@
+{
+  "schema": "figma-compact-manifest/v1",
+  "rootId": "366:557",
+  "total": 4,
+  "start": 0,
+  "limit": 4,
+  "nodes": [
+    {
+      "id": "366:557",
+      "n": "Warnings_window",
+      "ty": "FRAME",
+      "p": null,
+      "o": 0,
+      "path": "Warnings_window",
+      "x": 1846,
+      "y": 2344,
+      "w": 960,
+      "h": 240,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": null,
+      "s": null,
+      "fp": [],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:558",
+      "n": "cont_warning_window",
+      "ty": "FRAME",
+      "p": "366:557",
+      "o": 0,
+      "path": "Warnings_window/cont_warning_window",
+      "x": 283,
+      "y": 45,
+      "w": 500,
+      "h": 150,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#050505",
+        252
+      ],
+      "s": [
+        "#5c4d29",
+        235
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 252,
+          "c": "#050505"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 235,
+          "c": "#5c4d29"
+        }
+      ],
+      "sw": 1,
+      "r": 8,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:559",
+      "n": "img_warning",
+      "ty": "FRAME",
+      "p": "366:558",
+      "o": 0,
+      "path": "Warnings_window/cont_warning_window/img_warning",
+      "x": 24,
+      "y": 47,
+      "w": 56,
+      "h": 56,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": null,
+      "s": null,
+      "fp": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "864b546145fbcfbac5d051eb49ebe941c435378b",
+          "sm": "FIT"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": "864b546145fbcfbac5d051eb49ebe941c435378b",
+      "t": null
+    },
+    {
+      "id": "366:561",
+      "n": "label_Unlock_window",
+      "ty": "TEXT",
+      "p": "366:558",
+      "o": 1,
+      "path": "Warnings_window/cont_warning_window/label_Unlock_window",
+      "x": 104,
+      "y": 47,
+      "w": 366,
+      "h": 56,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d1cfc2",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d1cfc2"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Press and hold the unlock key to unlock!",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 28
+      }
+    }
+  ]
+}

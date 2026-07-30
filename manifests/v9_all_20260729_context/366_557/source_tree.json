@@ -1,0 +1,157 @@
+{
+  "schema_version": "figma-source-node-tree/v1",
+  "root_id": "366:557",
+  "node_count": 4,
+  "nodes": [
+    {
+      "id": "366:557",
+      "name": "Warnings_window",
+      "node_type": "frame",
+      "parent_id": null,
+      "order": 0,
+      "path": "Warnings_window",
+      "x": 1846.0,
+      "y": 2344.0,
+      "width": 960.0,
+      "height": 240.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:558",
+      "name": "cont_warning_window",
+      "node_type": "frame",
+      "parent_id": "366:557",
+      "order": 0,
+      "path": "Warnings_window/cont_warning_window",
+      "x": 283.0,
+      "y": 45.0,
+      "width": 500.0,
+      "height": 150.0,
+      "fill": [
+        "#050505",
+        252
+      ],
+      "stroke": [
+        "#5c4d29",
+        235
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 252,
+          "c": "#050505"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 235,
+          "c": "#5c4d29"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 8.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:559",
+      "name": "img_warning",
+      "node_type": "frame",
+      "parent_id": "366:558",
+      "order": 0,
+      "path": "Warnings_window/cont_warning_window/img_warning",
+      "x": 24.0,
+      "y": 47.0,
+      "width": 56.0,
+      "height": 56.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "864b546145fbcfbac5d051eb49ebe941c435378b",
+          "sm": "FIT"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": "864b546145fbcfbac5d051eb49ebe941c435378b",
+      "image_reference": null
+    },
+    {
+      "id": "366:561",
+      "name": "label_Unlock_window",
+      "node_type": "text",
+      "parent_id": "366:558",
+      "order": 1,
+      "path": "Warnings_window/cont_warning_window/label_Unlock_window",
+      "x": 104.0,
+      "y": 47.0,
+      "width": 366.0,
+      "height": 56.0,
+      "fill": [
+        "#d1cfc2",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d1cfc2"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "Press and hold the unlock key to unlock!",
+      "font_size": 23,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "CENTER",
+      "line_height": 28,
+      "image_hash": null,
+      "image_reference": null
+    }
+  ]
+}

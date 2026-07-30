@@ -1,0 +1,8013 @@
+{
+  "schema": "figma-compact-manifest/v1",
+  "rootId": "130:6",
+  "total": 240,
+  "start": 0,
+  "limit": 240,
+  "nodes": [
+    {
+      "id": "130:6",
+      "n": "HOME_MENU",
+      "ty": "FRAME",
+      "p": null,
+      "o": 0,
+      "path": "HOME_MENU",
+      "x": 0,
+      "y": 371,
+      "w": 960,
+      "h": 240,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#020202",
+        255
+      ],
+      "s": [
+        "#30302e",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#020202"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#30302e"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:2",
+      "n": "cont_menu_set",
+      "ty": "FRAME",
+      "p": "130:6",
+      "o": 0,
+      "path": "HOME_MENU/cont_menu_set",
+      "x": 0,
+      "y": 0,
+      "w": 105,
+      "h": 240,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#020202",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#020202"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:4",
+      "n": "btn_menu_back",
+      "ty": "FRAME",
+      "p": "176:2",
+      "o": 0,
+      "path": "HOME_MENU/cont_menu_set/btn_menu_back",
+      "x": 16.5,
+      "y": 8,
+      "w": 72,
+      "h": 72,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#070707",
+        255
+      ],
+      "s": [
+        "#2e2b26",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070707"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#2e2b26"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:5",
+      "n": "img_menu_back",
+      "ty": "RECTANGLE",
+      "p": "176:4",
+      "o": 0,
+      "path": "HOME_MENU/cont_menu_set/btn_menu_back/img_menu_back",
+      "x": 6,
+      "y": 6,
+      "w": 60,
+      "h": 60,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "7af38619a821336a29073f198916684466d6d084",
+          "sm": "FIT"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": "7af38619a821336a29073f198916684466d6d084",
+      "t": null
+    },
+    {
+      "id": "176:6",
+      "n": "label_menu_title",
+      "ty": "TEXT",
+      "p": "176:2",
+      "o": 1,
+      "path": "HOME_MENU/cont_menu_set/label_menu_title",
+      "x": 12,
+      "y": 103,
+      "w": 81,
+      "h": 26,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "MENU",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": null
+      }
+    },
+    {
+      "id": "176:7",
+      "n": "btn_menu_home",
+      "ty": "FRAME",
+      "p": "176:2",
+      "o": 2,
+      "path": "HOME_MENU/cont_menu_set/btn_menu_home",
+      "x": 16.5,
+      "y": 160,
+      "w": 72,
+      "h": 72,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#070707",
+        255
+      ],
+      "s": [
+        "#2e2b26",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070707"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#2e2b26"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:8",
+      "n": "decor_home_active",
+      "ty": "RECTANGLE",
+      "p": "176:7",
+      "o": 0,
+      "path": "HOME_MENU/cont_menu_set/btn_menu_home/decor_home_active",
+      "x": 24,
+      "y": 68,
+      "w": 24,
+      "h": 2,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#c7963b",
+        229
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 229,
+          "c": "#c7963b"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:9",
+      "n": "img_menu_home",
+      "ty": "RECTANGLE",
+      "p": "176:7",
+      "o": 1,
+      "path": "HOME_MENU/cont_menu_set/btn_menu_home/img_menu_home",
+      "x": 6,
+      "y": 6,
+      "w": 60,
+      "h": 60,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "03733382430e80c8db101e6f0b528a0705485e8b",
+          "sm": "FIT"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": "03733382430e80c8db101e6f0b528a0705485e8b",
+      "t": null
+    },
+    {
+      "id": "176:10",
+      "n": "cont_menu_function",
+      "ty": "FRAME",
+      "p": "130:6",
+      "o": 1,
+      "path": "HOME_MENU/cont_menu_function",
+      "x": 105,
+      "y": 0,
+      "w": 855,
+      "h": 240,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#020202",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#020202"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:12",
+      "n": "btn_menu_config",
+      "ty": "FRAME",
+      "p": "176:10",
+      "o": 0,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_config",
+      "x": 10,
+      "y": 8,
+      "w": 132,
+      "h": 104,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#070707",
+        255
+      ],
+      "s": [
+        "#2e2b26",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070707"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#2e2b26"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:13",
+      "n": "label_menu_config",
+      "ty": "TEXT",
+      "p": "176:12",
+      "o": 0,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_config/label_menu_config",
+      "x": 3,
+      "y": 76,
+      "w": 126,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Config",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 27
+      }
+    },
+    {
+      "id": "176:14",
+      "n": "img_menu_config",
+      "ty": "RECTANGLE",
+      "p": "176:12",
+      "o": 1,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_config/img_menu_config",
+      "x": 29,
+      "y": 11,
+      "w": 73,
+      "h": 73,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "404761eda25b91de0779e7b09e17e72534781689",
+          "sm": "FIT"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": "404761eda25b91de0779e7b09e17e72534781689",
+      "t": null
+    },
+    {
+      "id": "176:15",
+      "n": "decor_config_corner_1",
+      "ty": "RECTANGLE",
+      "p": "176:12",
+      "o": 2,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_config/decor_config_corner_1",
+      "x": 9,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:16",
+      "n": "decor_config_corner_2",
+      "ty": "RECTANGLE",
+      "p": "176:12",
+      "o": 3,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_config/decor_config_corner_2",
+      "x": 9,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:17",
+      "n": "decor_config_corner_3",
+      "ty": "RECTANGLE",
+      "p": "176:12",
+      "o": 4,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_config/decor_config_corner_3",
+      "x": 111,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:18",
+      "n": "decor_config_corner_4",
+      "ty": "RECTANGLE",
+      "p": "176:12",
+      "o": 5,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_config/decor_config_corner_4",
+      "x": 121,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:19",
+      "n": "decor_config_corner_5",
+      "ty": "RECTANGLE",
+      "p": "176:12",
+      "o": 6,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_config/decor_config_corner_5",
+      "x": 9,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:20",
+      "n": "decor_config_corner_6",
+      "ty": "RECTANGLE",
+      "p": "176:12",
+      "o": 7,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_config/decor_config_corner_6",
+      "x": 9,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:21",
+      "n": "decor_config_corner_7",
+      "ty": "RECTANGLE",
+      "p": "176:12",
+      "o": 8,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_config/decor_config_corner_7",
+      "x": 111,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:22",
+      "n": "decor_config_corner_8",
+      "ty": "RECTANGLE",
+      "p": "176:12",
+      "o": 9,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_config/decor_config_corner_8",
+      "x": 121,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:23",
+      "n": "btn_menu_protect",
+      "ty": "FRAME",
+      "p": "176:10",
+      "o": 1,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_protect",
+      "x": 150,
+      "y": 8,
+      "w": 132,
+      "h": 104,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#070707",
+        255
+      ],
+      "s": [
+        "#2e2b26",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070707"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#2e2b26"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:24",
+      "n": "label_menu_protect",
+      "ty": "TEXT",
+      "p": "176:23",
+      "o": 0,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_protect/label_menu_protect",
+      "x": 3,
+      "y": 76,
+      "w": 126,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Protect",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 27
+      }
+    },
+    {
+      "id": "176:25",
+      "n": "img_menu_protect",
+      "ty": "RECTANGLE",
+      "p": "176:23",
+      "o": 1,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_protect/img_menu_protect",
+      "x": 29,
+      "y": 11,
+      "w": 73,
+      "h": 73,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "5c5c6539601b2f7a8de167176dbc2e825c53ecb1",
+          "sm": "FIT"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": "5c5c6539601b2f7a8de167176dbc2e825c53ecb1",
+      "t": null
+    },
+    {
+      "id": "176:26",
+      "n": "decor_protect_corner_1",
+      "ty": "RECTANGLE",
+      "p": "176:23",
+      "o": 2,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_protect/decor_protect_corner_1",
+      "x": 9,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:27",
+      "n": "decor_protect_corner_2",
+      "ty": "RECTANGLE",
+      "p": "176:23",
+      "o": 3,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_protect/decor_protect_corner_2",
+      "x": 9,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:28",
+      "n": "decor_protect_corner_3",
+      "ty": "RECTANGLE",
+      "p": "176:23",
+      "o": 4,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_protect/decor_protect_corner_3",
+      "x": 111,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:29",
+      "n": "decor_protect_corner_4",
+      "ty": "RECTANGLE",
+      "p": "176:23",
+      "o": 5,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_protect/decor_protect_corner_4",
+      "x": 121,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:30",
+      "n": "decor_protect_corner_5",
+      "ty": "RECTANGLE",
+      "p": "176:23",
+      "o": 6,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_protect/decor_protect_corner_5",
+      "x": 9,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:31",
+      "n": "decor_protect_corner_6",
+      "ty": "RECTANGLE",
+      "p": "176:23",
+      "o": 7,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_protect/decor_protect_corner_6",
+      "x": 9,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:32",
+      "n": "decor_protect_corner_7",
+      "ty": "RECTANGLE",
+      "p": "176:23",
+      "o": 8,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_protect/decor_protect_corner_7",
+      "x": 111,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:33",
+      "n": "decor_protect_corner_8",
+      "ty": "RECTANGLE",
+      "p": "176:23",
+      "o": 9,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_protect/decor_protect_corner_8",
+      "x": 121,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:34",
+      "n": "btn_menu_measure",
+      "ty": "FRAME",
+      "p": "176:10",
+      "o": 2,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_measure",
+      "x": 290,
+      "y": 8,
+      "w": 132,
+      "h": 104,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#070707",
+        255
+      ],
+      "s": [
+        "#2e2b26",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070707"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#2e2b26"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:35",
+      "n": "label_menu_measure",
+      "ty": "TEXT",
+      "p": "176:34",
+      "o": 0,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_measure/label_menu_measure",
+      "x": 3,
+      "y": 76,
+      "w": 126,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Measure",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 27
+      }
+    },
+    {
+      "id": "176:36",
+      "n": "img_menu_measure",
+      "ty": "RECTANGLE",
+      "p": "176:34",
+      "o": 1,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_measure/img_menu_measure",
+      "x": 29,
+      "y": 11,
+      "w": 73,
+      "h": 73,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "305b9d91ae01eb400b9a33f948573642c3470ef5",
+          "sm": "FIT"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": "305b9d91ae01eb400b9a33f948573642c3470ef5",
+      "t": null
+    },
+    {
+      "id": "176:37",
+      "n": "decor_measure_corner_1",
+      "ty": "RECTANGLE",
+      "p": "176:34",
+      "o": 2,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_measure/decor_measure_corner_1",
+      "x": 9,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:38",
+      "n": "decor_measure_corner_2",
+      "ty": "RECTANGLE",
+      "p": "176:34",
+      "o": 3,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_measure/decor_measure_corner_2",
+      "x": 9,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:39",
+      "n": "decor_measure_corner_3",
+      "ty": "RECTANGLE",
+      "p": "176:34",
+      "o": 4,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_measure/decor_measure_corner_3",
+      "x": 111,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:40",
+      "n": "decor_measure_corner_4",
+      "ty": "RECTANGLE",
+      "p": "176:34",
+      "o": 5,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_measure/decor_measure_corner_4",
+      "x": 121,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:41",
+      "n": "decor_measure_corner_5",
+      "ty": "RECTANGLE",
+      "p": "176:34",
+      "o": 6,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_measure/decor_measure_corner_5",
+      "x": 9,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:42",
+      "n": "decor_measure_corner_6",
+      "ty": "RECTANGLE",
+      "p": "176:34",
+      "o": 7,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_measure/decor_measure_corner_6",
+      "x": 9,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:43",
+      "n": "decor_measure_corner_7",
+      "ty": "RECTANGLE",
+      "p": "176:34",
+      "o": 8,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_measure/decor_measure_corner_7",
+      "x": 111,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:44",
+      "n": "decor_measure_corner_8",
+      "ty": "RECTANGLE",
+      "p": "176:34",
+      "o": 9,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_measure/decor_measure_corner_8",
+      "x": 121,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:45",
+      "n": "btn_menu_trigger",
+      "ty": "FRAME",
+      "p": "176:10",
+      "o": 3,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_trigger",
+      "x": 430,
+      "y": 8,
+      "w": 132,
+      "h": 104,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#070707",
+        255
+      ],
+      "s": [
+        "#2e2b26",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070707"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#2e2b26"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:46",
+      "n": "label_menu_trigger",
+      "ty": "TEXT",
+      "p": "176:45",
+      "o": 0,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_trigger/label_menu_trigger",
+      "x": 3,
+      "y": 76,
+      "w": 126,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Trigger",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 27
+      }
+    },
+    {
+      "id": "176:47",
+      "n": "img_menu_trigger",
+      "ty": "RECTANGLE",
+      "p": "176:45",
+      "o": 1,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_trigger/img_menu_trigger",
+      "x": 29,
+      "y": 9,
+      "w": 73,
+      "h": 73,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "d8436f8dbdc82959577d8146a55ff72640a077c4",
+          "sm": "FIT"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": "d8436f8dbdc82959577d8146a55ff72640a077c4",
+      "t": null
+    },
+    {
+      "id": "176:48",
+      "n": "decor_trigger_corner_1",
+      "ty": "RECTANGLE",
+      "p": "176:45",
+      "o": 2,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_trigger/decor_trigger_corner_1",
+      "x": 9,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:49",
+      "n": "decor_trigger_corner_2",
+      "ty": "RECTANGLE",
+      "p": "176:45",
+      "o": 3,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_trigger/decor_trigger_corner_2",
+      "x": 9,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:50",
+      "n": "decor_trigger_corner_3",
+      "ty": "RECTANGLE",
+      "p": "176:45",
+      "o": 4,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_trigger/decor_trigger_corner_3",
+      "x": 111,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:51",
+      "n": "decor_trigger_corner_4",
+      "ty": "RECTANGLE",
+      "p": "176:45",
+      "o": 5,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_trigger/decor_trigger_corner_4",
+      "x": 121,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:52",
+      "n": "decor_trigger_corner_5",
+      "ty": "RECTANGLE",
+      "p": "176:45",
+      "o": 6,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_trigger/decor_trigger_corner_5",
+      "x": 9,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:53",
+      "n": "decor_trigger_corner_6",
+      "ty": "RECTANGLE",
+      "p": "176:45",
+      "o": 7,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_trigger/decor_trigger_corner_6",
+      "x": 9,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:54",
+      "n": "decor_trigger_corner_7",
+      "ty": "RECTANGLE",
+      "p": "176:45",
+      "o": 8,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_trigger/decor_trigger_corner_7",
+      "x": 111,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:55",
+      "n": "decor_trigger_corner_8",
+      "ty": "RECTANGLE",
+      "p": "176:45",
+      "o": 9,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_trigger/decor_trigger_corner_8",
+      "x": 121,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:56",
+      "n": "btn_menu_recall",
+      "ty": "FRAME",
+      "p": "176:10",
+      "o": 4,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_recall",
+      "x": 570,
+      "y": 8,
+      "w": 132,
+      "h": 104,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#070707",
+        255
+      ],
+      "s": [
+        "#2e2b26",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070707"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#2e2b26"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:57",
+      "n": "label_menu_recall",
+      "ty": "TEXT",
+      "p": "176:56",
+      "o": 0,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_recall/label_menu_recall",
+      "x": 3,
+      "y": 76,
+      "w": 126,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Recall",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 27
+      }
+    },
+    {
+      "id": "176:58",
+      "n": "img_menu_recall",
+      "ty": "RECTANGLE",
+      "p": "176:56",
+      "o": 1,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_recall/img_menu_recall",
+      "x": 29,
+      "y": 9,
+      "w": 73,
+      "h": 73,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "e9a3e0c3a188312038af0802aa60fb054ec3c671",
+          "sm": "FIT"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": "e9a3e0c3a188312038af0802aa60fb054ec3c671",
+      "t": null
+    },
+    {
+      "id": "176:59",
+      "n": "decor_recall_corner_1",
+      "ty": "RECTANGLE",
+      "p": "176:56",
+      "o": 2,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_recall/decor_recall_corner_1",
+      "x": 9,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:60",
+      "n": "decor_recall_corner_2",
+      "ty": "RECTANGLE",
+      "p": "176:56",
+      "o": 3,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_recall/decor_recall_corner_2",
+      "x": 9,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:61",
+      "n": "decor_recall_corner_3",
+      "ty": "RECTANGLE",
+      "p": "176:56",
+      "o": 4,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_recall/decor_recall_corner_3",
+      "x": 111,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:62",
+      "n": "decor_recall_corner_4",
+      "ty": "RECTANGLE",
+      "p": "176:56",
+      "o": 5,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_recall/decor_recall_corner_4",
+      "x": 121,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:63",
+      "n": "decor_recall_corner_5",
+      "ty": "RECTANGLE",
+      "p": "176:56",
+      "o": 6,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_recall/decor_recall_corner_5",
+      "x": 9,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:64",
+      "n": "decor_recall_corner_6",
+      "ty": "RECTANGLE",
+      "p": "176:56",
+      "o": 7,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_recall/decor_recall_corner_6",
+      "x": 9,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:65",
+      "n": "decor_recall_corner_7",
+      "ty": "RECTANGLE",
+      "p": "176:56",
+      "o": 8,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_recall/decor_recall_corner_7",
+      "x": 111,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:66",
+      "n": "decor_recall_corner_8",
+      "ty": "RECTANGLE",
+      "p": "176:56",
+      "o": 9,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_recall/decor_recall_corner_8",
+      "x": 121,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:67",
+      "n": "btn_menu_save",
+      "ty": "FRAME",
+      "p": "176:10",
+      "o": 5,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_save",
+      "x": 710,
+      "y": 8,
+      "w": 132,
+      "h": 104,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#070707",
+        255
+      ],
+      "s": [
+        "#2e2b26",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070707"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#2e2b26"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:68",
+      "n": "label_menu_save",
+      "ty": "TEXT",
+      "p": "176:67",
+      "o": 0,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_save/label_menu_save",
+      "x": 3,
+      "y": 76,
+      "w": 126,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Save",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 27
+      }
+    },
+    {
+      "id": "176:69",
+      "n": "img_menu_save",
+      "ty": "RECTANGLE",
+      "p": "176:67",
+      "o": 1,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_save/img_menu_save",
+      "x": 29,
+      "y": 9,
+      "w": 73,
+      "h": 73,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "13c53ba53d45a4c5d4d766a3d31d63dd0abd3506",
+          "sm": "FIT"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": "13c53ba53d45a4c5d4d766a3d31d63dd0abd3506",
+      "t": null
+    },
+    {
+      "id": "176:70",
+      "n": "decor_save_corner_1",
+      "ty": "RECTANGLE",
+      "p": "176:67",
+      "o": 2,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_save/decor_save_corner_1",
+      "x": 9,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:71",
+      "n": "decor_save_corner_2",
+      "ty": "RECTANGLE",
+      "p": "176:67",
+      "o": 3,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_save/decor_save_corner_2",
+      "x": 9,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:72",
+      "n": "decor_save_corner_3",
+      "ty": "RECTANGLE",
+      "p": "176:67",
+      "o": 4,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_save/decor_save_corner_3",
+      "x": 111,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:73",
+      "n": "decor_save_corner_4",
+      "ty": "RECTANGLE",
+      "p": "176:67",
+      "o": 5,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_save/decor_save_corner_4",
+      "x": 121,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:74",
+      "n": "decor_save_corner_5",
+      "ty": "RECTANGLE",
+      "p": "176:67",
+      "o": 6,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_save/decor_save_corner_5",
+      "x": 9,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:75",
+      "n": "decor_save_corner_6",
+      "ty": "RECTANGLE",
+      "p": "176:67",
+      "o": 7,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_save/decor_save_corner_6",
+      "x": 9,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:76",
+      "n": "decor_save_corner_7",
+      "ty": "RECTANGLE",
+      "p": "176:67",
+      "o": 8,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_save/decor_save_corner_7",
+      "x": 111,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:77",
+      "n": "decor_save_corner_8",
+      "ty": "RECTANGLE",
+      "p": "176:67",
+      "o": 9,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_save/decor_save_corner_8",
+      "x": 121,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:78",
+      "n": "btn_menu_meter",
+      "ty": "FRAME",
+      "p": "176:10",
+      "o": 6,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_meter",
+      "x": 10,
+      "y": 124,
+      "w": 132,
+      "h": 104,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#070707",
+        255
+      ],
+      "s": [
+        "#2e2b26",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070707"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#2e2b26"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:79",
+      "n": "label_menu_meter",
+      "ty": "TEXT",
+      "p": "176:78",
+      "o": 0,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_meter/label_menu_meter",
+      "x": 3,
+      "y": 76,
+      "w": 126,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Meter",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 27
+      }
+    },
+    {
+      "id": "176:80",
+      "n": "img_menu_meter",
+      "ty": "RECTANGLE",
+      "p": "176:78",
+      "o": 1,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_meter/img_menu_meter",
+      "x": 29,
+      "y": 9,
+      "w": 73,
+      "h": 73,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "046beacbc934de546f68248cd8263a3423a7e73d",
+          "sm": "FIT"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": "046beacbc934de546f68248cd8263a3423a7e73d",
+      "t": null
+    },
+    {
+      "id": "176:81",
+      "n": "decor_meter_corner_1",
+      "ty": "RECTANGLE",
+      "p": "176:78",
+      "o": 2,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_meter/decor_meter_corner_1",
+      "x": 9,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:82",
+      "n": "decor_meter_corner_2",
+      "ty": "RECTANGLE",
+      "p": "176:78",
+      "o": 3,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_meter/decor_meter_corner_2",
+      "x": 9,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:83",
+      "n": "decor_meter_corner_3",
+      "ty": "RECTANGLE",
+      "p": "176:78",
+      "o": 4,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_meter/decor_meter_corner_3",
+      "x": 111,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:84",
+      "n": "decor_meter_corner_4",
+      "ty": "RECTANGLE",
+      "p": "176:78",
+      "o": 5,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_meter/decor_meter_corner_4",
+      "x": 121,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:85",
+      "n": "decor_meter_corner_5",
+      "ty": "RECTANGLE",
+      "p": "176:78",
+      "o": 6,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_meter/decor_meter_corner_5",
+      "x": 9,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:86",
+      "n": "decor_meter_corner_6",
+      "ty": "RECTANGLE",
+      "p": "176:78",
+      "o": 7,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_meter/decor_meter_corner_6",
+      "x": 9,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:87",
+      "n": "decor_meter_corner_7",
+      "ty": "RECTANGLE",
+      "p": "176:78",
+      "o": 8,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_meter/decor_meter_corner_7",
+      "x": 111,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:88",
+      "n": "decor_meter_corner_8",
+      "ty": "RECTANGLE",
+      "p": "176:78",
+      "o": 9,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_meter/decor_meter_corner_8",
+      "x": 121,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:89",
+      "n": "btn_menu_recorder",
+      "ty": "FRAME",
+      "p": "176:10",
+      "o": 7,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_recorder",
+      "x": 150,
+      "y": 124,
+      "w": 132,
+      "h": 104,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#070707",
+        255
+      ],
+      "s": [
+        "#2e2b26",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070707"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#2e2b26"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:90",
+      "n": "label_menu_recorder",
+      "ty": "TEXT",
+      "p": "176:89",
+      "o": 0,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_recorder/label_menu_recorder",
+      "x": 3,
+      "y": 76,
+      "w": 126,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Recorder",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 27
+      }
+    },
+    {
+      "id": "176:91",
+      "n": "img_menu_recorder",
+      "ty": "RECTANGLE",
+      "p": "176:89",
+      "o": 1,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_recorder/img_menu_recorder",
+      "x": 29.5,
+      "y": 3,
+      "w": 73,
+      "h": 73,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "ceb7b2efb31f9a4da67d2f004096d434d8726fd3",
+          "sm": "CROP"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": "ceb7b2efb31f9a4da67d2f004096d434d8726fd3",
+      "t": null
+    },
+    {
+      "id": "176:92",
+      "n": "decor_recorder_corner_1",
+      "ty": "RECTANGLE",
+      "p": "176:89",
+      "o": 2,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_recorder/decor_recorder_corner_1",
+      "x": 9,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:93",
+      "n": "decor_recorder_corner_2",
+      "ty": "RECTANGLE",
+      "p": "176:89",
+      "o": 3,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_recorder/decor_recorder_corner_2",
+      "x": 9,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:94",
+      "n": "decor_recorder_corner_3",
+      "ty": "RECTANGLE",
+      "p": "176:89",
+      "o": 4,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_recorder/decor_recorder_corner_3",
+      "x": 111,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:95",
+      "n": "decor_recorder_corner_4",
+      "ty": "RECTANGLE",
+      "p": "176:89",
+      "o": 5,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_recorder/decor_recorder_corner_4",
+      "x": 121,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:96",
+      "n": "decor_recorder_corner_5",
+      "ty": "RECTANGLE",
+      "p": "176:89",
+      "o": 6,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_recorder/decor_recorder_corner_5",
+      "x": 9,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:97",
+      "n": "decor_recorder_corner_6",
+      "ty": "RECTANGLE",
+      "p": "176:89",
+      "o": 7,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_recorder/decor_recorder_corner_6",
+      "x": 9,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:98",
+      "n": "decor_recorder_corner_7",
+      "ty": "RECTANGLE",
+      "p": "176:89",
+      "o": 8,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_recorder/decor_recorder_corner_7",
+      "x": 111,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:99",
+      "n": "decor_recorder_corner_8",
+      "ty": "RECTANGLE",
+      "p": "176:89",
+      "o": 9,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_recorder/decor_recorder_corner_8",
+      "x": 121,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:100",
+      "n": "btn_menu_function",
+      "ty": "FRAME",
+      "p": "176:10",
+      "o": 8,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_function",
+      "x": 290,
+      "y": 124,
+      "w": 132,
+      "h": 104,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#070707",
+        255
+      ],
+      "s": [
+        "#2e2b26",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070707"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#2e2b26"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:101",
+      "n": "label_menu_function",
+      "ty": "TEXT",
+      "p": "176:100",
+      "o": 0,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_function/label_menu_function",
+      "x": 3,
+      "y": 76,
+      "w": 126,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Function",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 27
+      }
+    },
+    {
+      "id": "176:102",
+      "n": "img_menu_function",
+      "ty": "RECTANGLE",
+      "p": "176:100",
+      "o": 1,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_function/img_menu_function",
+      "x": 29,
+      "y": 9,
+      "w": 73,
+      "h": 73,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "bb28b61dfd99e92d486350a7b001f7a8199650ec",
+          "sm": "FIT"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": "bb28b61dfd99e92d486350a7b001f7a8199650ec",
+      "t": null
+    },
+    {
+      "id": "176:103",
+      "n": "decor_function_corner_1",
+      "ty": "RECTANGLE",
+      "p": "176:100",
+      "o": 2,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_function/decor_function_corner_1",
+      "x": 9,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:104",
+      "n": "decor_function_corner_2",
+      "ty": "RECTANGLE",
+      "p": "176:100",
+      "o": 3,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_function/decor_function_corner_2",
+      "x": 9,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:105",
+      "n": "decor_function_corner_3",
+      "ty": "RECTANGLE",
+      "p": "176:100",
+      "o": 4,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_function/decor_function_corner_3",
+      "x": 111,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:106",
+      "n": "decor_function_corner_4",
+      "ty": "RECTANGLE",
+      "p": "176:100",
+      "o": 5,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_function/decor_function_corner_4",
+      "x": 121,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:107",
+      "n": "decor_function_corner_5",
+      "ty": "RECTANGLE",
+      "p": "176:100",
+      "o": 6,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_function/decor_function_corner_5",
+      "x": 9,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:108",
+      "n": "decor_function_corner_6",
+      "ty": "RECTANGLE",
+      "p": "176:100",
+      "o": 7,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_function/decor_function_corner_6",
+      "x": 9,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:109",
+      "n": "decor_function_corner_7",
+      "ty": "RECTANGLE",
+      "p": "176:100",
+      "o": 8,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_function/decor_function_corner_7",
+      "x": 111,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:110",
+      "n": "decor_function_corner_8",
+      "ty": "RECTANGLE",
+      "p": "176:100",
+      "o": 9,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_function/decor_function_corner_8",
+      "x": 121,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:111",
+      "n": "btn_menu_delays",
+      "ty": "FRAME",
+      "p": "176:10",
+      "o": 9,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_delays",
+      "x": 430,
+      "y": 124,
+      "w": 132,
+      "h": 104,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#070707",
+        255
+      ],
+      "s": [
+        "#2e2b26",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070707"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#2e2b26"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:112",
+      "n": "label_menu_delays",
+      "ty": "TEXT",
+      "p": "176:111",
+      "o": 0,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_delays/label_menu_delays",
+      "x": 3,
+      "y": 76,
+      "w": 126,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Delays",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 27
+      }
+    },
+    {
+      "id": "176:113",
+      "n": "img_menu_delays",
+      "ty": "RECTANGLE",
+      "p": "176:111",
+      "o": 1,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_delays/img_menu_delays",
+      "x": 29,
+      "y": 10,
+      "w": 73,
+      "h": 73,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "5974a16e3131c9317b372842bd618b73c4313929",
+          "sm": "FIT"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": "5974a16e3131c9317b372842bd618b73c4313929",
+      "t": null
+    },
+    {
+      "id": "176:114",
+      "n": "decor_delays_corner_1",
+      "ty": "RECTANGLE",
+      "p": "176:111",
+      "o": 2,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_delays/decor_delays_corner_1",
+      "x": 9,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:115",
+      "n": "decor_delays_corner_2",
+      "ty": "RECTANGLE",
+      "p": "176:111",
+      "o": 3,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_delays/decor_delays_corner_2",
+      "x": 9,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:116",
+      "n": "decor_delays_corner_3",
+      "ty": "RECTANGLE",
+      "p": "176:111",
+      "o": 4,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_delays/decor_delays_corner_3",
+      "x": 111,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:117",
+      "n": "decor_delays_corner_4",
+      "ty": "RECTANGLE",
+      "p": "176:111",
+      "o": 5,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_delays/decor_delays_corner_4",
+      "x": 121,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:118",
+      "n": "decor_delays_corner_5",
+      "ty": "RECTANGLE",
+      "p": "176:111",
+      "o": 6,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_delays/decor_delays_corner_5",
+      "x": 9,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:119",
+      "n": "decor_delays_corner_6",
+      "ty": "RECTANGLE",
+      "p": "176:111",
+      "o": 7,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_delays/decor_delays_corner_6",
+      "x": 9,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:120",
+      "n": "decor_delays_corner_7",
+      "ty": "RECTANGLE",
+      "p": "176:111",
+      "o": 8,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_delays/decor_delays_corner_7",
+      "x": 111,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:121",
+      "n": "decor_delays_corner_8",
+      "ty": "RECTANGLE",
+      "p": "176:111",
+      "o": 9,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_delays/decor_delays_corner_8",
+      "x": 121,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:122",
+      "n": "btn_menu_coupling",
+      "ty": "FRAME",
+      "p": "176:10",
+      "o": 10,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_coupling",
+      "x": 570,
+      "y": 124,
+      "w": 132,
+      "h": 104,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#070707",
+        255
+      ],
+      "s": [
+        "#2e2b26",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070707"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#2e2b26"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:123",
+      "n": "label_menu_coupling",
+      "ty": "TEXT",
+      "p": "176:122",
+      "o": 0,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_coupling/label_menu_coupling",
+      "x": 3,
+      "y": 76,
+      "w": 126,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Coupling",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 27
+      }
+    },
+    {
+      "id": "176:124",
+      "n": "img_menu_coupling",
+      "ty": "RECTANGLE",
+      "p": "176:122",
+      "o": 1,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_coupling/img_menu_coupling",
+      "x": 29,
+      "y": 9,
+      "w": 73,
+      "h": 73,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "4040025b5fcfc5af637a7212e26dabfefe713f80",
+          "sm": "FIT"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": "4040025b5fcfc5af637a7212e26dabfefe713f80",
+      "t": null
+    },
+    {
+      "id": "176:125",
+      "n": "decor_coupling_corner_1",
+      "ty": "RECTANGLE",
+      "p": "176:122",
+      "o": 2,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_coupling/decor_coupling_corner_1",
+      "x": 9,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:126",
+      "n": "decor_coupling_corner_2",
+      "ty": "RECTANGLE",
+      "p": "176:122",
+      "o": 3,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_coupling/decor_coupling_corner_2",
+      "x": 9,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:127",
+      "n": "decor_coupling_corner_3",
+      "ty": "RECTANGLE",
+      "p": "176:122",
+      "o": 4,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_coupling/decor_coupling_corner_3",
+      "x": 111,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:128",
+      "n": "decor_coupling_corner_4",
+      "ty": "RECTANGLE",
+      "p": "176:122",
+      "o": 5,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_coupling/decor_coupling_corner_4",
+      "x": 121,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:129",
+      "n": "decor_coupling_corner_5",
+      "ty": "RECTANGLE",
+      "p": "176:122",
+      "o": 6,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_coupling/decor_coupling_corner_5",
+      "x": 9,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:130",
+      "n": "decor_coupling_corner_6",
+      "ty": "RECTANGLE",
+      "p": "176:122",
+      "o": 7,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_coupling/decor_coupling_corner_6",
+      "x": 9,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:131",
+      "n": "decor_coupling_corner_7",
+      "ty": "RECTANGLE",
+      "p": "176:122",
+      "o": 8,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_coupling/decor_coupling_corner_7",
+      "x": 111,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:132",
+      "n": "decor_coupling_corner_8",
+      "ty": "RECTANGLE",
+      "p": "176:122",
+      "o": 9,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_coupling/decor_coupling_corner_8",
+      "x": 121,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:133",
+      "n": "btn_menu_group",
+      "ty": "FRAME",
+      "p": "176:10",
+      "o": 11,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_group",
+      "x": 710,
+      "y": 124,
+      "w": 132,
+      "h": 104,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#070707",
+        255
+      ],
+      "s": [
+        "#2e2b26",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070707"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#2e2b26"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:134",
+      "n": "label_menu_group",
+      "ty": "TEXT",
+      "p": "176:133",
+      "o": 0,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_group/label_menu_group",
+      "x": 3,
+      "y": 76,
+      "w": 126,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Group",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 27
+      }
+    },
+    {
+      "id": "176:135",
+      "n": "img_menu_group",
+      "ty": "RECTANGLE",
+      "p": "176:133",
+      "o": 1,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_group/img_menu_group",
+      "x": 34,
+      "y": 9,
+      "w": 73,
+      "h": 73,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "4b003ee52aaa6f2020e5ac496f81596de75202a8",
+          "sm": "FIT"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": "4b003ee52aaa6f2020e5ac496f81596de75202a8",
+      "t": null
+    },
+    {
+      "id": "176:136",
+      "n": "decor_group_corner_1",
+      "ty": "RECTANGLE",
+      "p": "176:133",
+      "o": 2,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_group/decor_group_corner_1",
+      "x": 9,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:137",
+      "n": "decor_group_corner_2",
+      "ty": "RECTANGLE",
+      "p": "176:133",
+      "o": 3,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_group/decor_group_corner_2",
+      "x": 9,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:138",
+      "n": "decor_group_corner_3",
+      "ty": "RECTANGLE",
+      "p": "176:133",
+      "o": 4,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_group/decor_group_corner_3",
+      "x": 111,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:139",
+      "n": "decor_group_corner_4",
+      "ty": "RECTANGLE",
+      "p": "176:133",
+      "o": 5,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_group/decor_group_corner_4",
+      "x": 121,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:140",
+      "n": "decor_group_corner_5",
+      "ty": "RECTANGLE",
+      "p": "176:133",
+      "o": 6,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_group/decor_group_corner_5",
+      "x": 9,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:141",
+      "n": "decor_group_corner_6",
+      "ty": "RECTANGLE",
+      "p": "176:133",
+      "o": 7,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_group/decor_group_corner_6",
+      "x": 9,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:142",
+      "n": "decor_group_corner_7",
+      "ty": "RECTANGLE",
+      "p": "176:133",
+      "o": 8,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_group/decor_group_corner_7",
+      "x": 111,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:143",
+      "n": "decor_group_corner_8",
+      "ty": "RECTANGLE",
+      "p": "176:133",
+      "o": 9,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_group/decor_group_corner_8",
+      "x": 121,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:144",
+      "n": "btn_menu_general",
+      "ty": "FRAME",
+      "p": "176:10",
+      "o": 12,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_general",
+      "x": 10,
+      "y": 245,
+      "w": 132,
+      "h": 104,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#070707",
+        255
+      ],
+      "s": [
+        "#2e2b26",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070707"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#2e2b26"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:145",
+      "n": "label_menu_general",
+      "ty": "TEXT",
+      "p": "176:144",
+      "o": 0,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_general/label_menu_general",
+      "x": 3,
+      "y": 76,
+      "w": 126,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "General",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 27
+      }
+    },
+    {
+      "id": "176:146",
+      "n": "img_menu_general",
+      "ty": "RECTANGLE",
+      "p": "176:144",
+      "o": 1,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_general/img_menu_general",
+      "x": 29,
+      "y": 10,
+      "w": 73,
+      "h": 73,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "478977dce46c67477adf3102ed6572ca7b5885aa",
+          "sm": "FIT"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": "478977dce46c67477adf3102ed6572ca7b5885aa",
+      "t": null
+    },
+    {
+      "id": "176:147",
+      "n": "decor_general_corner_1",
+      "ty": "RECTANGLE",
+      "p": "176:144",
+      "o": 2,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_general/decor_general_corner_1",
+      "x": 9,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:148",
+      "n": "decor_general_corner_2",
+      "ty": "RECTANGLE",
+      "p": "176:144",
+      "o": 3,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_general/decor_general_corner_2",
+      "x": 9,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:149",
+      "n": "decor_general_corner_3",
+      "ty": "RECTANGLE",
+      "p": "176:144",
+      "o": 4,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_general/decor_general_corner_3",
+      "x": 111,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:150",
+      "n": "decor_general_corner_4",
+      "ty": "RECTANGLE",
+      "p": "176:144",
+      "o": 5,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_general/decor_general_corner_4",
+      "x": 121,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:151",
+      "n": "decor_general_corner_5",
+      "ty": "RECTANGLE",
+      "p": "176:144",
+      "o": 6,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_general/decor_general_corner_5",
+      "x": 9,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:152",
+      "n": "decor_general_corner_6",
+      "ty": "RECTANGLE",
+      "p": "176:144",
+      "o": 7,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_general/decor_general_corner_6",
+      "x": 9,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:153",
+      "n": "decor_general_corner_7",
+      "ty": "RECTANGLE",
+      "p": "176:144",
+      "o": 8,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_general/decor_general_corner_7",
+      "x": 111,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:154",
+      "n": "decor_general_corner_8",
+      "ty": "RECTANGLE",
+      "p": "176:144",
+      "o": 9,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_general/decor_general_corner_8",
+      "x": 121,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:155",
+      "n": "btn_menu_digital_io",
+      "ty": "FRAME",
+      "p": "176:10",
+      "o": 13,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_digital_io",
+      "x": 150,
+      "y": 245,
+      "w": 132,
+      "h": 104,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#070707",
+        255
+      ],
+      "s": [
+        "#2e2b26",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070707"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#2e2b26"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:156",
+      "n": "label_menu_digital_io",
+      "ty": "TEXT",
+      "p": "176:155",
+      "o": 0,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_digital_io/label_menu_digital_io",
+      "x": 3,
+      "y": 76,
+      "w": 126,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Digital IO",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 27
+      }
+    },
+    {
+      "id": "176:157",
+      "n": "img_menu_digital_io",
+      "ty": "RECTANGLE",
+      "p": "176:155",
+      "o": 1,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_digital_io/img_menu_digital_io",
+      "x": 29,
+      "y": 10,
+      "w": 73,
+      "h": 73,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "40d3edc34587924105b454af250b5a662b758a75",
+          "sm": "FIT"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": "40d3edc34587924105b454af250b5a662b758a75",
+      "t": null
+    },
+    {
+      "id": "176:158",
+      "n": "decor_digital_io_corner_1",
+      "ty": "RECTANGLE",
+      "p": "176:155",
+      "o": 2,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_digital_io/decor_digital_io_corner_1",
+      "x": 9,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:159",
+      "n": "decor_digital_io_corner_2",
+      "ty": "RECTANGLE",
+      "p": "176:155",
+      "o": 3,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_digital_io/decor_digital_io_corner_2",
+      "x": 9,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:160",
+      "n": "decor_digital_io_corner_3",
+      "ty": "RECTANGLE",
+      "p": "176:155",
+      "o": 4,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_digital_io/decor_digital_io_corner_3",
+      "x": 111,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:161",
+      "n": "decor_digital_io_corner_4",
+      "ty": "RECTANGLE",
+      "p": "176:155",
+      "o": 5,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_digital_io/decor_digital_io_corner_4",
+      "x": 121,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:162",
+      "n": "decor_digital_io_corner_5",
+      "ty": "RECTANGLE",
+      "p": "176:155",
+      "o": 6,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_digital_io/decor_digital_io_corner_5",
+      "x": 9,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:163",
+      "n": "decor_digital_io_corner_6",
+      "ty": "RECTANGLE",
+      "p": "176:155",
+      "o": 7,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_digital_io/decor_digital_io_corner_6",
+      "x": 9,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:164",
+      "n": "decor_digital_io_corner_7",
+      "ty": "RECTANGLE",
+      "p": "176:155",
+      "o": 8,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_digital_io/decor_digital_io_corner_7",
+      "x": 111,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:165",
+      "n": "decor_digital_io_corner_8",
+      "ty": "RECTANGLE",
+      "p": "176:155",
+      "o": 9,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_digital_io/decor_digital_io_corner_8",
+      "x": 121,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:166",
+      "n": "btn_menu_preference",
+      "ty": "FRAME",
+      "p": "176:10",
+      "o": 14,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_preference",
+      "x": 290,
+      "y": 245,
+      "w": 132,
+      "h": 104,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#070707",
+        255
+      ],
+      "s": [
+        "#2e2b26",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070707"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#2e2b26"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:167",
+      "n": "label_menu_preference",
+      "ty": "TEXT",
+      "p": "176:166",
+      "o": 0,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_preference/label_menu_preference",
+      "x": 2,
+      "y": 76,
+      "w": 128,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Preference",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 22
+      }
+    },
+    {
+      "id": "176:168",
+      "n": "img_menu_preference",
+      "ty": "RECTANGLE",
+      "p": "176:166",
+      "o": 1,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_preference/img_menu_preference",
+      "x": 29,
+      "y": 9,
+      "w": 73,
+      "h": 73,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "9be978dddfb3501d2bd9d6267e1c0df86aa7452a",
+          "sm": "FIT"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": "9be978dddfb3501d2bd9d6267e1c0df86aa7452a",
+      "t": null
+    },
+    {
+      "id": "176:169",
+      "n": "decor_preference_corner_1",
+      "ty": "RECTANGLE",
+      "p": "176:166",
+      "o": 2,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_preference/decor_preference_corner_1",
+      "x": 9,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:170",
+      "n": "decor_preference_corner_2",
+      "ty": "RECTANGLE",
+      "p": "176:166",
+      "o": 3,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_preference/decor_preference_corner_2",
+      "x": 9,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:171",
+      "n": "decor_preference_corner_3",
+      "ty": "RECTANGLE",
+      "p": "176:166",
+      "o": 4,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_preference/decor_preference_corner_3",
+      "x": 111,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:172",
+      "n": "decor_preference_corner_4",
+      "ty": "RECTANGLE",
+      "p": "176:166",
+      "o": 5,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_preference/decor_preference_corner_4",
+      "x": 121,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:173",
+      "n": "decor_preference_corner_5",
+      "ty": "RECTANGLE",
+      "p": "176:166",
+      "o": 6,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_preference/decor_preference_corner_5",
+      "x": 9,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:174",
+      "n": "decor_preference_corner_6",
+      "ty": "RECTANGLE",
+      "p": "176:166",
+      "o": 7,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_preference/decor_preference_corner_6",
+      "x": 9,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:175",
+      "n": "decor_preference_corner_7",
+      "ty": "RECTANGLE",
+      "p": "176:166",
+      "o": 8,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_preference/decor_preference_corner_7",
+      "x": 111,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:176",
+      "n": "decor_preference_corner_8",
+      "ty": "RECTANGLE",
+      "p": "176:166",
+      "o": 9,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_preference/decor_preference_corner_8",
+      "x": 121,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:177",
+      "n": "btn_menu_log",
+      "ty": "FRAME",
+      "p": "176:10",
+      "o": 15,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_log",
+      "x": 430,
+      "y": 245,
+      "w": 132,
+      "h": 104,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#070707",
+        255
+      ],
+      "s": [
+        "#2e2b26",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070707"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#2e2b26"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:178",
+      "n": "label_menu_log",
+      "ty": "TEXT",
+      "p": "176:177",
+      "o": 0,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_log/label_menu_log",
+      "x": 3,
+      "y": 76,
+      "w": 126,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Log",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 27
+      }
+    },
+    {
+      "id": "176:179",
+      "n": "img_menu_log",
+      "ty": "RECTANGLE",
+      "p": "176:177",
+      "o": 1,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_log/img_menu_log",
+      "x": 29,
+      "y": 9,
+      "w": 73,
+      "h": 73,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "b8312a1edaf4c9a99cd93b10d7b7408752cf16d7",
+          "sm": "FIT"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": "b8312a1edaf4c9a99cd93b10d7b7408752cf16d7",
+      "t": null
+    },
+    {
+      "id": "176:180",
+      "n": "decor_log_corner_1",
+      "ty": "RECTANGLE",
+      "p": "176:177",
+      "o": 2,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_log/decor_log_corner_1",
+      "x": 9,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:181",
+      "n": "decor_log_corner_2",
+      "ty": "RECTANGLE",
+      "p": "176:177",
+      "o": 3,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_log/decor_log_corner_2",
+      "x": 9,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:182",
+      "n": "decor_log_corner_3",
+      "ty": "RECTANGLE",
+      "p": "176:177",
+      "o": 4,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_log/decor_log_corner_3",
+      "x": 111,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:183",
+      "n": "decor_log_corner_4",
+      "ty": "RECTANGLE",
+      "p": "176:177",
+      "o": 5,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_log/decor_log_corner_4",
+      "x": 121,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:184",
+      "n": "decor_log_corner_5",
+      "ty": "RECTANGLE",
+      "p": "176:177",
+      "o": 6,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_log/decor_log_corner_5",
+      "x": 9,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:185",
+      "n": "decor_log_corner_6",
+      "ty": "RECTANGLE",
+      "p": "176:177",
+      "o": 7,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_log/decor_log_corner_6",
+      "x": 9,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:186",
+      "n": "decor_log_corner_7",
+      "ty": "RECTANGLE",
+      "p": "176:177",
+      "o": 8,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_log/decor_log_corner_7",
+      "x": 111,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:187",
+      "n": "decor_log_corner_8",
+      "ty": "RECTANGLE",
+      "p": "176:177",
+      "o": 9,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_log/decor_log_corner_8",
+      "x": 121,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:188",
+      "n": "btn_menu_admin",
+      "ty": "FRAME",
+      "p": "176:10",
+      "o": 16,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_admin",
+      "x": 570,
+      "y": 245,
+      "w": 132,
+      "h": 104,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#070707",
+        255
+      ],
+      "s": [
+        "#2e2b26",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070707"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#2e2b26"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:189",
+      "n": "label_menu_admin",
+      "ty": "TEXT",
+      "p": "176:188",
+      "o": 0,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_admin/label_menu_admin",
+      "x": 3,
+      "y": 76,
+      "w": 126,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Admin",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 27
+      }
+    },
+    {
+      "id": "176:190",
+      "n": "img_menu_admin",
+      "ty": "RECTANGLE",
+      "p": "176:188",
+      "o": 1,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_admin/img_menu_admin",
+      "x": 29,
+      "y": 9,
+      "w": 73,
+      "h": 73,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "f033b9dacd2fdbe43132fd95f8f7ac9c864620d6",
+          "sm": "FIT"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": "f033b9dacd2fdbe43132fd95f8f7ac9c864620d6",
+      "t": null
+    },
+    {
+      "id": "176:191",
+      "n": "decor_admin_corner_1",
+      "ty": "RECTANGLE",
+      "p": "176:188",
+      "o": 2,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_admin/decor_admin_corner_1",
+      "x": 9,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:192",
+      "n": "decor_admin_corner_2",
+      "ty": "RECTANGLE",
+      "p": "176:188",
+      "o": 3,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_admin/decor_admin_corner_2",
+      "x": 9,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:193",
+      "n": "decor_admin_corner_3",
+      "ty": "RECTANGLE",
+      "p": "176:188",
+      "o": 4,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_admin/decor_admin_corner_3",
+      "x": 111,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:194",
+      "n": "decor_admin_corner_4",
+      "ty": "RECTANGLE",
+      "p": "176:188",
+      "o": 5,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_admin/decor_admin_corner_4",
+      "x": 121,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:195",
+      "n": "decor_admin_corner_5",
+      "ty": "RECTANGLE",
+      "p": "176:188",
+      "o": 6,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_admin/decor_admin_corner_5",
+      "x": 9,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:196",
+      "n": "decor_admin_corner_6",
+      "ty": "RECTANGLE",
+      "p": "176:188",
+      "o": 7,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_admin/decor_admin_corner_6",
+      "x": 9,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:197",
+      "n": "decor_admin_corner_7",
+      "ty": "RECTANGLE",
+      "p": "176:188",
+      "o": 8,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_admin/decor_admin_corner_7",
+      "x": 111,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:198",
+      "n": "decor_admin_corner_8",
+      "ty": "RECTANGLE",
+      "p": "176:188",
+      "o": 9,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_admin/decor_admin_corner_8",
+      "x": 121,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:199",
+      "n": "btn_menu_communication",
+      "ty": "FRAME",
+      "p": "176:10",
+      "o": 17,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_communication",
+      "x": 710,
+      "y": 245,
+      "w": 132,
+      "h": 104,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#070707",
+        255
+      ],
+      "s": [
+        "#2e2b26",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070707"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#2e2b26"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:201",
+      "n": "img_menu_communication",
+      "ty": "RECTANGLE",
+      "p": "176:199",
+      "o": 0,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_communication/img_menu_communication",
+      "x": 29.5,
+      "y": 3,
+      "w": 73,
+      "h": 73,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "824160cabccd0a7ec1de2a3fb789dc05873ca868",
+          "sm": "FIT"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": "824160cabccd0a7ec1de2a3fb789dc05873ca868",
+      "t": null
+    },
+    {
+      "id": "176:202",
+      "n": "decor_communication_corner_1",
+      "ty": "RECTANGLE",
+      "p": "176:199",
+      "o": 1,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_communication/decor_communication_corner_1",
+      "x": 9,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:203",
+      "n": "decor_communication_corner_2",
+      "ty": "RECTANGLE",
+      "p": "176:199",
+      "o": 2,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_communication/decor_communication_corner_2",
+      "x": 9,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:204",
+      "n": "decor_communication_corner_3",
+      "ty": "RECTANGLE",
+      "p": "176:199",
+      "o": 3,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_communication/decor_communication_corner_3",
+      "x": 111,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:205",
+      "n": "decor_communication_corner_4",
+      "ty": "RECTANGLE",
+      "p": "176:199",
+      "o": 4,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_communication/decor_communication_corner_4",
+      "x": 121,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:206",
+      "n": "decor_communication_corner_5",
+      "ty": "RECTANGLE",
+      "p": "176:199",
+      "o": 5,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_communication/decor_communication_corner_5",
+      "x": 9,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:207",
+      "n": "decor_communication_corner_6",
+      "ty": "RECTANGLE",
+      "p": "176:199",
+      "o": 6,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_communication/decor_communication_corner_6",
+      "x": 9,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:208",
+      "n": "decor_communication_corner_7",
+      "ty": "RECTANGLE",
+      "p": "176:199",
+      "o": 7,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_communication/decor_communication_corner_7",
+      "x": 111,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:209",
+      "n": "decor_communication_corner_8",
+      "ty": "RECTANGLE",
+      "p": "176:199",
+      "o": 8,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_communication/decor_communication_corner_8",
+      "x": 121,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:200",
+      "n": "label_menu_communication",
+      "ty": "TEXT",
+      "p": "176:199",
+      "o": 9,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_communication/label_menu_communication",
+      "x": 2,
+      "y": 76,
+      "w": 128,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Communication",
+        "fs": 16,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 20
+      }
+    },
+    {
+      "id": "176:210",
+      "n": "btn_menu_info",
+      "ty": "FRAME",
+      "p": "176:10",
+      "o": 18,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_info",
+      "x": 10,
+      "y": 365,
+      "w": 132,
+      "h": 104,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#070707",
+        255
+      ],
+      "s": [
+        "#2e2b26",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070707"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#2e2b26"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:211",
+      "n": "label_menu_info",
+      "ty": "TEXT",
+      "p": "176:210",
+      "o": 0,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_info/label_menu_info",
+      "x": 3,
+      "y": 76,
+      "w": 126,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Info",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 27
+      }
+    },
+    {
+      "id": "176:212",
+      "n": "img_menu_info",
+      "ty": "RECTANGLE",
+      "p": "176:210",
+      "o": 1,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_info/img_menu_info",
+      "x": 29,
+      "y": 9,
+      "w": 73,
+      "h": 73,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "142545b990b3721e6d079222467db9ec00109dfb",
+          "sm": "FIT"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": "142545b990b3721e6d079222467db9ec00109dfb",
+      "t": null
+    },
+    {
+      "id": "176:213",
+      "n": "decor_info_corner_1",
+      "ty": "RECTANGLE",
+      "p": "176:210",
+      "o": 2,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_info/decor_info_corner_1",
+      "x": 9,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:214",
+      "n": "decor_info_corner_2",
+      "ty": "RECTANGLE",
+      "p": "176:210",
+      "o": 3,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_info/decor_info_corner_2",
+      "x": 9,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:215",
+      "n": "decor_info_corner_3",
+      "ty": "RECTANGLE",
+      "p": "176:210",
+      "o": 4,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_info/decor_info_corner_3",
+      "x": 111,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:216",
+      "n": "decor_info_corner_4",
+      "ty": "RECTANGLE",
+      "p": "176:210",
+      "o": 5,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_info/decor_info_corner_4",
+      "x": 121,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:217",
+      "n": "decor_info_corner_5",
+      "ty": "RECTANGLE",
+      "p": "176:210",
+      "o": 6,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_info/decor_info_corner_5",
+      "x": 9,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:218",
+      "n": "decor_info_corner_6",
+      "ty": "RECTANGLE",
+      "p": "176:210",
+      "o": 7,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_info/decor_info_corner_6",
+      "x": 9,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:219",
+      "n": "decor_info_corner_7",
+      "ty": "RECTANGLE",
+      "p": "176:210",
+      "o": 8,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_info/decor_info_corner_7",
+      "x": 111,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:220",
+      "n": "decor_info_corner_8",
+      "ty": "RECTANGLE",
+      "p": "176:210",
+      "o": 9,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_info/decor_info_corner_8",
+      "x": 121,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:221",
+      "n": "btn_menu_energy",
+      "ty": "FRAME",
+      "p": "176:10",
+      "o": 19,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_energy",
+      "x": 150,
+      "y": 365,
+      "w": 132,
+      "h": 104,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#070707",
+        255
+      ],
+      "s": [
+        "#2e2b26",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070707"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#2e2b26"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:222",
+      "n": "label_menu_energy",
+      "ty": "TEXT",
+      "p": "176:221",
+      "o": 0,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_energy/label_menu_energy",
+      "x": 3,
+      "y": 76,
+      "w": 126,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Energy",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 27
+      }
+    },
+    {
+      "id": "176:223",
+      "n": "img_menu_energy",
+      "ty": "RECTANGLE",
+      "p": "176:221",
+      "o": 1,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_energy/img_menu_energy",
+      "x": 29,
+      "y": 9,
+      "w": 73,
+      "h": 73,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "3e7e08f0085d08c2d85090e31c3d454da101f9ca",
+          "sm": "FIT"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": "3e7e08f0085d08c2d85090e31c3d454da101f9ca",
+      "t": null
+    },
+    {
+      "id": "176:224",
+      "n": "decor_energy_corner_1",
+      "ty": "RECTANGLE",
+      "p": "176:221",
+      "o": 2,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_energy/decor_energy_corner_1",
+      "x": 9,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:225",
+      "n": "decor_energy_corner_2",
+      "ty": "RECTANGLE",
+      "p": "176:221",
+      "o": 3,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_energy/decor_energy_corner_2",
+      "x": 9,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:226",
+      "n": "decor_energy_corner_3",
+      "ty": "RECTANGLE",
+      "p": "176:221",
+      "o": 4,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_energy/decor_energy_corner_3",
+      "x": 111,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:227",
+      "n": "decor_energy_corner_4",
+      "ty": "RECTANGLE",
+      "p": "176:221",
+      "o": 5,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_energy/decor_energy_corner_4",
+      "x": 121,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:228",
+      "n": "decor_energy_corner_5",
+      "ty": "RECTANGLE",
+      "p": "176:221",
+      "o": 6,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_energy/decor_energy_corner_5",
+      "x": 9,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:229",
+      "n": "decor_energy_corner_6",
+      "ty": "RECTANGLE",
+      "p": "176:221",
+      "o": 7,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_energy/decor_energy_corner_6",
+      "x": 9,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:230",
+      "n": "decor_energy_corner_7",
+      "ty": "RECTANGLE",
+      "p": "176:221",
+      "o": 8,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_energy/decor_energy_corner_7",
+      "x": 111,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:231",
+      "n": "decor_energy_corner_8",
+      "ty": "RECTANGLE",
+      "p": "176:221",
+      "o": 9,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_energy/decor_energy_corner_8",
+      "x": 121,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:232",
+      "n": "btn_menu_date",
+      "ty": "FRAME",
+      "p": "176:10",
+      "o": 20,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_date",
+      "x": 290,
+      "y": 365,
+      "w": 132,
+      "h": 104,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#070707",
+        255
+      ],
+      "s": [
+        "#2e2b26",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070707"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#2e2b26"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:233",
+      "n": "label_menu_date",
+      "ty": "TEXT",
+      "p": "176:232",
+      "o": 0,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_date/label_menu_date",
+      "x": 3,
+      "y": 76,
+      "w": 126,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Date",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 27
+      }
+    },
+    {
+      "id": "176:234",
+      "n": "img_menu_date",
+      "ty": "RECTANGLE",
+      "p": "176:232",
+      "o": 1,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_date/img_menu_date",
+      "x": 29,
+      "y": 9,
+      "w": 73,
+      "h": 73,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "2b115e838c62a5254d7510d696730ff976ed7b36",
+          "sm": "FIT"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": "2b115e838c62a5254d7510d696730ff976ed7b36",
+      "t": null
+    },
+    {
+      "id": "176:235",
+      "n": "decor_date_corner_1",
+      "ty": "RECTANGLE",
+      "p": "176:232",
+      "o": 2,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_date/decor_date_corner_1",
+      "x": 9,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:236",
+      "n": "decor_date_corner_2",
+      "ty": "RECTANGLE",
+      "p": "176:232",
+      "o": 3,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_date/decor_date_corner_2",
+      "x": 9,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:237",
+      "n": "decor_date_corner_3",
+      "ty": "RECTANGLE",
+      "p": "176:232",
+      "o": 4,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_date/decor_date_corner_3",
+      "x": 111,
+      "y": 9,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:238",
+      "n": "decor_date_corner_4",
+      "ty": "RECTANGLE",
+      "p": "176:232",
+      "o": 5,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_date/decor_date_corner_4",
+      "x": 121,
+      "y": 9,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:239",
+      "n": "decor_date_corner_5",
+      "ty": "RECTANGLE",
+      "p": "176:232",
+      "o": 6,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_date/decor_date_corner_5",
+      "x": 9,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:240",
+      "n": "decor_date_corner_6",
+      "ty": "RECTANGLE",
+      "p": "176:232",
+      "o": 7,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_date/decor_date_corner_6",
+      "x": 9,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:241",
+      "n": "decor_date_corner_7",
+      "ty": "RECTANGLE",
+      "p": "176:232",
+      "o": 8,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_date/decor_date_corner_7",
+      "x": 111,
+      "y": 93,
+      "w": 12,
+      "h": 2,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "176:242",
+      "n": "decor_date_corner_8",
+      "ty": "RECTANGLE",
+      "p": "176:232",
+      "o": 9,
+      "path": "HOME_MENU/cont_menu_function/btn_menu_date/decor_date_corner_8",
+      "x": 121,
+      "y": 83,
+      "w": 2,
+      "h": 12,
+      "v": true,
+      "op": 229,
+      "clip": false,
+      "f": [
+        "#6e6145",
+        199
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 199,
+          "c": "#6e6145"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 1,
+      "img": null,
+      "t": null
+    }
+  ]
+}

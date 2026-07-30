@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figma to GUI Guider Controlled Sync"
+  short_description: "Safely sync Figma designs into GUI Guider candidates"
+  default_prompt: "Use $figma-to-guiguider-controlled-sync to create and validate a safe GUI Guider candidate from this Figma design."

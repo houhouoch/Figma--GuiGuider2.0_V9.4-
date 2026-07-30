@@ -1,0 +1,2513 @@
+{
+  "schema": "figma-compact-manifest/v1",
+  "rootId": "199:2",
+  "total": 68,
+  "start": 0,
+  "limit": 68,
+  "nodes": [
+    {
+      "id": "199:2",
+      "n": "Menu_Config",
+      "ty": "FRAME",
+      "p": null,
+      "o": 0,
+      "path": "Menu_Config",
+      "x": -38,
+      "y": 847,
+      "w": 960,
+      "h": 240,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": null,
+      "s": null,
+      "fp": [],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:4",
+      "n": "cont_Config",
+      "ty": "FRAME",
+      "p": "199:2",
+      "o": 0,
+      "path": "Menu_Config/cont_Config",
+      "x": 105,
+      "y": 0,
+      "w": 855,
+      "h": 400,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#020202",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#020202"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:5",
+      "n": "cont_primary",
+      "ty": "FRAME",
+      "p": "221:4",
+      "o": 0,
+      "path": "Menu_Config/cont_Config/cont_primary",
+      "x": 20,
+      "y": 0,
+      "w": 815,
+      "h": 80,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": null,
+      "s": null,
+      "fp": [],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:6",
+      "n": "ddlist_Priority",
+      "ty": "FRAME",
+      "p": "221:5",
+      "o": 0,
+      "path": "Menu_Config/cont_Config/cont_primary/ddlist_Priority",
+      "x": 0,
+      "y": 20,
+      "w": 260,
+      "h": 58,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#060606",
+        255
+      ],
+      "s": [
+        "#242422",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:7",
+      "n": "label_Priority",
+      "ty": "TEXT",
+      "p": "221:6",
+      "o": 0,
+      "path": "Menu_Config/cont_Config/cont_primary/ddlist_Priority/label_Priority",
+      "x": 10,
+      "y": 1,
+      "w": 61,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#9e9e96",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#9e9e96"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Priority",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 22
+      }
+    },
+    {
+      "id": "221:8",
+      "n": "label_Priority_value",
+      "ty": "TEXT",
+      "p": "221:6",
+      "o": 1,
+      "path": "Menu_Config/cont_Config/cont_primary/ddlist_Priority/label_Priority_value",
+      "x": 10,
+      "y": 23,
+      "w": 240,
+      "h": 31,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Voltage",
+        "fs": 26,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": null
+      }
+    },
+    {
+      "id": "221:10",
+      "n": "label_type_set",
+      "ty": "FRAME",
+      "p": "221:5",
+      "o": 1,
+      "path": "Menu_Config/cont_Config/cont_primary/label_type_set",
+      "x": 280,
+      "y": 20,
+      "w": 260,
+      "h": 58,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#060606",
+        255
+      ],
+      "s": [
+        "#242422",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:11",
+      "n": "label_type",
+      "ty": "TEXT",
+      "p": "221:10",
+      "o": 0,
+      "path": "Menu_Config/cont_Config/cont_primary/label_type_set/label_type",
+      "x": 10,
+      "y": 1,
+      "w": 66,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#9e9e96",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#9e9e96"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Voltage",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 22
+      }
+    },
+    {
+      "id": "221:12",
+      "n": "label_type_value",
+      "ty": "TEXT",
+      "p": "221:10",
+      "o": 1,
+      "path": "Menu_Config/cont_Config/cont_primary/label_type_set/label_type_value",
+      "x": 10,
+      "y": 23,
+      "w": 240,
+      "h": 31,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "0.000 V",
+        "fs": 26,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": null
+      }
+    },
+    {
+      "id": "473:2",
+      "n": "decor_section_primary",
+      "ty": "RECTANGLE",
+      "p": "221:5",
+      "o": 2,
+      "path": "Menu_Config/cont_Config/cont_primary/decor_section_primary",
+      "x": 0,
+      "y": 9,
+      "w": 22,
+      "h": 1,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#cc993d",
+        229
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 229,
+          "c": "#cc993d"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "473:3",
+      "n": "label_section_primary",
+      "ty": "TEXT",
+      "p": "221:5",
+      "o": 3,
+      "path": "Menu_Config/cont_Config/cont_primary/label_section_primary",
+      "x": 30,
+      "y": 0,
+      "w": 176,
+      "h": 20,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#786e57",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#786e57"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "PRIMARY SETTINGS",
+        "fs": 16,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 20
+      }
+    },
+    {
+      "id": "221:14",
+      "n": "cont_slew",
+      "ty": "FRAME",
+      "p": "221:4",
+      "o": 1,
+      "path": "Menu_Config/cont_Config/cont_slew",
+      "x": 20,
+      "y": 80,
+      "w": 815,
+      "h": 80,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": null,
+      "s": null,
+      "fp": [],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:15",
+      "n": "label_Rise_set",
+      "ty": "FRAME",
+      "p": "221:14",
+      "o": 0,
+      "path": "Menu_Config/cont_Config/cont_slew/label_Rise_set",
+      "x": 0,
+      "y": 20,
+      "w": 260,
+      "h": 58,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#060606",
+        255
+      ],
+      "s": [
+        "#242422",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:16",
+      "n": "label_Rise",
+      "ty": "TEXT",
+      "p": "221:15",
+      "o": 0,
+      "path": "Menu_Config/cont_Config/cont_slew/label_Rise_set/label_Rise",
+      "x": 10,
+      "y": 1,
+      "w": 106,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#9e9e96",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#9e9e96"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Voltage Rise",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 22
+      }
+    },
+    {
+      "id": "221:17",
+      "n": "label_Rise_value",
+      "ty": "TEXT",
+      "p": "221:15",
+      "o": 1,
+      "path": "Menu_Config/cont_Config/cont_slew/label_Rise_set/label_Rise_value",
+      "x": 10,
+      "y": 22,
+      "w": 172,
+      "h": 31,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "23.456 A/ms",
+        "fs": 26,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": null
+      }
+    },
+    {
+      "id": "221:18",
+      "n": "img_Rise_max_disable",
+      "ty": "RECTANGLE",
+      "p": "221:15",
+      "o": 2,
+      "path": "Menu_Config/cont_Config/cont_slew/label_Rise_set/img_Rise_max_disable",
+      "x": 188,
+      "y": 27,
+      "w": 20,
+      "h": 20,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#060607",
+        255
+      ],
+      "s": [
+        "#80693b",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060607"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#80693b"
+        }
+      ],
+      "sw": 1,
+      "r": 2,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:19",
+      "n": "label_Rise_max",
+      "ty": "TEXT",
+      "p": "221:15",
+      "o": 3,
+      "path": "Menu_Config/cont_Config/cont_slew/label_Rise_set/label_Rise_max",
+      "x": 214,
+      "y": 27,
+      "w": 36,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#85827a",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#85827a"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Max",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 22
+      }
+    },
+    {
+      "id": "592:2",
+      "n": "img_Rise_max_enable",
+      "ty": "FRAME",
+      "p": "221:15",
+      "o": 4,
+      "path": "Menu_Config/cont_Config/cont_slew/label_Rise_set/img_Rise_max_enable",
+      "x": 193,
+      "y": 32,
+      "w": 10,
+      "h": 10,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": null,
+      "s": null,
+      "fp": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "568f6e304f0af38dc40808236d69761f28214112",
+          "sm": "FIT"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": "568f6e304f0af38dc40808236d69761f28214112",
+      "t": null
+    },
+    {
+      "id": "221:20",
+      "n": "label_Fall_set",
+      "ty": "FRAME",
+      "p": "221:14",
+      "o": 1,
+      "path": "Menu_Config/cont_Config/cont_slew/label_Fall_set",
+      "x": 280,
+      "y": 20,
+      "w": 260,
+      "h": 58,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#060606",
+        255
+      ],
+      "s": [
+        "#242422",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:21",
+      "n": "label_Fall",
+      "ty": "TEXT",
+      "p": "221:20",
+      "o": 0,
+      "path": "Menu_Config/cont_Config/cont_slew/label_Fall_set/label_Fall",
+      "x": 10,
+      "y": 1,
+      "w": 101,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#9e9e96",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#9e9e96"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Voltage Fall",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 22
+      }
+    },
+    {
+      "id": "221:22",
+      "n": "label_Fall_value",
+      "ty": "TEXT",
+      "p": "221:20",
+      "o": 1,
+      "path": "Menu_Config/cont_Config/cont_slew/label_Fall_set/label_Fall_value",
+      "x": 10,
+      "y": 23,
+      "w": 172,
+      "h": 31,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "12.000 V/ms",
+        "fs": 26,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": null
+      }
+    },
+    {
+      "id": "221:23",
+      "n": "img_Fall_max_disable",
+      "ty": "RECTANGLE",
+      "p": "221:20",
+      "o": 2,
+      "path": "Menu_Config/cont_Config/cont_slew/label_Fall_set/img_Fall_max_disable",
+      "x": 188,
+      "y": 27,
+      "w": 20,
+      "h": 20,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#060607",
+        255
+      ],
+      "s": [
+        "#80693b",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060607"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#80693b"
+        }
+      ],
+      "sw": 1,
+      "r": 2,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:24",
+      "n": "label_Fall_max",
+      "ty": "TEXT",
+      "p": "221:20",
+      "o": 3,
+      "path": "Menu_Config/cont_Config/cont_slew/label_Fall_set/label_Fall_max",
+      "x": 214,
+      "y": 27,
+      "w": 36,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#85827a",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#85827a"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Max",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 22
+      }
+    },
+    {
+      "id": "592:3",
+      "n": "img_Fall_max_enable",
+      "ty": "FRAME",
+      "p": "221:20",
+      "o": 4,
+      "path": "Menu_Config/cont_Config/cont_slew/label_Fall_set/img_Fall_max_enable",
+      "x": 193,
+      "y": 32,
+      "w": 10,
+      "h": 10,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": null,
+      "s": null,
+      "fp": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "568f6e304f0af38dc40808236d69761f28214112",
+          "sm": "FIT"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": "568f6e304f0af38dc40808236d69761f28214112",
+      "t": null
+    },
+    {
+      "id": "221:25",
+      "n": "cont_Tracking_slew",
+      "ty": "FRAME",
+      "p": "221:14",
+      "o": 2,
+      "path": "Menu_Config/cont_Config/cont_slew/cont_Tracking_slew",
+      "x": 560,
+      "y": 20,
+      "w": 255,
+      "h": 58,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#060606",
+        255
+      ],
+      "s": [
+        "#242422",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:26",
+      "n": "label_Rise_Tracking_slew",
+      "ty": "TEXT",
+      "p": "221:25",
+      "o": 0,
+      "path": "Menu_Config/cont_Config/cont_slew/cont_Tracking_slew/label_Rise_Tracking_slew",
+      "x": 10,
+      "y": 18,
+      "w": 115,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#9e9e96",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#9e9e96"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Tracking slew",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 22
+      }
+    },
+    {
+      "id": "221:27",
+      "n": "sw_Rise_Tracking_slew",
+      "ty": "FRAME",
+      "p": "221:25",
+      "o": 1,
+      "path": "Menu_Config/cont_Config/cont_slew/cont_Tracking_slew/sw_Rise_Tracking_slew",
+      "x": 145,
+      "y": 15,
+      "w": 64,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#0a0a0a",
+        255
+      ],
+      "s": [
+        "#4d422e",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#0a0a0a"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#4d422e"
+        }
+      ],
+      "sw": 1,
+      "r": 12,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:28",
+      "n": "img_Rise_Tracking_slew_knob",
+      "ty": "ELLIPSE",
+      "p": "221:27",
+      "o": 0,
+      "path": "Menu_Config/cont_Config/cont_slew/cont_Tracking_slew/sw_Rise_Tracking_slew/img_Rise_Tracking_slew_knob",
+      "x": 5,
+      "y": 5,
+      "w": 18,
+      "h": 18,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#bab096",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#bab096"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:29",
+      "n": "label_Rise_Tracking_slew_off",
+      "ty": "TEXT",
+      "p": "221:25",
+      "o": 2,
+      "path": "Menu_Config/cont_Config/cont_slew/cont_Tracking_slew/label_Rise_Tracking_slew_off",
+      "x": 218,
+      "y": 19,
+      "w": 29,
+      "h": 20,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#63635e",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#63635e"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "OFF",
+        "fs": 16,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 20
+      }
+    },
+    {
+      "id": "221:30",
+      "n": "decor_section_voltage_slew",
+      "ty": "RECTANGLE",
+      "p": "221:14",
+      "o": 3,
+      "path": "Menu_Config/cont_Config/cont_slew/decor_section_voltage_slew",
+      "x": 0,
+      "y": 9,
+      "w": 22,
+      "h": 1,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#cc993d",
+        229
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 229,
+          "c": "#cc993d"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:31",
+      "n": "label_section_voltage_slew",
+      "ty": "TEXT",
+      "p": "221:14",
+      "o": 4,
+      "path": "Menu_Config/cont_Config/cont_slew/label_section_voltage_slew",
+      "x": 30,
+      "y": 0,
+      "w": 135,
+      "h": 20,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#786e57",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#786e57"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "VOLTAGE SLEW",
+        "fs": 16,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 20
+      }
+    },
+    {
+      "id": "221:32",
+      "n": "cont_current_limits",
+      "ty": "FRAME",
+      "p": "221:4",
+      "o": 2,
+      "path": "Menu_Config/cont_Config/cont_current_limits",
+      "x": 20,
+      "y": 160,
+      "w": 815,
+      "h": 80,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": null,
+      "s": null,
+      "fp": [],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:33",
+      "n": "label_type_plimit_set",
+      "ty": "FRAME",
+      "p": "221:32",
+      "o": 0,
+      "path": "Menu_Config/cont_Config/cont_current_limits/label_type_plimit_set",
+      "x": 0,
+      "y": 20,
+      "w": 260,
+      "h": 58,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#060606",
+        255
+      ],
+      "s": [
+        "#242422",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:34",
+      "n": "label_type_plimit",
+      "ty": "TEXT",
+      "p": "221:33",
+      "o": 0,
+      "path": "Menu_Config/cont_Config/cont_current_limits/label_type_plimit_set/label_type_plimit",
+      "x": 10,
+      "y": 1,
+      "w": 61,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#9e9e96",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#9e9e96"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "+I Limit",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 22
+      }
+    },
+    {
+      "id": "221:35",
+      "n": "label_type_plimit_value",
+      "ty": "TEXT",
+      "p": "221:33",
+      "o": 1,
+      "path": "Menu_Config/cont_Config/cont_current_limits/label_type_plimit_set/label_type_plimit_value",
+      "x": 10,
+      "y": 23,
+      "w": 240,
+      "h": 31,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "20.400 A",
+        "fs": 26,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": null
+      }
+    },
+    {
+      "id": "221:36",
+      "n": "label_type_nlimit_set",
+      "ty": "FRAME",
+      "p": "221:32",
+      "o": 1,
+      "path": "Menu_Config/cont_Config/cont_current_limits/label_type_nlimit_set",
+      "x": 280,
+      "y": 20,
+      "w": 260,
+      "h": 58,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#060606",
+        255
+      ],
+      "s": [
+        "#242422",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:37",
+      "n": "label_type_nlimit",
+      "ty": "TEXT",
+      "p": "221:36",
+      "o": 0,
+      "path": "Menu_Config/cont_Config/cont_current_limits/label_type_nlimit_set/label_type_nlimit",
+      "x": 10,
+      "y": 1,
+      "w": 61,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#9e9e96",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#9e9e96"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "−I Limit",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 22
+      }
+    },
+    {
+      "id": "221:38",
+      "n": "label_type_nlimit_value",
+      "ty": "TEXT",
+      "p": "221:36",
+      "o": 1,
+      "path": "Menu_Config/cont_Config/cont_current_limits/label_type_nlimit_set/label_type_nlimit_value",
+      "x": 10,
+      "y": 23,
+      "w": 240,
+      "h": 31,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "−20.400 A",
+        "fs": 26,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": null
+      }
+    },
+    {
+      "id": "221:39",
+      "n": "cont_type_Tracking_Limits",
+      "ty": "FRAME",
+      "p": "221:32",
+      "o": 2,
+      "path": "Menu_Config/cont_Config/cont_current_limits/cont_type_Tracking_Limits",
+      "x": 560,
+      "y": 20,
+      "w": 255,
+      "h": 58,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#060606",
+        255
+      ],
+      "s": [
+        "#242422",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:40",
+      "n": "label_type_Tracking_Limits",
+      "ty": "TEXT",
+      "p": "221:39",
+      "o": 0,
+      "path": "Menu_Config/cont_Config/cont_current_limits/cont_type_Tracking_Limits/label_type_Tracking_Limits",
+      "x": 10,
+      "y": 18,
+      "w": 126,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#9e9e96",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#9e9e96"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Tracking Limits",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 22
+      }
+    },
+    {
+      "id": "221:41",
+      "n": "sw_type_Tracking_Limits",
+      "ty": "FRAME",
+      "p": "221:39",
+      "o": 1,
+      "path": "Menu_Config/cont_Config/cont_current_limits/cont_type_Tracking_Limits/sw_type_Tracking_Limits",
+      "x": 151,
+      "y": 17,
+      "w": 58,
+      "h": 24,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#0a0a0a",
+        255
+      ],
+      "s": [
+        "#4d422e",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#0a0a0a"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#4d422e"
+        }
+      ],
+      "sw": 1,
+      "r": 10,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:42",
+      "n": "img_type_Tracking_Limits_knob",
+      "ty": "ELLIPSE",
+      "p": "221:41",
+      "o": 0,
+      "path": "Menu_Config/cont_Config/cont_current_limits/cont_type_Tracking_Limits/sw_type_Tracking_Limits/img_type_Tracking_Limits_knob",
+      "x": 4,
+      "y": 4,
+      "w": 16,
+      "h": 16,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#bab096",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#bab096"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:43",
+      "n": "label_type_Tracking_Limits_off",
+      "ty": "TEXT",
+      "p": "221:39",
+      "o": 2,
+      "path": "Menu_Config/cont_Config/cont_current_limits/cont_type_Tracking_Limits/label_type_Tracking_Limits_off",
+      "x": 218,
+      "y": 19,
+      "w": 29,
+      "h": 20,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#63635e",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#63635e"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "OFF",
+        "fs": 16,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 20
+      }
+    },
+    {
+      "id": "221:44",
+      "n": "decor_section_current_limits",
+      "ty": "RECTANGLE",
+      "p": "221:32",
+      "o": 3,
+      "path": "Menu_Config/cont_Config/cont_current_limits/decor_section_current_limits",
+      "x": 0,
+      "y": 9,
+      "w": 22,
+      "h": 1,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#cc993d",
+        229
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 229,
+          "c": "#cc993d"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:45",
+      "n": "label_section_current_limits",
+      "ty": "TEXT",
+      "p": "221:32",
+      "o": 4,
+      "path": "Menu_Config/cont_Config/cont_current_limits/label_section_current_limits",
+      "x": 30,
+      "y": 0,
+      "w": 151,
+      "h": 20,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#786e57",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#786e57"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "CURRENT LIMITS",
+        "fs": 16,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 20
+      }
+    },
+    {
+      "id": "221:46",
+      "n": "cont_power_limits",
+      "ty": "FRAME",
+      "p": "221:4",
+      "o": 3,
+      "path": "Menu_Config/cont_Config/cont_power_limits",
+      "x": 20,
+      "y": 240,
+      "w": 815,
+      "h": 80,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": null,
+      "s": null,
+      "fp": [],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:47",
+      "n": "label_Power_pLimit_set",
+      "ty": "FRAME",
+      "p": "221:46",
+      "o": 0,
+      "path": "Menu_Config/cont_Config/cont_power_limits/label_Power_pLimit_set",
+      "x": 0,
+      "y": 20,
+      "w": 260,
+      "h": 58,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#060606",
+        255
+      ],
+      "s": [
+        "#242422",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:48",
+      "n": "label_Power_pLimit",
+      "ty": "TEXT",
+      "p": "221:47",
+      "o": 0,
+      "path": "Menu_Config/cont_Config/cont_power_limits/label_Power_pLimit_set/label_Power_pLimit",
+      "x": 10,
+      "y": 1,
+      "w": 110,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#9e9e96",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#9e9e96"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "+Power Limit",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 22
+      }
+    },
+    {
+      "id": "221:49",
+      "n": "label_Power_pLimit_value",
+      "ty": "TEXT",
+      "p": "221:47",
+      "o": 1,
+      "path": "Menu_Config/cont_Config/cont_power_limits/label_Power_pLimit_set/label_Power_pLimit_value",
+      "x": 10,
+      "y": 23,
+      "w": 240,
+      "h": 31,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "100.00 W",
+        "fs": 26,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": null
+      }
+    },
+    {
+      "id": "221:50",
+      "n": "label_Power_nLimit_set",
+      "ty": "FRAME",
+      "p": "221:46",
+      "o": 1,
+      "path": "Menu_Config/cont_Config/cont_power_limits/label_Power_nLimit_set",
+      "x": 280,
+      "y": 20,
+      "w": 260,
+      "h": 58,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#060606",
+        255
+      ],
+      "s": [
+        "#242422",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:51",
+      "n": "label_Power_nLimit",
+      "ty": "TEXT",
+      "p": "221:50",
+      "o": 0,
+      "path": "Menu_Config/cont_Config/cont_power_limits/label_Power_nLimit_set/label_Power_nLimit",
+      "x": 10,
+      "y": 1,
+      "w": 110,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#9e9e96",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#9e9e96"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "−Power Limit",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 22
+      }
+    },
+    {
+      "id": "221:52",
+      "n": "label_Power_nLimit_value",
+      "ty": "TEXT",
+      "p": "221:50",
+      "o": 1,
+      "path": "Menu_Config/cont_Config/cont_power_limits/label_Power_nLimit_set/label_Power_nLimit_value",
+      "x": 10,
+      "y": 23,
+      "w": 240,
+      "h": 31,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "−100.00 W",
+        "fs": 26,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": null
+      }
+    },
+    {
+      "id": "221:53",
+      "n": "cont_Tracking_Limits",
+      "ty": "FRAME",
+      "p": "221:46",
+      "o": 2,
+      "path": "Menu_Config/cont_Config/cont_power_limits/cont_Tracking_Limits",
+      "x": 560,
+      "y": 20,
+      "w": 255,
+      "h": 58,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#060606",
+        255
+      ],
+      "s": [
+        "#242422",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:54",
+      "n": "label_Tracking_Limits",
+      "ty": "TEXT",
+      "p": "221:53",
+      "o": 0,
+      "path": "Menu_Config/cont_Config/cont_power_limits/cont_Tracking_Limits/label_Tracking_Limits",
+      "x": 10,
+      "y": 18,
+      "w": 126,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#9e9e96",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#9e9e96"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Tracking Limits",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 22
+      }
+    },
+    {
+      "id": "221:55",
+      "n": "sw_Tracking_Limits",
+      "ty": "FRAME",
+      "p": "221:53",
+      "o": 1,
+      "path": "Menu_Config/cont_Config/cont_power_limits/cont_Tracking_Limits/sw_Tracking_Limits",
+      "x": 151,
+      "y": 17,
+      "w": 58,
+      "h": 24,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#0a0a0a",
+        255
+      ],
+      "s": [
+        "#4d422e",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#0a0a0a"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#4d422e"
+        }
+      ],
+      "sw": 1,
+      "r": 10,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:56",
+      "n": "img_Tracking_Limits_knob",
+      "ty": "ELLIPSE",
+      "p": "221:55",
+      "o": 0,
+      "path": "Menu_Config/cont_Config/cont_power_limits/cont_Tracking_Limits/sw_Tracking_Limits/img_Tracking_Limits_knob",
+      "x": 4,
+      "y": 4,
+      "w": 16,
+      "h": 16,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#bab096",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#bab096"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:57",
+      "n": "label_Tracking_Limits_off",
+      "ty": "TEXT",
+      "p": "221:53",
+      "o": 2,
+      "path": "Menu_Config/cont_Config/cont_power_limits/cont_Tracking_Limits/label_Tracking_Limits_off",
+      "x": 218,
+      "y": 19,
+      "w": 29,
+      "h": 20,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#63635e",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#63635e"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "OFF",
+        "fs": 16,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 20
+      }
+    },
+    {
+      "id": "221:58",
+      "n": "decor_section_power_limits",
+      "ty": "RECTANGLE",
+      "p": "221:46",
+      "o": 3,
+      "path": "Menu_Config/cont_Config/cont_power_limits/decor_section_power_limits",
+      "x": 0,
+      "y": 9,
+      "w": 22,
+      "h": 1,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#cc993d",
+        229
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 229,
+          "c": "#cc993d"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:59",
+      "n": "label_section_power_limits",
+      "ty": "TEXT",
+      "p": "221:46",
+      "o": 4,
+      "path": "Menu_Config/cont_Config/cont_power_limits/label_section_power_limits",
+      "x": 30,
+      "y": 0,
+      "w": 131,
+      "h": 20,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#786e57",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#786e57"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "POWER LIMITS",
+        "fs": 16,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 20
+      }
+    },
+    {
+      "id": "221:60",
+      "n": "cont_internal_res",
+      "ty": "FRAME",
+      "p": "221:4",
+      "o": 4,
+      "path": "Menu_Config/cont_Config/cont_internal_res",
+      "x": 20,
+      "y": 320,
+      "w": 815,
+      "h": 80,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": null,
+      "s": null,
+      "fp": [],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:61",
+      "n": "cont_Res",
+      "ty": "FRAME",
+      "p": "221:60",
+      "o": 0,
+      "path": "Menu_Config/cont_Config/cont_internal_res/cont_Res",
+      "x": 0,
+      "y": 20,
+      "w": 815,
+      "h": 58,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#060606",
+        255
+      ],
+      "s": [
+        "#242422",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:62",
+      "n": "label_Res",
+      "ty": "TEXT",
+      "p": "221:61",
+      "o": 0,
+      "path": "Menu_Config/cont_Config/cont_internal_res/cont_Res/label_Res",
+      "x": 10,
+      "y": 1,
+      "w": 102,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#9e9e96",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#9e9e96"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Internal Res",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 22
+      }
+    },
+    {
+      "id": "221:63",
+      "n": "label_Res_value",
+      "ty": "TEXT",
+      "p": "221:61",
+      "o": 1,
+      "path": "Menu_Config/cont_Config/cont_internal_res/cont_Res/label_Res_value",
+      "x": 150,
+      "y": 23,
+      "w": 655,
+      "h": 31,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d6cf",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "1000.0 mΩ",
+        "fs": 26,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": null
+      }
+    },
+    {
+      "id": "221:64",
+      "n": "sw_label_Res",
+      "ty": "FRAME",
+      "p": "221:61",
+      "o": 2,
+      "path": "Menu_Config/cont_Config/cont_internal_res/cont_Res/sw_label_Res",
+      "x": 10,
+      "y": 23,
+      "w": 64,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#0a0a0a",
+        255
+      ],
+      "s": [
+        "#4d422e",
+        255
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#0a0a0a"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#4d422e"
+        }
+      ],
+      "sw": 1,
+      "r": 10,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:65",
+      "n": "img_Res_knob",
+      "ty": "ELLIPSE",
+      "p": "221:64",
+      "o": 0,
+      "path": "Menu_Config/cont_Config/cont_internal_res/cont_Res/sw_label_Res/img_Res_knob",
+      "x": 5,
+      "y": 5,
+      "w": 18,
+      "h": 18,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#bab096",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#bab096"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:66",
+      "n": "label_label_Res_off",
+      "ty": "TEXT",
+      "p": "221:61",
+      "o": 3,
+      "path": "Menu_Config/cont_Config/cont_internal_res/cont_Res/label_label_Res_off",
+      "x": 82,
+      "y": 27,
+      "w": 29,
+      "h": 20,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#63635e",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#63635e"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "OFF",
+        "fs": 16,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 20
+      }
+    },
+    {
+      "id": "221:67",
+      "n": "decor_section_internal_resistance",
+      "ty": "RECTANGLE",
+      "p": "221:60",
+      "o": 1,
+      "path": "Menu_Config/cont_Config/cont_internal_res/decor_section_internal_resistance",
+      "x": 0,
+      "y": 9,
+      "w": 22,
+      "h": 1,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#cc993d",
+        229
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 229,
+          "c": "#cc993d"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "221:68",
+      "n": "label_section_internal_resistance",
+      "ty": "TEXT",
+      "p": "221:60",
+      "o": 2,
+      "path": "Menu_Config/cont_Config/cont_internal_res/label_section_internal_resistance",
+      "x": 30,
+      "y": 0,
+      "w": 208,
+      "h": 20,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#786e57",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#786e57"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "INTERNAL RESISTANCE",
+        "fs": 16,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 20
+      }
+    }
+  ]
+}

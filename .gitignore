@@ -1,0 +1,30 @@
+# Local GUI Guider workspace
+/project/guiguider_2.0.guiguider
+/project/resources/font/*
+!/project/resources/font/README.md
+
+# Generated code and NXP simulator/toolchain files
+/generated/
+/platform/
+/artifacts/
+/build/
+/**/build/
+/external-assets/source/
+/docs/evidence/v9/heatmaps/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs and local reports
+*.log
+*.tmp
+*.bak

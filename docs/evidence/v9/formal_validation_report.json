@@ -1,0 +1,545 @@
+{
+  "schema_version": "figma-guiguider-validation/v2",
+  "screen_count": 31,
+  "candidate_node_count": 1716,
+  "source_node_count": 1756,
+  "source_text_count": 664,
+  "candidate_text_count": 664,
+  "text_missing": [],
+  "text_value_mismatches": [],
+  "text_size_mismatches": [],
+  "font_mismatches": [],
+  "parent_mismatches": [],
+  "layer_order_mismatches": [],
+  "visibility_mismatches": [],
+  "scrollbar_mismatches": [],
+  "unexpected_source_nodes_missing": [],
+  "unexpected_candidate_nodes": [],
+  "intentionally_flattened_nodes": [
+    "243:581",
+    "366:248",
+    "366:250",
+    "366:252",
+    "366:254",
+    "366:256",
+    "366:258",
+    "366:260",
+    "366:262",
+    "366:264",
+    "366:266",
+    "366:268",
+    "366:270",
+    "366:272",
+    "366:274",
+    "366:276",
+    "366:278"
+  ],
+  "switch_style_nodes": [
+    "217:104",
+    "217:112",
+    "217:125",
+    "217:80",
+    "217:88",
+    "217:96",
+    "221:28",
+    "221:42",
+    "221:56",
+    "221:65",
+    "243:139",
+    "243:181",
+    "243:191",
+    "243:204",
+    "243:220",
+    "243:226",
+    "243:614",
+    "243:626",
+    "366:127",
+    "366:129",
+    "366:131",
+    "366:133",
+    "366:135",
+    "366:137",
+    "366:139"
+  ],
+  "duplicate_names": [],
+  "duplicate_object_ids": [],
+  "duplicate_figma_ids": [],
+  "invalid_c_identifiers": [],
+  "invalid_labels": [],
+  "text_box_metric_issues": [],
+  "centered_text_issues": [],
+  "group_info_icon_border_ok": true,
+  "stale_nav_edges": [],
+  "delay_badge_center_offsets": [
+    {
+      "name": "label_ch1_badge",
+      "half_pixel_offset": 1
+    },
+    {
+      "name": "label_ch2_badge",
+      "half_pixel_offset": 1
+    },
+    {
+      "name": "label_ch3_badge",
+      "half_pixel_offset": 1
+    },
+    {
+      "name": "label_ch4_badge",
+      "half_pixel_offset": 1
+    },
+    {
+      "name": "label_ch5_badge",
+      "half_pixel_offset": 1
+    },
+    {
+      "name": "label_ch6_badge",
+      "half_pixel_offset": 1
+    }
+  ],
+  "project_configuration_ok": true,
+  "default_screens": [
+    "Home"
+  ],
+  "baseline_non_screen_unchanged": true,
+  "baseline_business_unchanged": true,
+  "image_widget_count": 112,
+  "unique_image_resources": 49,
+  "image_resource_issues": [],
+  "horizontal_scroll_risks": [],
+  "scrollable_screens": [
+    "screen_coupling",
+    "screen_measure",
+    "screen_protect",
+    "screen_config",
+    "screen_digital_io",
+    "screen_admin",
+    "screen_communication"
+  ],
+  "scrollable_containers": [
+    "cont_menu_function",
+    "cont_info_list_cont"
+  ],
+  "visual_similarity": [
+    {
+      "figma_id": "71:3",
+      "name": "Home",
+      "score": 0.944107
+    },
+    {
+      "figma_id": "366:579",
+      "name": "screen_List",
+      "score": 0.946988
+    },
+    {
+      "figma_id": "366:347",
+      "name": "Menu_Communication",
+      "score": 0.969832
+    },
+    {
+      "figma_id": "130:6",
+      "name": "HOME_MENU",
+      "score": 0.971033
+    },
+    {
+      "figma_id": "217:2",
+      "name": "Menu_Protect",
+      "score": 0.973093
+    },
+    {
+      "figma_id": "243:524",
+      "name": "Menu_Group",
+      "score": 0.973131
+    },
+    {
+      "figma_id": "366:183",
+      "name": "Menu_General",
+      "score": 0.975015
+    },
+    {
+      "figma_id": "366:218",
+      "name": "Menu_Log",
+      "score": 0.975033
+    },
+    {
+      "figma_id": "366:495",
+      "name": "Menu_Date",
+      "score": 0.975243
+    },
+    {
+      "figma_id": "243:361",
+      "name": "Menu_Delays",
+      "score": 0.975858
+    },
+    {
+      "figma_id": "366:404",
+      "name": "Menu_Info",
+      "score": 0.976245
+    },
+    {
+      "figma_id": "243:187",
+      "name": "Menu_Trigger",
+      "score": 0.976469
+    },
+    {
+      "figma_id": "199:2",
+      "name": "Menu_Config",
+      "score": 0.977887
+    },
+    {
+      "figma_id": "366:777",
+      "name": "screen_file",
+      "score": 0.979047
+    },
+    {
+      "figma_id": "366:2",
+      "name": "Menu_Digital_IO",
+      "score": 0.981007
+    },
+    {
+      "figma_id": "365:5",
+      "name": "cont_mode_select_small",
+      "score": 0.982094
+    },
+    {
+      "figma_id": "366:683",
+      "name": "screen_Arb",
+      "score": 0.982096
+    },
+    {
+      "figma_id": "366:291",
+      "name": "Menu_Admin",
+      "score": 0.983303
+    },
+    {
+      "figma_id": "243:135",
+      "name": "Menu_Measure",
+      "score": 0.984102
+    },
+    {
+      "figma_id": "366:557",
+      "name": "Warnings_window",
+      "score": 0.985644
+    },
+    {
+      "figma_id": "243:433",
+      "name": "Menu_Coupling",
+      "score": 0.985714
+    },
+    {
+      "figma_id": "243:280",
+      "name": "Menu_Save",
+      "score": 0.986166
+    },
+    {
+      "figma_id": "243:331",
+      "name": "Menu_Function",
+      "score": 0.98638
+    },
+    {
+      "figma_id": "243:234",
+      "name": "Menu_Recall",
+      "score": 0.986423
+    },
+    {
+      "figma_id": "243:609",
+      "name": "Menu_Preference",
+      "score": 0.987022
+    },
+    {
+      "figma_id": "365:2",
+      "name": "cont_mode_select_large",
+      "score": 0.990182
+    },
+    {
+      "figma_id": "366:562",
+      "name": "Option_Select_Window",
+      "score": 0.991294
+    },
+    {
+      "figma_id": "130:2",
+      "name": "Back",
+      "score": 0.999668
+    },
+    {
+      "figma_id": "243:328",
+      "name": "Menu_Recorder",
+      "score": 1.0
+    },
+    {
+      "figma_id": "366:492",
+      "name": "Menu_Energy",
+      "score": 1.0
+    },
+    {
+      "figma_id": "366:841",
+      "name": "Menu_Meter",
+      "score": 1.0
+    }
+  ],
+  "regional_visual_similarity": [
+    {
+      "figma_id": "130:2",
+      "name": "Back",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\130_2.png",
+      "regions": []
+    },
+    {
+      "figma_id": "130:6",
+      "name": "HOME_MENU",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\130_6.png",
+      "regions": []
+    },
+    {
+      "figma_id": "199:2",
+      "name": "Menu_Config",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\199_2.png",
+      "regions": []
+    },
+    {
+      "figma_id": "217:2",
+      "name": "Menu_Protect",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\217_2.png",
+      "regions": []
+    },
+    {
+      "figma_id": "243:135",
+      "name": "Menu_Measure",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\243_135.png",
+      "regions": []
+    },
+    {
+      "figma_id": "243:187",
+      "name": "Menu_Trigger",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\243_187.png",
+      "regions": []
+    },
+    {
+      "figma_id": "243:234",
+      "name": "Menu_Recall",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\243_234.png",
+      "regions": []
+    },
+    {
+      "figma_id": "243:280",
+      "name": "Menu_Save",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\243_280.png",
+      "regions": []
+    },
+    {
+      "figma_id": "243:328",
+      "name": "Menu_Recorder",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\243_328.png",
+      "regions": []
+    },
+    {
+      "figma_id": "243:331",
+      "name": "Menu_Function",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\243_331.png",
+      "regions": []
+    },
+    {
+      "figma_id": "243:361",
+      "name": "Menu_Delays",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\243_361.png",
+      "regions": []
+    },
+    {
+      "figma_id": "243:433",
+      "name": "Menu_Coupling",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\243_433.png",
+      "regions": []
+    },
+    {
+      "figma_id": "243:524",
+      "name": "Menu_Group",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\243_524.png",
+      "regions": []
+    },
+    {
+      "figma_id": "243:609",
+      "name": "Menu_Preference",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\243_609.png",
+      "regions": []
+    },
+    {
+      "figma_id": "365:2",
+      "name": "cont_mode_select_large",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\365_2.png",
+      "regions": []
+    },
+    {
+      "figma_id": "365:5",
+      "name": "cont_mode_select_small",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\365_5.png",
+      "regions": []
+    },
+    {
+      "figma_id": "366:183",
+      "name": "Menu_General",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\366_183.png",
+      "regions": []
+    },
+    {
+      "figma_id": "366:2",
+      "name": "Menu_Digital_IO",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\366_2.png",
+      "regions": []
+    },
+    {
+      "figma_id": "366:218",
+      "name": "Menu_Log",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\366_218.png",
+      "regions": []
+    },
+    {
+      "figma_id": "366:291",
+      "name": "Menu_Admin",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\366_291.png",
+      "regions": []
+    },
+    {
+      "figma_id": "366:347",
+      "name": "Menu_Communication",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\366_347.png",
+      "regions": []
+    },
+    {
+      "figma_id": "366:404",
+      "name": "Menu_Info",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\366_404.png",
+      "regions": []
+    },
+    {
+      "figma_id": "366:492",
+      "name": "Menu_Energy",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\366_492.png",
+      "regions": []
+    },
+    {
+      "figma_id": "366:495",
+      "name": "Menu_Date",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\366_495.png",
+      "regions": []
+    },
+    {
+      "figma_id": "366:557",
+      "name": "Warnings_window",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\366_557.png",
+      "regions": []
+    },
+    {
+      "figma_id": "366:562",
+      "name": "Option_Select_Window",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\366_562.png",
+      "regions": []
+    },
+    {
+      "figma_id": "366:579",
+      "name": "screen_List",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\366_579.png",
+      "regions": []
+    },
+    {
+      "figma_id": "366:683",
+      "name": "screen_Arb",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\366_683.png",
+      "regions": []
+    },
+    {
+      "figma_id": "366:777",
+      "name": "screen_file",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\366_777.png",
+      "regions": []
+    },
+    {
+      "figma_id": "366:841",
+      "name": "Menu_Meter",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\366_841.png",
+      "regions": []
+    },
+    {
+      "figma_id": "71:3",
+      "name": "Home",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\71_3.png",
+      "regions": [
+        {
+          "name": "menu_icons",
+          "box": [
+            20,
+            156,
+            73,
+            189
+          ],
+          "score": 0.680751
+        },
+        {
+          "name": "critical_buttons",
+          "box": [
+            12,
+            46,
+            948,
+            234
+          ],
+          "score": 0.93619
+        },
+        {
+          "name": "titles",
+          "box": [
+            636,
+            4,
+            956,
+            61
+          ],
+          "score": 0.952086
+        },
+        {
+          "name": "voltage_value",
+          "box": [
+            92,
+            4,
+            632,
+            118
+          ],
+          "score": 0.959206
+        },
+        {
+          "name": "bottom_status",
+          "box": [
+            636,
+            196,
+            956,
+            236
+          ],
+          "score": 0.95922
+        },
+        {
+          "name": "units",
+          "box": [
+            92,
+            4,
+            634,
+            236
+          ],
+          "score": 0.960844
+        },
+        {
+          "name": "current_value",
+          "box": [
+            92,
+            122,
+            632,
+            236
+          ],
+          "score": 0.961387
+        }
+      ]
+    }
+  ],
+  "regional_visual_failures": [],
+  "minimum_regional_visual_similarity": 0.680751,
+  "minimum_visual_similarity": 0.944107,
+  "visual_baseline": 0.940617,
+  "minimum_visual_similarity_delta": 0.003489999999999993,
+  "blocking_issues": [],
+  "gui_guider_roundtrip_verified": false
+}

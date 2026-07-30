@@ -1,0 +1,35 @@
+{
+  "schema_version": "figma-controlled-sync-warnings/v1",
+  "blocking_count": 1,
+  "warnings": [
+    {
+      "severity": "blocking",
+      "category": "semantic_or_type_changed",
+      "page_name": "Home",
+      "old_figma_id": "689:2",
+      "new_figma_id": "689:2",
+      "old_name": "img_status_beep_no",
+      "new_name": "img_status_beep_no",
+      "old_path": "Home/panel_settings/panel_status_header/img_status_beep_no",
+      "new_path": "Home/panel_settings/panel_status_header/img_status_beep_no",
+      "detail": {
+        "old": [
+          "frame",
+          "container"
+        ],
+        "new": [
+          "frame",
+          "image"
+        ]
+      },
+      "recommended_guiguider_action": "检查事件、对象引用和资源后再改变 GUI Guider type",
+      "match_confidence": 1.0,
+      "may_affect_event_focus_or_business_code": true,
+      "existing_object_mapping": {
+        "object_id": "figma_ZWW2A422VGEI4",
+        "object_name": "img_status_beep_no",
+        "object_type": "container"
+      }
+    }
+  ]
+}

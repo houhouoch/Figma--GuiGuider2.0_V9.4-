@@ -1,0 +1,2756 @@
+{
+  "schema_version": "figma-source-node-tree/v1",
+  "root_id": "243:524",
+  "node_count": 69,
+  "nodes": [
+    {
+      "id": "243:524",
+      "name": "Menu_Group",
+      "node_type": "frame",
+      "parent_id": null,
+      "order": 0,
+      "path": "Menu_Group",
+      "x": 5182.0,
+      "y": 1183.0,
+      "width": 960.0,
+      "height": 240.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:526",
+      "name": "cont_Group",
+      "node_type": "frame",
+      "parent_id": "243:524",
+      "order": 0,
+      "path": "Menu_Group/cont_Group",
+      "x": 105.0,
+      "y": 0.0,
+      "width": 855.0,
+      "height": 240.0,
+      "fill": [
+        "#020202",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#020202"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:580",
+      "name": "cont_Group_Master",
+      "node_type": "frame",
+      "parent_id": "243:526",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Master",
+      "x": 10.0,
+      "y": 43.0,
+      "width": 550.0,
+      "height": 52.0,
+      "fill": [
+        "#030303",
+        255
+      ],
+      "stroke": [
+        "#29261f",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#030303"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#29261f"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:581",
+      "name": "label_master_title",
+      "node_type": "frame",
+      "parent_id": "243:580",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Master/label_master_title",
+      "x": 62.0,
+      "y": 9.0,
+      "width": 138.0,
+      "height": 34.0,
+      "fill": [
+        "#2b2623",
+        0
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 0,
+          "c": "#2b2623"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:582",
+      "name": "label_Master_title_text",
+      "node_type": "text",
+      "parent_id": "243:581",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Master/label_master_title/label_Master_title_text",
+      "x": -5.0,
+      "y": 6.0,
+      "width": 138.0,
+      "height": 23.0,
+      "fill": [
+        "#b8b5ab",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#b8b5ab"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "Group A with",
+      "font_size": 20,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "RIGHT",
+      "line_height": 22,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:583",
+      "name": "label_master_icon_box",
+      "node_type": "frame",
+      "parent_id": "243:580",
+      "order": 1,
+      "path": "Menu_Group/cont_Group/cont_Group_Master/label_master_icon_box",
+      "x": 12.0,
+      "y": 9.0,
+      "width": 34.0,
+      "height": 34.0,
+      "fill": [
+        "#2b2623",
+        100
+      ],
+      "stroke": [
+        "#d99613",
+        120
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 100,
+          "c": "#2b2623"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 120,
+          "c": "#d99613"
+        }
+      ],
+      "stroke_width": 1.5,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:586",
+      "name": "decor_master_separator",
+      "node_type": "frame",
+      "parent_id": "243:580",
+      "order": 2,
+      "path": "Menu_Group/cont_Group/cont_Group_Master/decor_master_separator",
+      "x": 255.9921875,
+      "y": 17.984375,
+      "width": 24.984399795532227,
+      "height": 30.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": false,
+      "clips_content": false,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:587",
+      "name": "decor_master_separator_vector",
+      "node_type": "vector",
+      "parent_id": "243:586",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Master/decor_master_separator/decor_master_separator_vector",
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 30.0,
+      "fill": null,
+      "stroke": [
+        "#d8c7a0",
+        55
+      ],
+      "fill_paints": [],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 55,
+          "c": "#d8c7a0"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:595",
+      "name": "ddlist_Group_Master",
+      "node_type": "frame",
+      "parent_id": "243:580",
+      "order": 3,
+      "path": "Menu_Group/cont_Group/cont_Group_Master/ddlist_Group_Master",
+      "x": 208.0,
+      "y": 7.0,
+      "width": 330.0,
+      "height": 38.0,
+      "fill": [
+        "#070706",
+        255
+      ],
+      "stroke": [
+        "#4d422e",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070706"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#4d422e"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:597",
+      "name": "label_Group_Master_value",
+      "node_type": "text",
+      "parent_id": "243:595",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Master/ddlist_Group_Master/label_Group_Master_value",
+      "x": 14.0,
+      "y": 7.0,
+      "width": 302.0,
+      "height": 24.0,
+      "fill": [
+        "#d6d4c9",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d4c9"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "NULL",
+      "font_size": 20,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 24,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:585",
+      "name": "label_master_icon_text",
+      "node_type": "text",
+      "parent_id": "243:580",
+      "order": 4,
+      "path": "Menu_Group/cont_Group/cont_Group_Master/label_master_icon_text",
+      "x": 24.0,
+      "y": 18.0,
+      "width": 11.0,
+      "height": 16.0,
+      "fill": [
+        "#b89e66",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#b89e66"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "M",
+      "font_size": 13,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "CENTER",
+      "line_height": 16,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:588",
+      "name": "cont_Group_Info",
+      "node_type": "frame",
+      "parent_id": "243:526",
+      "order": 1,
+      "path": "Menu_Group/cont_Group/cont_Group_Info",
+      "x": 10.0,
+      "y": 6.0,
+      "width": 832.0,
+      "height": 30.0,
+      "fill": [
+        "#030303",
+        255
+      ],
+      "stroke": [
+        "#242421",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#030303"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242421"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:591",
+      "name": "label_info_icon",
+      "node_type": "frame",
+      "parent_id": "243:588",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Info/label_info_icon",
+      "x": 10.0,
+      "y": 3.0,
+      "width": 24.0,
+      "height": 24.0,
+      "fill": null,
+      "stroke": [
+        "#d99613",
+        180
+      ],
+      "fill_paints": [],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 180,
+          "c": "#d99613"
+        }
+      ],
+      "stroke_width": 1.5,
+      "corner_radius": 14.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:592",
+      "name": "label_Info_icon_text",
+      "node_type": "text",
+      "parent_id": "243:591",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Info/label_info_icon/label_Info_icon_text",
+      "x": 10.0,
+      "y": 4.0,
+      "width": 5.0,
+      "height": 15.0,
+      "fill": [
+        "#b88f29",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#b88f29"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "i",
+      "font_size": 16,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "CENTER",
+      "line_height": 15,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:590",
+      "name": "label_info_text",
+      "node_type": "text",
+      "parent_id": "243:588",
+      "order": 1,
+      "path": "Menu_Group/cont_Group/cont_Group_Info/label_info_text",
+      "x": 44.0,
+      "y": 2.0,
+      "width": 694.0,
+      "height": 22.0,
+      "fill": [
+        "#9e9c91",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#9e9c91"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "Identical modules only for parallel grouping. Max six per group.",
+      "font_size": 23,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 22,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "760:2",
+      "name": "cont_Group_Channel_Row",
+      "node_type": "frame",
+      "parent_id": "243:526",
+      "order": 2,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row",
+      "x": 10.0,
+      "y": 103.0,
+      "width": 827.0,
+      "height": 55.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:574",
+      "name": "cont_Group_CH1",
+      "node_type": "frame",
+      "parent_id": "760:2",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH1",
+      "x": 0.0,
+      "y": 0.0,
+      "width": 132.0,
+      "height": 55.0,
+      "fill": [
+        "#040403",
+        255
+      ],
+      "stroke": [
+        "#262624",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#040403"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#262624"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:575",
+      "name": "label_ch1_name",
+      "node_type": "text",
+      "parent_id": "243:574",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH1/label_ch1_name",
+      "x": 88.0,
+      "y": 19.0,
+      "width": 34.0,
+      "height": 22.0,
+      "fill": [
+        "#b8b5ab",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#b8b5ab"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "CH1",
+      "font_size": 18,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 22,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:576",
+      "name": "label_ch1_badge",
+      "node_type": "frame",
+      "parent_id": "243:574",
+      "order": 1,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH1/label_ch1_badge",
+      "x": 44.0,
+      "y": 10.5,
+      "width": 34.0,
+      "height": 34.0,
+      "fill": [
+        "#2f80ed",
+        255
+      ],
+      "stroke": [
+        "#d8c7a0",
+        90
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#2f80ed"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 90,
+          "c": "#d8c7a0"
+        }
+      ],
+      "stroke_width": 1.5,
+      "corner_radius": 7.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:577",
+      "name": "label_ch1_badge_text",
+      "node_type": "text",
+      "parent_id": "243:576",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH1/label_ch1_badge/label_ch1_badge_text",
+      "x": 12.0,
+      "y": 7.0,
+      "width": 10.0,
+      "height": 20.0,
+      "fill": [
+        "#f4f1eb",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#f4f1eb"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "1",
+      "font_size": 16,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "CENTER",
+      "line_height": 20,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:578",
+      "name": "img_ch1_enable",
+      "node_type": "frame",
+      "parent_id": "243:574",
+      "order": 2,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH1/img_ch1_enable",
+      "x": 14.5,
+      "y": 20.5,
+      "width": 15.0,
+      "height": 15.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "568f6e304f0af38dc40808236d69761f28214112",
+          "sm": "FIT"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": "568f6e304f0af38dc40808236d69761f28214112",
+      "image_reference": null
+    },
+    {
+      "id": "243:579",
+      "name": "img_ch1_disable",
+      "node_type": "frame",
+      "parent_id": "243:574",
+      "order": 3,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH1/img_ch1_disable",
+      "x": 7.0,
+      "y": 13.0,
+      "width": 30.0,
+      "height": 30.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "e81bfe63c82157fdb24bddac20387485ea41c594",
+          "sm": "FIT"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": "e81bfe63c82157fdb24bddac20387485ea41c594",
+      "image_reference": null
+    },
+    {
+      "id": "243:566",
+      "name": "cont_Group_CH2",
+      "node_type": "frame",
+      "parent_id": "760:2",
+      "order": 1,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH2",
+      "x": 139.0,
+      "y": 0.0,
+      "width": 132.0,
+      "height": 55.0,
+      "fill": [
+        "#040403",
+        255
+      ],
+      "stroke": [
+        "#262624",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#040403"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#262624"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:567",
+      "name": "label_ch2_name",
+      "node_type": "text",
+      "parent_id": "243:566",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH2/label_ch2_name",
+      "x": 88.0,
+      "y": 19.0,
+      "width": 34.0,
+      "height": 22.0,
+      "fill": [
+        "#b8b5ab",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#b8b5ab"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "CH2",
+      "font_size": 18,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 22,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:568",
+      "name": "label_ch2_badge",
+      "node_type": "frame",
+      "parent_id": "243:566",
+      "order": 1,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH2/label_ch2_badge",
+      "x": 44.0,
+      "y": 10.5,
+      "width": 34.0,
+      "height": 34.0,
+      "fill": [
+        "#20a82c",
+        255
+      ],
+      "stroke": [
+        "#d8c7a0",
+        90
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#20a82c"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 90,
+          "c": "#d8c7a0"
+        }
+      ],
+      "stroke_width": 1.5,
+      "corner_radius": 7.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:569",
+      "name": "label_ch2_badge_text",
+      "node_type": "text",
+      "parent_id": "243:568",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH2/label_ch2_badge/label_ch2_badge_text",
+      "x": 12.0,
+      "y": 7.0,
+      "width": 10.0,
+      "height": 20.0,
+      "fill": [
+        "#f4f1eb",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#f4f1eb"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "2",
+      "font_size": 16,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "CENTER",
+      "line_height": 20,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:570",
+      "name": "img_ch2_enable",
+      "node_type": "frame",
+      "parent_id": "243:566",
+      "order": 2,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH2/img_ch2_enable",
+      "x": 14.5,
+      "y": 20.5,
+      "width": 15.0,
+      "height": 15.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "ad8ac0a4138658240603d84bf0dab1924b2ce916",
+          "sm": "FIT"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": "ad8ac0a4138658240603d84bf0dab1924b2ce916",
+      "image_reference": null
+    },
+    {
+      "id": "243:571",
+      "name": "img_ch2_disable",
+      "node_type": "frame",
+      "parent_id": "243:566",
+      "order": 3,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH2/img_ch2_disable",
+      "x": 7.0,
+      "y": 13.0,
+      "width": 30.0,
+      "height": 30.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "774d0a9b7ba49e2093bf817aef71e9e9caf574f9",
+          "sm": "FIT"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": "774d0a9b7ba49e2093bf817aef71e9e9caf574f9",
+      "image_reference": null
+    },
+    {
+      "id": "243:558",
+      "name": "cont_Group_CH3",
+      "node_type": "frame",
+      "parent_id": "760:2",
+      "order": 2,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH3",
+      "x": 278.0,
+      "y": 0.0,
+      "width": 132.0,
+      "height": 55.0,
+      "fill": [
+        "#040403",
+        255
+      ],
+      "stroke": [
+        "#262624",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#040403"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#262624"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:559",
+      "name": "label_ch3_name",
+      "node_type": "text",
+      "parent_id": "243:558",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH3/label_ch3_name",
+      "x": 88.0,
+      "y": 19.0,
+      "width": 34.0,
+      "height": 22.0,
+      "fill": [
+        "#b8b5ab",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#b8b5ab"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "CH3",
+      "font_size": 18,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 22,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:560",
+      "name": "label_ch3_badge",
+      "node_type": "frame",
+      "parent_id": "243:558",
+      "order": 1,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH3/label_ch3_badge",
+      "x": 44.0,
+      "y": 10.5,
+      "width": 34.0,
+      "height": 34.0,
+      "fill": [
+        "#d6b800",
+        255
+      ],
+      "stroke": [
+        "#d8c7a0",
+        90
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6b800"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 90,
+          "c": "#d8c7a0"
+        }
+      ],
+      "stroke_width": 1.5,
+      "corner_radius": 7.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:561",
+      "name": "label_ch3_badge_text",
+      "node_type": "text",
+      "parent_id": "243:560",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH3/label_ch3_badge/label_ch3_badge_text",
+      "x": 11.5,
+      "y": 7.0,
+      "width": 10.0,
+      "height": 20.0,
+      "fill": [
+        "#f4f1eb",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#f4f1eb"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "3",
+      "font_size": 16,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "CENTER",
+      "line_height": 20,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:562",
+      "name": "img_ch3_enable",
+      "node_type": "frame",
+      "parent_id": "243:558",
+      "order": 2,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH3/img_ch3_enable",
+      "x": 14.5,
+      "y": 20.5,
+      "width": 15.0,
+      "height": 15.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "ad8ac0a4138658240603d84bf0dab1924b2ce916",
+          "sm": "FIT"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": "ad8ac0a4138658240603d84bf0dab1924b2ce916",
+      "image_reference": null
+    },
+    {
+      "id": "243:563",
+      "name": "img_ch3_disable",
+      "node_type": "frame",
+      "parent_id": "243:558",
+      "order": 3,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH3/img_ch3_disable",
+      "x": 7.0,
+      "y": 13.0,
+      "width": 30.0,
+      "height": 30.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "774d0a9b7ba49e2093bf817aef71e9e9caf574f9",
+          "sm": "FIT"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": "774d0a9b7ba49e2093bf817aef71e9e9caf574f9",
+      "image_reference": null
+    },
+    {
+      "id": "243:550",
+      "name": "cont_Group_CH4",
+      "node_type": "frame",
+      "parent_id": "760:2",
+      "order": 3,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH4",
+      "x": 417.0,
+      "y": 0.0,
+      "width": 132.0,
+      "height": 55.0,
+      "fill": [
+        "#040403",
+        255
+      ],
+      "stroke": [
+        "#262624",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#040403"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#262624"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:551",
+      "name": "label_ch4_name",
+      "node_type": "text",
+      "parent_id": "243:550",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH4/label_ch4_name",
+      "x": 88.0,
+      "y": 19.0,
+      "width": 34.0,
+      "height": 22.0,
+      "fill": [
+        "#b8b5ab",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#b8b5ab"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "CH4",
+      "font_size": 18,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 22,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:552",
+      "name": "label_ch4_badge",
+      "node_type": "frame",
+      "parent_id": "243:550",
+      "order": 1,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH4/label_ch4_badge",
+      "x": 44.0,
+      "y": 10.5,
+      "width": 34.0,
+      "height": 34.0,
+      "fill": [
+        "#c51d1d",
+        255
+      ],
+      "stroke": [
+        "#d8c7a0",
+        90
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#c51d1d"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 90,
+          "c": "#d8c7a0"
+        }
+      ],
+      "stroke_width": 1.5,
+      "corner_radius": 7.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:553",
+      "name": "label_ch4_badge_text",
+      "node_type": "text",
+      "parent_id": "243:552",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH4/label_ch4_badge/label_ch4_badge_text",
+      "x": 11.5,
+      "y": 7.0,
+      "width": 10.0,
+      "height": 20.0,
+      "fill": [
+        "#f4f1eb",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#f4f1eb"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "4",
+      "font_size": 16,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "CENTER",
+      "line_height": 20,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:554",
+      "name": "img_ch4_enable",
+      "node_type": "frame",
+      "parent_id": "243:550",
+      "order": 2,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH4/img_ch4_enable",
+      "x": 14.5,
+      "y": 20.5,
+      "width": 15.0,
+      "height": 15.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "568f6e304f0af38dc40808236d69761f28214112",
+          "sm": "FIT"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": "568f6e304f0af38dc40808236d69761f28214112",
+      "image_reference": null
+    },
+    {
+      "id": "243:555",
+      "name": "img_ch4_disable",
+      "node_type": "frame",
+      "parent_id": "243:550",
+      "order": 3,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH4/img_ch4_disable",
+      "x": 7.0,
+      "y": 13.0,
+      "width": 30.0,
+      "height": 30.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "4b24ee4c02b3a28c6563c2e5b2e208999f2e88aa",
+          "sm": "FIT"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": "4b24ee4c02b3a28c6563c2e5b2e208999f2e88aa",
+      "image_reference": null
+    },
+    {
+      "id": "243:542",
+      "name": "cont_Group_CH5",
+      "node_type": "frame",
+      "parent_id": "760:2",
+      "order": 4,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH5",
+      "x": 556.0,
+      "y": 0.0,
+      "width": 132.0,
+      "height": 55.0,
+      "fill": [
+        "#040403",
+        255
+      ],
+      "stroke": [
+        "#262624",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#040403"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#262624"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:543",
+      "name": "label_ch5_name",
+      "node_type": "text",
+      "parent_id": "243:542",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH5/label_ch5_name",
+      "x": 88.0,
+      "y": 19.0,
+      "width": 34.0,
+      "height": 22.0,
+      "fill": [
+        "#b8b5ab",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#b8b5ab"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "CH5",
+      "font_size": 18,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 22,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:544",
+      "name": "label_ch5_badge",
+      "node_type": "frame",
+      "parent_id": "243:542",
+      "order": 1,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH5/label_ch5_badge",
+      "x": 44.0,
+      "y": 10.5,
+      "width": 34.0,
+      "height": 34.0,
+      "fill": [
+        "#10a8bd",
+        255
+      ],
+      "stroke": [
+        "#d8c7a0",
+        90
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#10a8bd"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 90,
+          "c": "#d8c7a0"
+        }
+      ],
+      "stroke_width": 1.5,
+      "corner_radius": 7.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:545",
+      "name": "label_ch5_badge_text",
+      "node_type": "text",
+      "parent_id": "243:544",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH5/label_ch5_badge/label_ch5_badge_text",
+      "x": 12.0,
+      "y": 7.0,
+      "width": 10.0,
+      "height": 20.0,
+      "fill": [
+        "#f4f1eb",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#f4f1eb"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "5",
+      "font_size": 16,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "CENTER",
+      "line_height": 20,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:546",
+      "name": "img_ch5_enable",
+      "node_type": "frame",
+      "parent_id": "243:542",
+      "order": 2,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH5/img_ch5_enable",
+      "x": 14.5,
+      "y": 20.5,
+      "width": 15.0,
+      "height": 15.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "ad8ac0a4138658240603d84bf0dab1924b2ce916",
+          "sm": "FIT"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": "ad8ac0a4138658240603d84bf0dab1924b2ce916",
+      "image_reference": null
+    },
+    {
+      "id": "243:547",
+      "name": "img_ch5_disable",
+      "node_type": "frame",
+      "parent_id": "243:542",
+      "order": 3,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH5/img_ch5_disable",
+      "x": 7.0,
+      "y": 13.0,
+      "width": 30.0,
+      "height": 30.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "774d0a9b7ba49e2093bf817aef71e9e9caf574f9",
+          "sm": "FIT"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": "774d0a9b7ba49e2093bf817aef71e9e9caf574f9",
+      "image_reference": null
+    },
+    {
+      "id": "243:534",
+      "name": "cont_Group_CH6",
+      "node_type": "frame",
+      "parent_id": "760:2",
+      "order": 5,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH6",
+      "x": 695.0,
+      "y": 0.0,
+      "width": 132.0,
+      "height": 55.0,
+      "fill": [
+        "#040403",
+        255
+      ],
+      "stroke": [
+        "#262624",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#040403"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#262624"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:535",
+      "name": "label_ch6_name",
+      "node_type": "text",
+      "parent_id": "243:534",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH6/label_ch6_name",
+      "x": 88.0,
+      "y": 19.0,
+      "width": 34.0,
+      "height": 22.0,
+      "fill": [
+        "#b8b5ab",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#b8b5ab"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "CH6",
+      "font_size": 18,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 22,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:536",
+      "name": "label_ch6_badge",
+      "node_type": "frame",
+      "parent_id": "243:534",
+      "order": 1,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH6/label_ch6_badge",
+      "x": 44.0,
+      "y": 10.5,
+      "width": 34.0,
+      "height": 34.0,
+      "fill": [
+        "#8a1cc6",
+        255
+      ],
+      "stroke": [
+        "#d8c7a0",
+        90
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#8a1cc6"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 90,
+          "c": "#d8c7a0"
+        }
+      ],
+      "stroke_width": 1.5,
+      "corner_radius": 7.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:537",
+      "name": "label_ch6_badge_text",
+      "node_type": "text",
+      "parent_id": "243:536",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH6/label_ch6_badge/label_ch6_badge_text",
+      "x": 11.5,
+      "y": 7.0,
+      "width": 10.0,
+      "height": 20.0,
+      "fill": [
+        "#f4f1eb",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#f4f1eb"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "6",
+      "font_size": 16,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "CENTER",
+      "line_height": 20,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:538",
+      "name": "img_ch6_enable",
+      "node_type": "frame",
+      "parent_id": "243:534",
+      "order": 2,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH6/img_ch6_enable",
+      "x": 14.5,
+      "y": 20.5,
+      "width": 15.0,
+      "height": 15.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "568f6e304f0af38dc40808236d69761f28214112",
+          "sm": "FIT"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": "568f6e304f0af38dc40808236d69761f28214112",
+      "image_reference": null
+    },
+    {
+      "id": "243:539",
+      "name": "img_ch6_disable",
+      "node_type": "frame",
+      "parent_id": "243:534",
+      "order": 3,
+      "path": "Menu_Group/cont_Group/cont_Group_Channel_Row/cont_Group_CH6/img_ch6_disable",
+      "x": 7.0,
+      "y": 13.0,
+      "width": 30.0,
+      "height": 30.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "774d0a9b7ba49e2093bf817aef71e9e9caf574f9",
+          "sm": "FIT"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": "774d0a9b7ba49e2093bf817aef71e9e9caf574f9",
+      "image_reference": null
+    },
+    {
+      "id": "760:3",
+      "name": "cont_Group_Assignments",
+      "node_type": "frame",
+      "parent_id": "243:526",
+      "order": 3,
+      "path": "Menu_Group/cont_Group/cont_Group_Assignments",
+      "x": 10.0,
+      "y": 166.0,
+      "width": 520.0,
+      "height": 66.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:530",
+      "name": "cont_Group_A",
+      "node_type": "frame",
+      "parent_id": "760:3",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Assignments/cont_Group_A",
+      "x": 0.0,
+      "y": 0.0,
+      "width": 255.0,
+      "height": 66.0,
+      "fill": [
+        "#030303",
+        255
+      ],
+      "stroke": [
+        "#262624",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#030303"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#262624"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:598",
+      "name": "btn_Group_A",
+      "node_type": "frame",
+      "parent_id": "243:530",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Assignments/cont_Group_A/btn_Group_A",
+      "x": 10.0,
+      "y": 29.0,
+      "width": 235.0,
+      "height": 31.0,
+      "fill": [
+        "#070706",
+        255
+      ],
+      "stroke": [
+        "#4d422e",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070706"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#4d422e"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:599",
+      "name": "label_Group_A_text",
+      "node_type": "text",
+      "parent_id": "243:598",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Assignments/cont_Group_A/btn_Group_A/label_Group_A_text",
+      "x": 82.0,
+      "y": 4.5,
+      "width": 70.0,
+      "height": 22.0,
+      "fill": [
+        "#d6d4c9",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d4c9"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "Group A",
+      "font_size": 18,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "CENTER",
+      "line_height": 22,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:532",
+      "name": "label_group_a_title",
+      "node_type": "text",
+      "parent_id": "243:530",
+      "order": 1,
+      "path": "Menu_Group/cont_Group/cont_Group_Assignments/cont_Group_A/label_group_a_title",
+      "x": 12.0,
+      "y": 5.0,
+      "width": 70.0,
+      "height": 22.0,
+      "fill": [
+        "#9e9c91",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#9e9c91"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "Group A",
+      "font_size": 18,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 22,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:527",
+      "name": "cont_Group_B",
+      "node_type": "frame",
+      "parent_id": "760:3",
+      "order": 1,
+      "path": "Menu_Group/cont_Group/cont_Group_Assignments/cont_Group_B",
+      "x": 265.0,
+      "y": 0.0,
+      "width": 255.0,
+      "height": 66.0,
+      "fill": [
+        "#030303",
+        255
+      ],
+      "stroke": [
+        "#262624",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#030303"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#262624"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:600",
+      "name": "btn_Group_B",
+      "node_type": "frame",
+      "parent_id": "243:527",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Assignments/cont_Group_B/btn_Group_B",
+      "x": 10.0,
+      "y": 29.0,
+      "width": 235.0,
+      "height": 31.0,
+      "fill": [
+        "#070706",
+        255
+      ],
+      "stroke": [
+        "#4d422e",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070706"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#4d422e"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:601",
+      "name": "label_Group_B_text",
+      "node_type": "text",
+      "parent_id": "243:600",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Assignments/cont_Group_B/btn_Group_B/label_Group_B_text",
+      "x": 83.5,
+      "y": 4.5,
+      "width": 69.0,
+      "height": 22.0,
+      "fill": [
+        "#d6d4c9",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d4c9"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "Group B",
+      "font_size": 18,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "CENTER",
+      "line_height": 22,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:529",
+      "name": "label_group_b_title",
+      "node_type": "text",
+      "parent_id": "243:527",
+      "order": 1,
+      "path": "Menu_Group/cont_Group/cont_Group_Assignments/cont_Group_B/label_group_b_title",
+      "x": 12.0,
+      "y": 5.0,
+      "width": 69.0,
+      "height": 22.0,
+      "fill": [
+        "#9e9c91",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#9e9c91"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "Group B",
+      "font_size": 18,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 22,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "760:4",
+      "name": "cont_Group_Actions",
+      "node_type": "frame",
+      "parent_id": "243:526",
+      "order": 4,
+      "path": "Menu_Group/cont_Group/cont_Group_Actions",
+      "x": 550.0,
+      "y": 184.0,
+      "width": 292.0,
+      "height": 40.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:602",
+      "name": "btn_Clear",
+      "node_type": "frame",
+      "parent_id": "760:4",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Actions/btn_Clear",
+      "x": 0.0,
+      "y": 0.0,
+      "width": 130.0,
+      "height": 40.0,
+      "fill": [
+        "#070706",
+        255
+      ],
+      "stroke": [
+        "#4d422e",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070706"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#4d422e"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:603",
+      "name": "label_Clear_text",
+      "node_type": "text",
+      "parent_id": "243:602",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Actions/btn_Clear/label_Clear_text",
+      "x": 44.0,
+      "y": 9.0,
+      "width": 45.0,
+      "height": 22.0,
+      "fill": [
+        "#d6d4c9",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d4c9"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "Clear",
+      "font_size": 18,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "RIGHT",
+      "line_height": 22,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:606",
+      "name": "img_Clear_icon",
+      "node_type": "frame",
+      "parent_id": "243:602",
+      "order": 1,
+      "path": "Menu_Group/cont_Group/cont_Group_Actions/btn_Clear/img_Clear_icon",
+      "x": 8.0,
+      "y": 5.0,
+      "width": 30.0,
+      "height": 30.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "IMAGE",
+          "op": 255,
+          "img": "ca0aecc65d4a6fa0815fbf5263079fb48227827e",
+          "sm": "FIT"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": "ca0aecc65d4a6fa0815fbf5263079fb48227827e",
+      "image_reference": null
+    },
+    {
+      "id": "243:604",
+      "name": "btn_Apply",
+      "node_type": "frame",
+      "parent_id": "760:4",
+      "order": 1,
+      "path": "Menu_Group/cont_Group/cont_Group_Actions/btn_Apply",
+      "x": 142.0,
+      "y": 0.0,
+      "width": 150.0,
+      "height": 40.0,
+      "fill": [
+        "#806124",
+        255
+      ],
+      "stroke": [
+        "#4d422e",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#806124"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#4d422e"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:605",
+      "name": "label_Apply_text",
+      "node_type": "text",
+      "parent_id": "243:604",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Actions/btn_Apply/label_Apply_text",
+      "x": 49.0,
+      "y": 9.0,
+      "width": 50.0,
+      "height": 22.0,
+      "fill": [
+        "#0d0d0a",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#0d0d0a"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "Apply",
+      "font_size": 18,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "RIGHT",
+      "line_height": 22,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:607",
+      "name": "label_Apply_icon",
+      "node_type": "frame",
+      "parent_id": "243:604",
+      "order": 1,
+      "path": "Menu_Group/cont_Group/cont_Group_Actions/btn_Apply/label_Apply_icon",
+      "x": 8.0,
+      "y": 6.0,
+      "width": 28.0,
+      "height": 28.0,
+      "fill": null,
+      "stroke": [
+        "#d99613",
+        180
+      ],
+      "fill_paints": [],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 180,
+          "c": "#d99613"
+        }
+      ],
+      "stroke_width": 1.5,
+      "corner_radius": 14.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "243:608",
+      "name": "label_Apply_icon_text",
+      "node_type": "text",
+      "parent_id": "243:607",
+      "order": 0,
+      "path": "Menu_Group/cont_Group/cont_Group_Actions/btn_Apply/label_Apply_icon/label_Apply_icon_text",
+      "x": 6.0,
+      "y": 4.0,
+      "width": 16.0,
+      "height": 20.0,
+      "fill": [
+        "#b8851a",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#b8851a"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "→",
+      "font_size": 16,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "CENTER",
+      "line_height": 20,
+      "image_hash": null,
+      "image_reference": null
+    }
+  ]
+}

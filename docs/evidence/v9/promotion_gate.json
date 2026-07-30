@@ -1,0 +1,47 @@
+{
+  "schema_version": "figma-controlled-sync-promotion-gate/v1",
+  "candidate_ready_for_review": true,
+  "eligible_for_formal_promotion": false,
+  "conditions": [
+    {
+      "name": "formal_project_hash_guard",
+      "satisfied": true,
+      "detail": "Formal .guiguider SHA-256 matches the task-start value."
+    },
+    {
+      "name": "automatic_structure_and_visual_validation",
+      "satisfied": true,
+      "detail": "No structural blockers or failed critical visual regions."
+    },
+    {
+      "name": "deterministic_generation",
+      "satisfied": true,
+      "detail": "Two candidate generations have identical SHA-256."
+    },
+    {
+      "name": "v8_converter_regression",
+      "satisfied": true,
+      "detail": "V8 object, resource, event, and configuration contracts remain stable."
+    },
+    {
+      "name": "type_change_manual_review",
+      "satisfied": false,
+      "detail": "Home/img_status_beep_no container-to-image change requires review."
+    },
+    {
+      "name": "gui_guider_open_save_roundtrip",
+      "satisfied": false,
+      "detail": "Automation was interrupted before a verified open/save/close roundtrip."
+    },
+    {
+      "name": "manual_page_review",
+      "satisfied": false,
+      "detail": "High-churn pages, scroll behavior, overlays, and Recall/Save must be inspected."
+    },
+    {
+      "name": "explicit_promotion_approval",
+      "satisfied": false,
+      "detail": "This run is required to stop at the candidate stage."
+    }
+  ]
+}

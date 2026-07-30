@@ -1,0 +1,899 @@
+{
+  "schema_version": "figma-local-raw-context-index/v2",
+  "manifest_version": 9,
+  "snapshot_version": "2026-07-29-v9-all-full-refresh",
+  "generated_at": "2026-07-29T11:11:36.231893+08:00",
+  "base_manifest": "v8_all_20260729_context/index.json",
+  "checksums_file": "checksums.json",
+  "source": {
+    "file_key": "Un9Yk92UDIlh910yFhVNdO",
+    "page_id": "71:2",
+    "tools": [
+      "figma_remote.use_figma",
+      "figma_remote.get_screenshot"
+    ],
+    "read_only": true,
+    "capture_mode": "remote_mcp_compact_chunks"
+  },
+  "root_inventory": {
+    "page_id": "71:2",
+    "top_level_count": 31,
+    "current": [
+      {
+        "id": "130:2",
+        "name": "Back",
+        "node_type": "frame",
+        "order": 0,
+        "x": -25.0,
+        "y": -371.0,
+        "width": 960.0,
+        "height": 240.0
+      },
+      {
+        "id": "71:3",
+        "name": "Home",
+        "node_type": "frame",
+        "order": 1,
+        "x": 0.0,
+        "y": 0.0,
+        "width": 960.0,
+        "height": 240.0
+      },
+      {
+        "id": "130:6",
+        "name": "HOME_MENU",
+        "node_type": "frame",
+        "order": 2,
+        "x": 0.0,
+        "y": 371.0,
+        "width": 960.0,
+        "height": 240.0
+      },
+      {
+        "id": "243:234",
+        "name": "Menu_Recall",
+        "node_type": "frame",
+        "order": 3,
+        "x": 4138.0,
+        "y": 847.0,
+        "width": 960.0,
+        "height": 240.0
+      },
+      {
+        "id": "243:280",
+        "name": "Menu_Save",
+        "node_type": "frame",
+        "order": 4,
+        "x": 5182.0,
+        "y": 847.0,
+        "width": 960.0,
+        "height": 240.0
+      },
+      {
+        "id": "243:328",
+        "name": "Menu_Recorder",
+        "node_type": "frame",
+        "order": 5,
+        "x": 1006.0,
+        "y": 1183.0,
+        "width": 960.0,
+        "height": 240.0
+      },
+      {
+        "id": "243:331",
+        "name": "Menu_Function",
+        "node_type": "frame",
+        "order": 6,
+        "x": 2050.0,
+        "y": 1183.0,
+        "width": 960.0,
+        "height": 240.0
+      },
+      {
+        "id": "243:361",
+        "name": "Menu_Delays",
+        "node_type": "frame",
+        "order": 7,
+        "x": 3094.0,
+        "y": 1183.0,
+        "width": 960.0,
+        "height": 240.0
+      },
+      {
+        "id": "243:433",
+        "name": "Menu_Coupling",
+        "node_type": "frame",
+        "order": 8,
+        "x": 4138.0,
+        "y": 1183.0,
+        "width": 960.0,
+        "height": 240.0
+      },
+      {
+        "id": "243:524",
+        "name": "Menu_Group",
+        "node_type": "frame",
+        "order": 9,
+        "x": 5182.0,
+        "y": 1183.0,
+        "width": 960.0,
+        "height": 240.0
+      },
+      {
+        "id": "243:609",
+        "name": "Menu_Preference",
+        "node_type": "frame",
+        "order": 10,
+        "x": 2050.0,
+        "y": 1519.0,
+        "width": 960.0,
+        "height": 240.0
+      },
+      {
+        "id": "243:187",
+        "name": "Menu_Trigger",
+        "node_type": "frame",
+        "order": 11,
+        "x": 3094.0,
+        "y": 847.0,
+        "width": 960.0,
+        "height": 240.0
+      },
+      {
+        "id": "243:135",
+        "name": "Menu_Measure",
+        "node_type": "frame",
+        "order": 12,
+        "x": 2050.0,
+        "y": 847.0,
+        "width": 960.0,
+        "height": 240.0
+      },
+      {
+        "id": "217:2",
+        "name": "Menu_Protect",
+        "node_type": "frame",
+        "order": 13,
+        "x": 1006.0,
+        "y": 847.0,
+        "width": 960.0,
+        "height": 240.0
+      },
+      {
+        "id": "199:2",
+        "name": "Menu_Config",
+        "node_type": "frame",
+        "order": 14,
+        "x": -38.0,
+        "y": 847.0,
+        "width": 960.0,
+        "height": 240.0
+      },
+      {
+        "id": "365:2",
+        "name": "cont_mode_select_large",
+        "node_type": "frame",
+        "order": 15,
+        "x": -38.0,
+        "y": 2364.0,
+        "width": 915.0,
+        "height": 220.0
+      },
+      {
+        "id": "365:5",
+        "name": "cont_mode_select_small",
+        "node_type": "frame",
+        "order": 16,
+        "x": 1171.0,
+        "y": 2364.0,
+        "width": 500.0,
+        "height": 200.0
+      },
+      {
+        "id": "366:2",
+        "name": "Menu_Digital_IO",
+        "node_type": "frame",
+        "order": 17,
+        "x": 1026.0,
+        "y": 1514.0,
+        "width": 960.0,
+        "height": 240.0
+      },
+      {
+        "id": "366:183",
+        "name": "Menu_General",
+        "node_type": "frame",
+        "order": 18,
+        "x": -38.0,
+        "y": 1514.0,
+        "width": 960.0,
+        "height": 240.0
+      },
+      {
+        "id": "366:218",
+        "name": "Menu_Log",
+        "node_type": "frame",
+        "order": 19,
+        "x": 3094.0,
+        "y": 1519.0,
+        "width": 960.0,
+        "height": 240.0
+      },
+      {
+        "id": "366:291",
+        "name": "Menu_Admin",
+        "node_type": "frame",
+        "order": 20,
+        "x": 4138.0,
+        "y": 1519.0,
+        "width": 960.0,
+        "height": 240.0
+      },
+      {
+        "id": "366:347",
+        "name": "Menu_Communication",
+        "node_type": "frame",
+        "order": 21,
+        "x": 5182.0,
+        "y": 1519.0,
+        "width": 960.0,
+        "height": 240.0
+      },
+      {
+        "id": "366:404",
+        "name": "Menu_Info",
+        "node_type": "frame",
+        "order": 22,
+        "x": -38.0,
+        "y": 1829.0,
+        "width": 960.0,
+        "height": 240.0
+      },
+      {
+        "id": "366:492",
+        "name": "Menu_Energy",
+        "node_type": "frame",
+        "order": 23,
+        "x": 3094.0,
+        "y": 1855.0,
+        "width": 960.0,
+        "height": 240.0
+      },
+      {
+        "id": "366:495",
+        "name": "Menu_Date",
+        "node_type": "frame",
+        "order": 24,
+        "x": 2050.0,
+        "y": 1855.0,
+        "width": 960.0,
+        "height": 240.0
+      },
+      {
+        "id": "366:557",
+        "name": "Warnings_window",
+        "node_type": "frame",
+        "order": 25,
+        "x": 1846.0,
+        "y": 2344.0,
+        "width": 960.0,
+        "height": 240.0
+      },
+      {
+        "id": "366:562",
+        "name": "Option_Select_Window",
+        "node_type": "frame",
+        "order": 26,
+        "x": 2856.0,
+        "y": 2344.0,
+        "width": 960.0,
+        "height": 240.0
+      },
+      {
+        "id": "366:579",
+        "name": "screen_List",
+        "node_type": "frame",
+        "order": 27,
+        "x": -38.0,
+        "y": 2782.0,
+        "width": 960.0,
+        "height": 240.0
+      },
+      {
+        "id": "366:683",
+        "name": "screen_Arb",
+        "node_type": "frame",
+        "order": 28,
+        "x": -38.0,
+        "y": 3224.0,
+        "width": 960.0,
+        "height": 240.0
+      },
+      {
+        "id": "366:777",
+        "name": "screen_file",
+        "node_type": "frame",
+        "order": 29,
+        "x": 1234.0,
+        "y": 2782.0,
+        "width": 960.0,
+        "height": 240.0
+      },
+      {
+        "id": "366:841",
+        "name": "Menu_Meter",
+        "node_type": "frame",
+        "order": 30,
+        "x": -38.0,
+        "y": 1183.0,
+        "width": 960.0,
+        "height": 240.0
+      }
+    ],
+    "added": [],
+    "deleted": [],
+    "renamed": [],
+    "capture_mode": "remote_mcp_compact_chunks",
+    "snapshot": "2026-07-29-v9-all-full-refresh"
+  },
+  "roots": [
+    {
+      "id": "130:2",
+      "name": "Back",
+      "target_name": "Back",
+      "kind": "screen",
+      "directory": "130_2",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/130_2.png",
+      "source_tree": "130_2/source_tree.json",
+      "compact_manifest": "130_2/manifest.json",
+      "node_count": 3,
+      "capture": {
+        "chunk_count": 1,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/130_2/manifest_0.json"
+        ]
+      }
+    },
+    {
+      "id": "71:3",
+      "name": "Home",
+      "target_name": "Home",
+      "kind": "screen",
+      "directory": "71_3",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/71_3.png",
+      "source_tree": "71_3/source_tree.json",
+      "compact_manifest": "71_3/manifest.json",
+      "node_count": 115,
+      "capture": {
+        "chunk_count": 3,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/71_3/manifest_0.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/71_3/manifest_40.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/71_3/manifest_80.json"
+        ]
+      }
+    },
+    {
+      "id": "130:6",
+      "name": "HOME_MENU",
+      "target_name": "HOME_MENU",
+      "kind": "screen",
+      "directory": "130_6",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/130_6.png",
+      "source_tree": "130_6/source_tree.json",
+      "compact_manifest": "130_6/manifest.json",
+      "node_count": 240,
+      "capture": {
+        "chunk_count": 6,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/130_6/manifest_0.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/130_6/manifest_40.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/130_6/manifest_80.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/130_6/manifest_120.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/130_6/manifest_160.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/130_6/manifest_200.json"
+        ]
+      }
+    },
+    {
+      "id": "243:234",
+      "name": "Menu_Recall",
+      "target_name": "screen_recall",
+      "kind": "screen",
+      "directory": "243_234",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/243_234.png",
+      "source_tree": "243_234/source_tree.json",
+      "compact_manifest": "243_234/manifest.json",
+      "node_count": 49,
+      "capture": {
+        "chunk_count": 2,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/243_234/manifest_0.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/243_234/manifest_40.json"
+        ]
+      }
+    },
+    {
+      "id": "243:280",
+      "name": "Menu_Save",
+      "target_name": "screen_save",
+      "kind": "screen",
+      "directory": "243_280",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/243_280.png",
+      "source_tree": "243_280/source_tree.json",
+      "compact_manifest": "243_280/manifest.json",
+      "node_count": 49,
+      "capture": {
+        "chunk_count": 2,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/243_280/manifest_0.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/243_280/manifest_40.json"
+        ]
+      }
+    },
+    {
+      "id": "243:328",
+      "name": "Menu_Recorder",
+      "target_name": "screen_recorder",
+      "kind": "screen",
+      "directory": "243_328",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/243_328.png",
+      "source_tree": "243_328/source_tree.json",
+      "compact_manifest": "243_328/manifest.json",
+      "node_count": 2,
+      "capture": {
+        "chunk_count": 1,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/243_328/manifest_0.json"
+        ]
+      }
+    },
+    {
+      "id": "243:331",
+      "name": "Menu_Function",
+      "target_name": "screen_function",
+      "kind": "screen",
+      "directory": "243_331",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/243_331.png",
+      "source_tree": "243_331/source_tree.json",
+      "compact_manifest": "243_331/manifest.json",
+      "node_count": 29,
+      "capture": {
+        "chunk_count": 1,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/243_331/manifest_0.json"
+        ]
+      }
+    },
+    {
+      "id": "243:361",
+      "name": "Menu_Delays",
+      "target_name": "screen_delays",
+      "kind": "screen",
+      "directory": "243_361",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/243_361.png",
+      "source_tree": "243_361/source_tree.json",
+      "compact_manifest": "243_361/manifest.json",
+      "node_count": 47,
+      "capture": {
+        "chunk_count": 2,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/243_361/manifest_0.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/243_361/manifest_40.json"
+        ]
+      }
+    },
+    {
+      "id": "243:433",
+      "name": "Menu_Coupling",
+      "target_name": "screen_coupling",
+      "kind": "screen",
+      "directory": "243_433",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/243_433.png",
+      "source_tree": "243_433/source_tree.json",
+      "compact_manifest": "243_433/manifest.json",
+      "node_count": 121,
+      "capture": {
+        "chunk_count": 4,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/243_433/manifest_0.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/243_433/manifest_40.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/243_433/manifest_80.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/243_433/manifest_120.json"
+        ]
+      }
+    },
+    {
+      "id": "243:524",
+      "name": "Menu_Group",
+      "target_name": "screen_group",
+      "kind": "screen",
+      "directory": "243_524",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/243_524.png",
+      "source_tree": "243_524/source_tree.json",
+      "compact_manifest": "243_524/manifest.json",
+      "node_count": 69,
+      "capture": {
+        "chunk_count": 2,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/243_524/manifest_0.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/243_524/manifest_40.json"
+        ]
+      }
+    },
+    {
+      "id": "243:609",
+      "name": "Menu_Preference",
+      "target_name": "screen_preference",
+      "kind": "screen",
+      "directory": "243_609",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/243_609.png",
+      "source_tree": "243_609/source_tree.json",
+      "compact_manifest": "243_609/manifest.json",
+      "node_count": 33,
+      "capture": {
+        "chunk_count": 1,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/243_609/manifest_0.json"
+        ]
+      }
+    },
+    {
+      "id": "243:187",
+      "name": "Menu_Trigger",
+      "target_name": "screen_trigger",
+      "kind": "screen",
+      "directory": "243_187",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/243_187.png",
+      "source_tree": "243_187/source_tree.json",
+      "compact_manifest": "243_187/manifest.json",
+      "node_count": 43,
+      "capture": {
+        "chunk_count": 2,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/243_187/manifest_0.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/243_187/manifest_40.json"
+        ]
+      }
+    },
+    {
+      "id": "243:135",
+      "name": "Menu_Measure",
+      "target_name": "screen_measure",
+      "kind": "screen",
+      "directory": "243_135",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/243_135.png",
+      "source_tree": "243_135/source_tree.json",
+      "compact_manifest": "243_135/manifest.json",
+      "node_count": 51,
+      "capture": {
+        "chunk_count": 2,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/243_135/manifest_0.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/243_135/manifest_40.json"
+        ]
+      }
+    },
+    {
+      "id": "217:2",
+      "name": "Menu_Protect",
+      "target_name": "screen_protect",
+      "kind": "screen",
+      "directory": "217_2",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/217_2.png",
+      "source_tree": "217_2/source_tree.json",
+      "compact_manifest": "217_2/manifest.json",
+      "node_count": 117,
+      "capture": {
+        "chunk_count": 3,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/217_2/manifest_0.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/217_2/manifest_40.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/217_2/manifest_80.json"
+        ]
+      }
+    },
+    {
+      "id": "199:2",
+      "name": "Menu_Config",
+      "target_name": "screen_config",
+      "kind": "screen",
+      "directory": "199_2",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/199_2.png",
+      "source_tree": "199_2/source_tree.json",
+      "compact_manifest": "199_2/manifest.json",
+      "node_count": 68,
+      "capture": {
+        "chunk_count": 2,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/199_2/manifest_0.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/199_2/manifest_40.json"
+        ]
+      }
+    },
+    {
+      "id": "365:2",
+      "name": "cont_mode_select_large",
+      "target_name": "screen_mode_select_large",
+      "kind": "overlay",
+      "directory": "365_2",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/365_2.png",
+      "source_tree": "365_2/source_tree.json",
+      "compact_manifest": "365_2/manifest.json",
+      "node_count": 3,
+      "capture": {
+        "chunk_count": 1,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/365_2/manifest_0.json"
+        ]
+      }
+    },
+    {
+      "id": "365:5",
+      "name": "cont_mode_select_small",
+      "target_name": "screen_mode_select_small",
+      "kind": "overlay",
+      "directory": "365_5",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/365_5.png",
+      "source_tree": "365_5/source_tree.json",
+      "compact_manifest": "365_5/manifest.json",
+      "node_count": 3,
+      "capture": {
+        "chunk_count": 1,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/365_5/manifest_0.json"
+        ]
+      }
+    },
+    {
+      "id": "366:2",
+      "name": "Menu_Digital_IO",
+      "target_name": "screen_digital_io",
+      "kind": "screen",
+      "directory": "366_2",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/366_2.png",
+      "source_tree": "366_2/source_tree.json",
+      "compact_manifest": "366_2/manifest.json",
+      "node_count": 129,
+      "capture": {
+        "chunk_count": 4,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/366_2/manifest_0.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/366_2/manifest_40.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/366_2/manifest_80.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/366_2/manifest_120.json"
+        ]
+      }
+    },
+    {
+      "id": "366:183",
+      "name": "Menu_General",
+      "target_name": "screen_general",
+      "kind": "screen",
+      "directory": "366_183",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/366_183.png",
+      "source_tree": "366_183/source_tree.json",
+      "compact_manifest": "366_183/manifest.json",
+      "node_count": 32,
+      "capture": {
+        "chunk_count": 1,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/366_183/manifest_0.json"
+        ]
+      }
+    },
+    {
+      "id": "366:218",
+      "name": "Menu_Log",
+      "target_name": "screen_log",
+      "kind": "screen",
+      "directory": "366_218",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/366_218.png",
+      "source_tree": "366_218/source_tree.json",
+      "compact_manifest": "366_218/manifest.json",
+      "node_count": 61,
+      "capture": {
+        "chunk_count": 2,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/366_218/manifest_0.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/366_218/manifest_40.json"
+        ]
+      }
+    },
+    {
+      "id": "366:291",
+      "name": "Menu_Admin",
+      "target_name": "screen_admin",
+      "kind": "screen",
+      "directory": "366_291",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/366_291.png",
+      "source_tree": "366_291/source_tree.json",
+      "compact_manifest": "366_291/manifest.json",
+      "node_count": 95,
+      "capture": {
+        "chunk_count": 3,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/366_291/manifest_0.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/366_291/manifest_40.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/366_291/manifest_80.json"
+        ]
+      }
+    },
+    {
+      "id": "366:347",
+      "name": "Menu_Communication",
+      "target_name": "screen_communication",
+      "kind": "screen",
+      "directory": "366_347",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/366_347.png",
+      "source_tree": "366_347/source_tree.json",
+      "compact_manifest": "366_347/manifest.json",
+      "node_count": 56,
+      "capture": {
+        "chunk_count": 2,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/366_347/manifest_0.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/366_347/manifest_40.json"
+        ]
+      }
+    },
+    {
+      "id": "366:404",
+      "name": "Menu_Info",
+      "target_name": "screen_info",
+      "kind": "screen",
+      "directory": "366_404",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/366_404.png",
+      "source_tree": "366_404/source_tree.json",
+      "compact_manifest": "366_404/manifest.json",
+      "node_count": 63,
+      "capture": {
+        "chunk_count": 2,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/366_404/manifest_0.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/366_404/manifest_40.json"
+        ]
+      }
+    },
+    {
+      "id": "366:492",
+      "name": "Menu_Energy",
+      "target_name": "screen_energy",
+      "kind": "screen",
+      "directory": "366_492",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/366_492.png",
+      "source_tree": "366_492/source_tree.json",
+      "compact_manifest": "366_492/manifest.json",
+      "node_count": 2,
+      "capture": {
+        "chunk_count": 1,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/366_492/manifest_0.json"
+        ]
+      }
+    },
+    {
+      "id": "366:495",
+      "name": "Menu_Date",
+      "target_name": "screen_date",
+      "kind": "screen",
+      "directory": "366_495",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/366_495.png",
+      "source_tree": "366_495/source_tree.json",
+      "compact_manifest": "366_495/manifest.json",
+      "node_count": 52,
+      "capture": {
+        "chunk_count": 2,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/366_495/manifest_0.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/366_495/manifest_40.json"
+        ]
+      }
+    },
+    {
+      "id": "366:557",
+      "name": "Warnings_window",
+      "target_name": "screen_warnings",
+      "kind": "screen",
+      "directory": "366_557",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/366_557.png",
+      "source_tree": "366_557/source_tree.json",
+      "compact_manifest": "366_557/manifest.json",
+      "node_count": 4,
+      "capture": {
+        "chunk_count": 1,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/366_557/manifest_0.json"
+        ]
+      }
+    },
+    {
+      "id": "366:562",
+      "name": "Option_Select_Window",
+      "target_name": "screen_option_select",
+      "kind": "screen",
+      "directory": "366_562",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/366_562.png",
+      "source_tree": "366_562/source_tree.json",
+      "compact_manifest": "366_562/manifest.json",
+      "node_count": 21,
+      "capture": {
+        "chunk_count": 1,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/366_562/manifest_0.json"
+        ]
+      }
+    },
+    {
+      "id": "366:579",
+      "name": "screen_List",
+      "target_name": "screen_list",
+      "kind": "screen",
+      "directory": "366_579",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/366_579.png",
+      "source_tree": "366_579/source_tree.json",
+      "compact_manifest": "366_579/manifest.json",
+      "node_count": 73,
+      "capture": {
+        "chunk_count": 2,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/366_579/manifest_0.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/366_579/manifest_40.json"
+        ]
+      }
+    },
+    {
+      "id": "366:683",
+      "name": "screen_Arb",
+      "target_name": "screen_arb",
+      "kind": "screen",
+      "directory": "366_683",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/366_683.png",
+      "source_tree": "366_683/source_tree.json",
+      "compact_manifest": "366_683/manifest.json",
+      "node_count": 77,
+      "capture": {
+        "chunk_count": 2,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/366_683/manifest_0.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/366_683/manifest_40.json"
+        ]
+      }
+    },
+    {
+      "id": "366:777",
+      "name": "screen_file",
+      "target_name": "screen_file",
+      "kind": "screen",
+      "directory": "366_777",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/366_777.png",
+      "source_tree": "366_777/source_tree.json",
+      "compact_manifest": "366_777/manifest.json",
+      "node_count": 47,
+      "capture": {
+        "chunk_count": 2,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/366_777/manifest_0.json",
+          "tools/artifacts/figma_v9_remote_capture/chunks/366_777/manifest_40.json"
+        ]
+      }
+    },
+    {
+      "id": "366:841",
+      "name": "Menu_Meter",
+      "target_name": "screen_meter",
+      "kind": "screen",
+      "directory": "366_841",
+      "screenshot": "manifests/v9_all_20260729_context/screenshots/366_841.png",
+      "source_tree": "366_841/source_tree.json",
+      "compact_manifest": "366_841/manifest.json",
+      "node_count": 2,
+      "capture": {
+        "chunk_count": 1,
+        "chunk_files": [
+          "tools/artifacts/figma_v9_remote_capture/chunks/366_841/manifest_0.json"
+        ]
+      }
+    }
+  ]
+}

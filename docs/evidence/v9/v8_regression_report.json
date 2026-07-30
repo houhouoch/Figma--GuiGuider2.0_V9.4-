@@ -1,0 +1,207 @@
+{
+  "schema_version": "1.0",
+  "passed": true,
+  "formal_sha256": "25c5da14485237da5c4bf2ea1ca46f817cbdcd9ea27962e12f8272294b23fc7f",
+  "regenerated_sha256": "1ccf8df06a87b4db9441a8add0bccacffaa063d0c9abcd167376596b88ca26c2",
+  "formal_figma_ids": 1579,
+  "regenerated_figma_ids": 1579,
+  "missing_ids": [],
+  "new_ids": [],
+  "non_screen_configuration_unchanged": true,
+  "contract_differences": [],
+  "accepted_visual_differences": [
+    {
+      "figma_id": "243:268",
+      "screen": "screen_recall",
+      "name": "label_slot_6_index_text",
+      "field": "x",
+      "formal": 6,
+      "regenerated": 9
+    },
+    {
+      "figma_id": "243:268",
+      "screen": "screen_recall",
+      "name": "label_slot_6_index_text",
+      "field": "y",
+      "formal": 5,
+      "regenerated": 4
+    },
+    {
+      "figma_id": "243:270",
+      "screen": "screen_recall",
+      "name": "label_slot_5_index_text",
+      "field": "x",
+      "formal": 6,
+      "regenerated": 9
+    },
+    {
+      "figma_id": "243:270",
+      "screen": "screen_recall",
+      "name": "label_slot_5_index_text",
+      "field": "y",
+      "formal": 5,
+      "regenerated": 4
+    },
+    {
+      "figma_id": "243:272",
+      "screen": "screen_recall",
+      "name": "label_slot_4_index_text",
+      "field": "x",
+      "formal": 6,
+      "regenerated": 9
+    },
+    {
+      "figma_id": "243:272",
+      "screen": "screen_recall",
+      "name": "label_slot_4_index_text",
+      "field": "y",
+      "formal": 5,
+      "regenerated": 4
+    },
+    {
+      "figma_id": "243:274",
+      "screen": "screen_recall",
+      "name": "label_slot_3_index_text",
+      "field": "x",
+      "formal": 6,
+      "regenerated": 9
+    },
+    {
+      "figma_id": "243:274",
+      "screen": "screen_recall",
+      "name": "label_slot_3_index_text",
+      "field": "y",
+      "formal": 5,
+      "regenerated": 4
+    },
+    {
+      "figma_id": "243:276",
+      "screen": "screen_recall",
+      "name": "label_slot_2_index_text",
+      "field": "x",
+      "formal": 6,
+      "regenerated": 9
+    },
+    {
+      "figma_id": "243:276",
+      "screen": "screen_recall",
+      "name": "label_slot_2_index_text",
+      "field": "y",
+      "formal": 3,
+      "regenerated": 4
+    },
+    {
+      "figma_id": "243:278",
+      "screen": "screen_recall",
+      "name": "label_slot_1_index_text",
+      "field": "x",
+      "formal": 6,
+      "regenerated": 9
+    },
+    {
+      "figma_id": "243:278",
+      "screen": "screen_recall",
+      "name": "label_slot_1_index_text",
+      "field": "y",
+      "formal": 3,
+      "regenerated": 4
+    },
+    {
+      "figma_id": "243:314",
+      "screen": "screen_save",
+      "name": "label_slot_6_index_text_243_314",
+      "field": "x",
+      "formal": 6,
+      "regenerated": 9
+    },
+    {
+      "figma_id": "243:314",
+      "screen": "screen_save",
+      "name": "label_slot_6_index_text_243_314",
+      "field": "y",
+      "formal": 5,
+      "regenerated": 4
+    },
+    {
+      "figma_id": "243:316",
+      "screen": "screen_save",
+      "name": "label_slot_5_index_text_243_316",
+      "field": "x",
+      "formal": 6,
+      "regenerated": 9
+    },
+    {
+      "figma_id": "243:316",
+      "screen": "screen_save",
+      "name": "label_slot_5_index_text_243_316",
+      "field": "y",
+      "formal": 5,
+      "regenerated": 4
+    },
+    {
+      "figma_id": "243:318",
+      "screen": "screen_save",
+      "name": "label_slot_4_index_text_243_318",
+      "field": "x",
+      "formal": 6,
+      "regenerated": 9
+    },
+    {
+      "figma_id": "243:318",
+      "screen": "screen_save",
+      "name": "label_slot_4_index_text_243_318",
+      "field": "y",
+      "formal": 5,
+      "regenerated": 4
+    },
+    {
+      "figma_id": "243:320",
+      "screen": "screen_save",
+      "name": "label_slot_3_index_text_243_320",
+      "field": "x",
+      "formal": 6,
+      "regenerated": 9
+    },
+    {
+      "figma_id": "243:320",
+      "screen": "screen_save",
+      "name": "label_slot_3_index_text_243_320",
+      "field": "y",
+      "formal": 5,
+      "regenerated": 4
+    },
+    {
+      "figma_id": "243:322",
+      "screen": "screen_save",
+      "name": "label_slot_2_index_text_243_322",
+      "field": "x",
+      "formal": 6,
+      "regenerated": 9
+    },
+    {
+      "figma_id": "243:322",
+      "screen": "screen_save",
+      "name": "label_slot_2_index_text_243_322",
+      "field": "y",
+      "formal": 5,
+      "regenerated": 4
+    },
+    {
+      "figma_id": "243:324",
+      "screen": "screen_save",
+      "name": "label_slot_1_index_text_243_324",
+      "field": "x",
+      "formal": 6,
+      "regenerated": 9
+    },
+    {
+      "figma_id": "243:324",
+      "screen": "screen_save",
+      "name": "label_slot_1_index_text_243_324",
+      "field": "y",
+      "formal": 5,
+      "regenerated": 4
+    }
+  ],
+  "assessment": "pass: no identity, schema, resource, event, or configuration regression"
+}

@@ -1,0 +1,425 @@
+{
+  "schema_version": "figma-guiguider-visual-validation/v1",
+  "visual_baseline": 0.940617,
+  "minimum_visual_similarity": 0.944107,
+  "minimum_visual_similarity_delta": 0.003489999999999993,
+  "minimum_regional_visual_similarity": 0.680751,
+  "visual_similarity": [
+    {
+      "figma_id": "71:3",
+      "name": "Home",
+      "score": 0.944107
+    },
+    {
+      "figma_id": "366:579",
+      "name": "screen_List",
+      "score": 0.946988
+    },
+    {
+      "figma_id": "366:347",
+      "name": "Menu_Communication",
+      "score": 0.969832
+    },
+    {
+      "figma_id": "130:6",
+      "name": "HOME_MENU",
+      "score": 0.971033
+    },
+    {
+      "figma_id": "217:2",
+      "name": "Menu_Protect",
+      "score": 0.973093
+    },
+    {
+      "figma_id": "243:524",
+      "name": "Menu_Group",
+      "score": 0.973131
+    },
+    {
+      "figma_id": "366:183",
+      "name": "Menu_General",
+      "score": 0.975015
+    },
+    {
+      "figma_id": "366:218",
+      "name": "Menu_Log",
+      "score": 0.975033
+    },
+    {
+      "figma_id": "366:495",
+      "name": "Menu_Date",
+      "score": 0.975243
+    },
+    {
+      "figma_id": "243:361",
+      "name": "Menu_Delays",
+      "score": 0.975858
+    },
+    {
+      "figma_id": "366:404",
+      "name": "Menu_Info",
+      "score": 0.976245
+    },
+    {
+      "figma_id": "243:187",
+      "name": "Menu_Trigger",
+      "score": 0.976469
+    },
+    {
+      "figma_id": "199:2",
+      "name": "Menu_Config",
+      "score": 0.977887
+    },
+    {
+      "figma_id": "366:777",
+      "name": "screen_file",
+      "score": 0.979047
+    },
+    {
+      "figma_id": "366:2",
+      "name": "Menu_Digital_IO",
+      "score": 0.981007
+    },
+    {
+      "figma_id": "365:5",
+      "name": "cont_mode_select_small",
+      "score": 0.982094
+    },
+    {
+      "figma_id": "366:683",
+      "name": "screen_Arb",
+      "score": 0.982096
+    },
+    {
+      "figma_id": "366:291",
+      "name": "Menu_Admin",
+      "score": 0.983303
+    },
+    {
+      "figma_id": "243:135",
+      "name": "Menu_Measure",
+      "score": 0.984102
+    },
+    {
+      "figma_id": "366:557",
+      "name": "Warnings_window",
+      "score": 0.985644
+    },
+    {
+      "figma_id": "243:433",
+      "name": "Menu_Coupling",
+      "score": 0.985714
+    },
+    {
+      "figma_id": "243:280",
+      "name": "Menu_Save",
+      "score": 0.986166
+    },
+    {
+      "figma_id": "243:331",
+      "name": "Menu_Function",
+      "score": 0.98638
+    },
+    {
+      "figma_id": "243:234",
+      "name": "Menu_Recall",
+      "score": 0.986423
+    },
+    {
+      "figma_id": "243:609",
+      "name": "Menu_Preference",
+      "score": 0.987022
+    },
+    {
+      "figma_id": "365:2",
+      "name": "cont_mode_select_large",
+      "score": 0.990182
+    },
+    {
+      "figma_id": "366:562",
+      "name": "Option_Select_Window",
+      "score": 0.991294
+    },
+    {
+      "figma_id": "130:2",
+      "name": "Back",
+      "score": 0.999668
+    },
+    {
+      "figma_id": "243:328",
+      "name": "Menu_Recorder",
+      "score": 1.0
+    },
+    {
+      "figma_id": "366:492",
+      "name": "Menu_Energy",
+      "score": 1.0
+    },
+    {
+      "figma_id": "366:841",
+      "name": "Menu_Meter",
+      "score": 1.0
+    }
+  ],
+  "regional_visual_similarity": [
+    {
+      "figma_id": "130:2",
+      "name": "Back",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\130_2.png",
+      "regions": []
+    },
+    {
+      "figma_id": "130:6",
+      "name": "HOME_MENU",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\130_6.png",
+      "regions": []
+    },
+    {
+      "figma_id": "199:2",
+      "name": "Menu_Config",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\199_2.png",
+      "regions": []
+    },
+    {
+      "figma_id": "217:2",
+      "name": "Menu_Protect",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\217_2.png",
+      "regions": []
+    },
+    {
+      "figma_id": "243:135",
+      "name": "Menu_Measure",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\243_135.png",
+      "regions": []
+    },
+    {
+      "figma_id": "243:187",
+      "name": "Menu_Trigger",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\243_187.png",
+      "regions": []
+    },
+    {
+      "figma_id": "243:234",
+      "name": "Menu_Recall",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\243_234.png",
+      "regions": []
+    },
+    {
+      "figma_id": "243:280",
+      "name": "Menu_Save",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\243_280.png",
+      "regions": []
+    },
+    {
+      "figma_id": "243:328",
+      "name": "Menu_Recorder",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\243_328.png",
+      "regions": []
+    },
+    {
+      "figma_id": "243:331",
+      "name": "Menu_Function",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\243_331.png",
+      "regions": []
+    },
+    {
+      "figma_id": "243:361",
+      "name": "Menu_Delays",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\243_361.png",
+      "regions": []
+    },
+    {
+      "figma_id": "243:433",
+      "name": "Menu_Coupling",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\243_433.png",
+      "regions": []
+    },
+    {
+      "figma_id": "243:524",
+      "name": "Menu_Group",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\243_524.png",
+      "regions": []
+    },
+    {
+      "figma_id": "243:609",
+      "name": "Menu_Preference",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\243_609.png",
+      "regions": []
+    },
+    {
+      "figma_id": "365:2",
+      "name": "cont_mode_select_large",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\365_2.png",
+      "regions": []
+    },
+    {
+      "figma_id": "365:5",
+      "name": "cont_mode_select_small",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\365_5.png",
+      "regions": []
+    },
+    {
+      "figma_id": "366:183",
+      "name": "Menu_General",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\366_183.png",
+      "regions": []
+    },
+    {
+      "figma_id": "366:2",
+      "name": "Menu_Digital_IO",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\366_2.png",
+      "regions": []
+    },
+    {
+      "figma_id": "366:218",
+      "name": "Menu_Log",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\366_218.png",
+      "regions": []
+    },
+    {
+      "figma_id": "366:291",
+      "name": "Menu_Admin",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\366_291.png",
+      "regions": []
+    },
+    {
+      "figma_id": "366:347",
+      "name": "Menu_Communication",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\366_347.png",
+      "regions": []
+    },
+    {
+      "figma_id": "366:404",
+      "name": "Menu_Info",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\366_404.png",
+      "regions": []
+    },
+    {
+      "figma_id": "366:492",
+      "name": "Menu_Energy",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\366_492.png",
+      "regions": []
+    },
+    {
+      "figma_id": "366:495",
+      "name": "Menu_Date",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\366_495.png",
+      "regions": []
+    },
+    {
+      "figma_id": "366:557",
+      "name": "Warnings_window",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\366_557.png",
+      "regions": []
+    },
+    {
+      "figma_id": "366:562",
+      "name": "Option_Select_Window",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\366_562.png",
+      "regions": []
+    },
+    {
+      "figma_id": "366:579",
+      "name": "screen_List",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\366_579.png",
+      "regions": []
+    },
+    {
+      "figma_id": "366:683",
+      "name": "screen_Arb",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\366_683.png",
+      "regions": []
+    },
+    {
+      "figma_id": "366:777",
+      "name": "screen_file",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\366_777.png",
+      "regions": []
+    },
+    {
+      "figma_id": "366:841",
+      "name": "Menu_Meter",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\366_841.png",
+      "regions": []
+    },
+    {
+      "figma_id": "71:3",
+      "name": "Home",
+      "heatmap": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps\\71_3.png",
+      "regions": [
+        {
+          "name": "menu_icons",
+          "box": [
+            20,
+            156,
+            73,
+            189
+          ],
+          "score": 0.680751
+        },
+        {
+          "name": "critical_buttons",
+          "box": [
+            12,
+            46,
+            948,
+            234
+          ],
+          "score": 0.93619
+        },
+        {
+          "name": "titles",
+          "box": [
+            636,
+            4,
+            956,
+            61
+          ],
+          "score": 0.952086
+        },
+        {
+          "name": "voltage_value",
+          "box": [
+            92,
+            4,
+            632,
+            118
+          ],
+          "score": 0.959206
+        },
+        {
+          "name": "bottom_status",
+          "box": [
+            636,
+            196,
+            956,
+            236
+          ],
+          "score": 0.95922
+        },
+        {
+          "name": "units",
+          "box": [
+            92,
+            4,
+            634,
+            236
+          ],
+          "score": 0.960844
+        },
+        {
+          "name": "current_value",
+          "box": [
+            92,
+            122,
+            632,
+            236
+          ],
+          "score": 0.961387
+        }
+      ]
+    }
+  ],
+  "regional_visual_failures": [],
+  "heatmap_directory": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\formal_heatmaps"
+}

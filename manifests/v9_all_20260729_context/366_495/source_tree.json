@@ -1,0 +1,1983 @@
+{
+  "schema_version": "figma-source-node-tree/v1",
+  "root_id": "366:495",
+  "node_count": 52,
+  "nodes": [
+    {
+      "id": "366:495",
+      "name": "Menu_Date",
+      "node_type": "frame",
+      "parent_id": null,
+      "order": 0,
+      "path": "Menu_Date",
+      "x": 2050.0,
+      "y": 1855.0,
+      "width": 960.0,
+      "height": 240.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:496",
+      "name": "cont_Date",
+      "node_type": "frame",
+      "parent_id": "366:495",
+      "order": 0,
+      "path": "Menu_Date/cont_Date",
+      "x": 105.0,
+      "y": 0.0,
+      "width": 855.0,
+      "height": 240.0,
+      "fill": [
+        "#050505",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#050505"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "755:8",
+      "name": "cont_Date_Input_Group",
+      "node_type": "frame",
+      "parent_id": "366:496",
+      "order": 0,
+      "path": "Menu_Date/cont_Date/cont_Date_Input_Group",
+      "x": 0.0,
+      "y": 0.0,
+      "width": 525.0,
+      "height": 104.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:555",
+      "name": "decor_section_date",
+      "node_type": "frame",
+      "parent_id": "755:8",
+      "order": 0,
+      "path": "Menu_Date/cont_Date/cont_Date_Input_Group/decor_section_date",
+      "x": 0.0,
+      "y": 9.0,
+      "width": 22.0,
+      "height": 1.0,
+      "fill": [
+        "#a66a22",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#a66a22"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:552",
+      "name": "label_title_date",
+      "node_type": "text",
+      "parent_id": "755:8",
+      "order": 1,
+      "path": "Menu_Date/cont_Date/cont_Date_Input_Group/label_title_date",
+      "x": 30.0,
+      "y": 0.0,
+      "width": 180.0,
+      "height": 20.0,
+      "fill": [
+        "#857a5c",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#857a5c"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "DATE",
+      "font_size": 16,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 20,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:529",
+      "name": "label_date_sep_1",
+      "node_type": "text",
+      "parent_id": "755:8",
+      "order": 2,
+      "path": "Menu_Date/cont_Date/cont_Date_Input_Group/label_date_sep_1",
+      "x": 165.0,
+      "y": 31.0,
+      "width": 15.0,
+      "height": 31.0,
+      "fill": [
+        "#b2ab91",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#b2ab91"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "-",
+      "font_size": 26,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "CENTER",
+      "line_height": 31,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:527",
+      "name": "label_date_sep_2",
+      "node_type": "text",
+      "parent_id": "755:8",
+      "order": 3,
+      "path": "Menu_Date/cont_Date/cont_Date_Input_Group/label_date_sep_2",
+      "x": 345.0,
+      "y": 31.0,
+      "width": 15.0,
+      "height": 31.0,
+      "fill": [
+        "#b2ab91",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#b2ab91"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "-",
+      "font_size": 26,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "CENTER",
+      "line_height": 31,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "755:2",
+      "name": "cont_Date_Year",
+      "node_type": "frame",
+      "parent_id": "755:8",
+      "order": 4,
+      "path": "Menu_Date/cont_Date/cont_Date_Input_Group/cont_Date_Year",
+      "x": 0.0,
+      "y": 20.0,
+      "width": 165.0,
+      "height": 84.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:538",
+      "name": "label_year_unit",
+      "node_type": "frame",
+      "parent_id": "755:2",
+      "order": 0,
+      "path": "Menu_Date/cont_Date/cont_Date_Input_Group/cont_Date_Year/label_year_unit",
+      "x": 0.0,
+      "y": 0.0,
+      "width": 165.0,
+      "height": 84.0,
+      "fill": [
+        "#060606",
+        255
+      ],
+      "stroke": [
+        "#242422",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:544",
+      "name": "label_year_value",
+      "node_type": "text",
+      "parent_id": "755:2",
+      "order": 1,
+      "path": "Menu_Date/cont_Date/cont_Date_Input_Group/cont_Date_Year/label_year_value",
+      "x": 14.0,
+      "y": 11.0,
+      "width": 137.0,
+      "height": 31.0,
+      "fill": [
+        "#d6d6cf",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "2026",
+      "font_size": 26,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 31,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:535",
+      "name": "label_year_caption",
+      "node_type": "text",
+      "parent_id": "755:2",
+      "order": 2,
+      "path": "Menu_Date/cont_Date/cont_Date_Input_Group/cont_Date_Year/label_year_caption",
+      "x": 10.0,
+      "y": 50.0,
+      "width": 145.0,
+      "height": 22.0,
+      "fill": [
+        "#9e9e96",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#9e9e96"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "YEAR",
+      "font_size": 23,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 22,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "755:3",
+      "name": "cont_Date_Month",
+      "node_type": "frame",
+      "parent_id": "755:8",
+      "order": 5,
+      "path": "Menu_Date/cont_Date/cont_Date_Input_Group/cont_Date_Month",
+      "x": 180.0,
+      "y": 20.0,
+      "width": 165.0,
+      "height": 84.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:537",
+      "name": "label_month_unit",
+      "node_type": "frame",
+      "parent_id": "755:3",
+      "order": 0,
+      "path": "Menu_Date/cont_Date/cont_Date_Input_Group/cont_Date_Month/label_month_unit",
+      "x": 0.0,
+      "y": 0.0,
+      "width": 165.0,
+      "height": 84.0,
+      "fill": [
+        "#060606",
+        255
+      ],
+      "stroke": [
+        "#242422",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:540",
+      "name": "label_month_value",
+      "node_type": "text",
+      "parent_id": "755:3",
+      "order": 1,
+      "path": "Menu_Date/cont_Date/cont_Date_Input_Group/cont_Date_Month/label_month_value",
+      "x": 14.0,
+      "y": 11.0,
+      "width": 137.0,
+      "height": 31.0,
+      "fill": [
+        "#d6d6cf",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "01",
+      "font_size": 26,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 31,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:533",
+      "name": "label_month_caption",
+      "node_type": "text",
+      "parent_id": "755:3",
+      "order": 2,
+      "path": "Menu_Date/cont_Date/cont_Date_Input_Group/cont_Date_Month/label_month_caption",
+      "x": 10.0,
+      "y": 50.0,
+      "width": 145.0,
+      "height": 22.0,
+      "fill": [
+        "#9e9e96",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#9e9e96"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "MONTH",
+      "font_size": 23,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 22,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "755:4",
+      "name": "cont_Date_Day",
+      "node_type": "frame",
+      "parent_id": "755:8",
+      "order": 6,
+      "path": "Menu_Date/cont_Date/cont_Date_Input_Group/cont_Date_Day",
+      "x": 360.0,
+      "y": 20.0,
+      "width": 165.0,
+      "height": 84.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:536",
+      "name": "label_day_unit",
+      "node_type": "frame",
+      "parent_id": "755:4",
+      "order": 0,
+      "path": "Menu_Date/cont_Date/cont_Date_Input_Group/cont_Date_Day/label_day_unit",
+      "x": 0.0,
+      "y": 0.0,
+      "width": 165.0,
+      "height": 84.0,
+      "fill": [
+        "#060606",
+        255
+      ],
+      "stroke": [
+        "#242422",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:542",
+      "name": "label_day_value",
+      "node_type": "text",
+      "parent_id": "755:4",
+      "order": 1,
+      "path": "Menu_Date/cont_Date/cont_Date_Input_Group/cont_Date_Day/label_day_value",
+      "x": 14.0,
+      "y": 11.0,
+      "width": 137.0,
+      "height": 31.0,
+      "fill": [
+        "#d6d6cf",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "01",
+      "font_size": 26,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 31,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:531",
+      "name": "label_day_caption",
+      "node_type": "text",
+      "parent_id": "755:4",
+      "order": 2,
+      "path": "Menu_Date/cont_Date/cont_Date_Input_Group/cont_Date_Day/label_day_caption",
+      "x": 10.0,
+      "y": 50.0,
+      "width": 145.0,
+      "height": 22.0,
+      "fill": [
+        "#9e9e96",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#9e9e96"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "DAY",
+      "font_size": 23,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 22,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "755:9",
+      "name": "cont_Time_Input_Group",
+      "node_type": "frame",
+      "parent_id": "366:496",
+      "order": 1,
+      "path": "Menu_Date/cont_Date/cont_Time_Input_Group",
+      "x": 0.0,
+      "y": 120.0,
+      "width": 525.0,
+      "height": 104.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:553",
+      "name": "decor_section_time",
+      "node_type": "frame",
+      "parent_id": "755:9",
+      "order": 0,
+      "path": "Menu_Date/cont_Date/cont_Time_Input_Group/decor_section_time",
+      "x": 0.0,
+      "y": 9.0,
+      "width": 22.0,
+      "height": 1.0,
+      "fill": [
+        "#a66a22",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#a66a22"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:550",
+      "name": "label_title_time",
+      "node_type": "text",
+      "parent_id": "755:9",
+      "order": 1,
+      "path": "Menu_Date/cont_Date/cont_Time_Input_Group/label_title_time",
+      "x": 30.0,
+      "y": 0.0,
+      "width": 180.0,
+      "height": 20.0,
+      "fill": [
+        "#857a5c",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#857a5c"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "TIME",
+      "font_size": 16,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 20,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:510",
+      "name": "label_time_sep_1",
+      "node_type": "text",
+      "parent_id": "755:9",
+      "order": 2,
+      "path": "Menu_Date/cont_Date/cont_Time_Input_Group/label_time_sep_1",
+      "x": 165.0,
+      "y": 31.0,
+      "width": 15.0,
+      "height": 31.0,
+      "fill": [
+        "#b2ab91",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#b2ab91"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": ":",
+      "font_size": 26,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "CENTER",
+      "line_height": 31,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:508",
+      "name": "label_time_sep_2",
+      "node_type": "text",
+      "parent_id": "755:9",
+      "order": 3,
+      "path": "Menu_Date/cont_Date/cont_Time_Input_Group/label_time_sep_2",
+      "x": 345.0,
+      "y": 31.0,
+      "width": 15.0,
+      "height": 31.0,
+      "fill": [
+        "#b2ab91",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#b2ab91"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": ":",
+      "font_size": 26,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "CENTER",
+      "line_height": 31,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "755:5",
+      "name": "cont_Time_Hour",
+      "node_type": "frame",
+      "parent_id": "755:9",
+      "order": 4,
+      "path": "Menu_Date/cont_Date/cont_Time_Input_Group/cont_Time_Hour",
+      "x": 0.0,
+      "y": 20.0,
+      "width": 165.0,
+      "height": 84.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:519",
+      "name": "label_hour_unit",
+      "node_type": "frame",
+      "parent_id": "755:5",
+      "order": 0,
+      "path": "Menu_Date/cont_Date/cont_Time_Input_Group/cont_Time_Hour/label_hour_unit",
+      "x": 0.0,
+      "y": 0.0,
+      "width": 165.0,
+      "height": 84.0,
+      "fill": [
+        "#060606",
+        255
+      ],
+      "stroke": [
+        "#242422",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:525",
+      "name": "label_hour_value",
+      "node_type": "text",
+      "parent_id": "755:5",
+      "order": 1,
+      "path": "Menu_Date/cont_Date/cont_Time_Input_Group/cont_Time_Hour/label_hour_value",
+      "x": 14.0,
+      "y": 11.0,
+      "width": 137.0,
+      "height": 31.0,
+      "fill": [
+        "#d6d6cf",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "14",
+      "font_size": 26,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 31,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:516",
+      "name": "label_hour_caption",
+      "node_type": "text",
+      "parent_id": "755:5",
+      "order": 2,
+      "path": "Menu_Date/cont_Date/cont_Time_Input_Group/cont_Time_Hour/label_hour_caption",
+      "x": 10.0,
+      "y": 50.0,
+      "width": 145.0,
+      "height": 22.0,
+      "fill": [
+        "#9e9e96",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#9e9e96"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "HOUR",
+      "font_size": 23,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 22,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "755:6",
+      "name": "cont_Time_Minute",
+      "node_type": "frame",
+      "parent_id": "755:9",
+      "order": 5,
+      "path": "Menu_Date/cont_Date/cont_Time_Input_Group/cont_Time_Minute",
+      "x": 180.0,
+      "y": 20.0,
+      "width": 165.0,
+      "height": 84.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:518",
+      "name": "label_minute_unit",
+      "node_type": "frame",
+      "parent_id": "755:6",
+      "order": 0,
+      "path": "Menu_Date/cont_Date/cont_Time_Input_Group/cont_Time_Minute/label_minute_unit",
+      "x": 0.0,
+      "y": 0.0,
+      "width": 165.0,
+      "height": 84.0,
+      "fill": [
+        "#060606",
+        255
+      ],
+      "stroke": [
+        "#242422",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:523",
+      "name": "label_minute_value",
+      "node_type": "text",
+      "parent_id": "755:6",
+      "order": 1,
+      "path": "Menu_Date/cont_Date/cont_Time_Input_Group/cont_Time_Minute/label_minute_value",
+      "x": 14.0,
+      "y": 11.0,
+      "width": 137.0,
+      "height": 31.0,
+      "fill": [
+        "#d6d6cf",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "28",
+      "font_size": 26,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 31,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:514",
+      "name": "label_minute_caption",
+      "node_type": "text",
+      "parent_id": "755:6",
+      "order": 2,
+      "path": "Menu_Date/cont_Date/cont_Time_Input_Group/cont_Time_Minute/label_minute_caption",
+      "x": 10.0,
+      "y": 50.0,
+      "width": 145.0,
+      "height": 22.0,
+      "fill": [
+        "#9e9e96",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#9e9e96"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "MINUTE",
+      "font_size": 23,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 22,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "755:7",
+      "name": "cont_Time_Second",
+      "node_type": "frame",
+      "parent_id": "755:9",
+      "order": 6,
+      "path": "Menu_Date/cont_Date/cont_Time_Input_Group/cont_Time_Second",
+      "x": 360.0,
+      "y": 20.0,
+      "width": 165.0,
+      "height": 84.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:517",
+      "name": "label_second_unit",
+      "node_type": "frame",
+      "parent_id": "755:7",
+      "order": 0,
+      "path": "Menu_Date/cont_Date/cont_Time_Input_Group/cont_Time_Second/label_second_unit",
+      "x": 0.0,
+      "y": 0.0,
+      "width": 165.0,
+      "height": 84.0,
+      "fill": [
+        "#060606",
+        255
+      ],
+      "stroke": [
+        "#242422",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:521",
+      "name": "label_second_value",
+      "node_type": "text",
+      "parent_id": "755:7",
+      "order": 1,
+      "path": "Menu_Date/cont_Date/cont_Time_Input_Group/cont_Time_Second/label_second_value",
+      "x": 14.0,
+      "y": 11.0,
+      "width": 137.0,
+      "height": 31.0,
+      "fill": [
+        "#d6d6cf",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d6cf"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "56",
+      "font_size": 26,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 31,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:512",
+      "name": "label_second_caption",
+      "node_type": "text",
+      "parent_id": "755:7",
+      "order": 2,
+      "path": "Menu_Date/cont_Date/cont_Time_Input_Group/cont_Time_Second/label_second_caption",
+      "x": 10.0,
+      "y": 50.0,
+      "width": 145.0,
+      "height": 22.0,
+      "fill": [
+        "#9e9e96",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#9e9e96"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "SECOND",
+      "font_size": 23,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 22,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "755:10",
+      "name": "cont_Date_Format_Group",
+      "node_type": "frame",
+      "parent_id": "366:496",
+      "order": 2,
+      "path": "Menu_Date/cont_Date/cont_Date_Format_Group",
+      "x": 552.0,
+      "y": 0.0,
+      "width": 285.0,
+      "height": 134.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "494:2",
+      "name": "decor_section_date_format",
+      "node_type": "frame",
+      "parent_id": "755:10",
+      "order": 0,
+      "path": "Menu_Date/cont_Date/cont_Date_Format_Group/decor_section_date_format",
+      "x": 0.0,
+      "y": 9.0,
+      "width": 22.0,
+      "height": 1.0,
+      "fill": [
+        "#a66a22",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#a66a22"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:548",
+      "name": "label_title_format",
+      "node_type": "text",
+      "parent_id": "755:10",
+      "order": 1,
+      "path": "Menu_Date/cont_Date/cont_Date_Format_Group/label_title_format",
+      "x": 30.0,
+      "y": 0.0,
+      "width": 245.0,
+      "height": 20.0,
+      "fill": [
+        "#857a5c",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#857a5c"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "DATE FORMAT",
+      "font_size": 16,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 20,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:505",
+      "name": "label_format_ymd",
+      "node_type": "frame",
+      "parent_id": "755:10",
+      "order": 2,
+      "path": "Menu_Date/cont_Date/cont_Date_Format_Group/label_format_ymd",
+      "x": 0.0,
+      "y": 20.0,
+      "width": 285.0,
+      "height": 34.0,
+      "fill": [
+        "#060606",
+        255
+      ],
+      "stroke": [
+        "#242422",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:506",
+      "name": "YYYY-MM-DD",
+      "node_type": "text",
+      "parent_id": "366:505",
+      "order": 0,
+      "path": "Menu_Date/cont_Date/cont_Date_Format_Group/label_format_ymd/YYYY-MM-DD",
+      "x": 10.0,
+      "y": 6.0,
+      "width": 265.0,
+      "height": 22.0,
+      "fill": [
+        "#c7c4b8",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#c7c4b8"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "YYYY-MM-DD",
+      "font_size": 23,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "CENTER",
+      "line_height": 22,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:503",
+      "name": "label_format_mdy",
+      "node_type": "frame",
+      "parent_id": "755:10",
+      "order": 3,
+      "path": "Menu_Date/cont_Date/cont_Date_Format_Group/label_format_mdy",
+      "x": 0.0,
+      "y": 60.0,
+      "width": 285.0,
+      "height": 34.0,
+      "fill": [
+        "#060606",
+        255
+      ],
+      "stroke": [
+        "#242422",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:504",
+      "name": "MM/DD/YYYY",
+      "node_type": "text",
+      "parent_id": "366:503",
+      "order": 0,
+      "path": "Menu_Date/cont_Date/cont_Date_Format_Group/label_format_mdy/MM/DD/YYYY",
+      "x": 10.0,
+      "y": 6.0,
+      "width": 265.0,
+      "height": 22.0,
+      "fill": [
+        "#c7c4b8",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#c7c4b8"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "MM/DD/YYYY",
+      "font_size": 23,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "CENTER",
+      "line_height": 22,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:501",
+      "name": "label_format_dmy",
+      "node_type": "frame",
+      "parent_id": "755:10",
+      "order": 4,
+      "path": "Menu_Date/cont_Date/cont_Date_Format_Group/label_format_dmy",
+      "x": 0.0,
+      "y": 100.0,
+      "width": 285.0,
+      "height": 34.0,
+      "fill": [
+        "#060606",
+        255
+      ],
+      "stroke": [
+        "#242422",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:502",
+      "name": "DD/MM/YYYY",
+      "node_type": "text",
+      "parent_id": "366:501",
+      "order": 0,
+      "path": "Menu_Date/cont_Date/cont_Date_Format_Group/label_format_dmy/DD/MM/YYYY",
+      "x": 10.0,
+      "y": 6.0,
+      "width": 265.0,
+      "height": 22.0,
+      "fill": [
+        "#c7c4b8",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#c7c4b8"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "DD/MM/YYYY",
+      "font_size": 23,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "CENTER",
+      "line_height": 22,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "755:11",
+      "name": "cont_Time_Format_Group",
+      "node_type": "frame",
+      "parent_id": "366:496",
+      "order": 3,
+      "path": "Menu_Date/cont_Date/cont_Time_Format_Group",
+      "x": 552.0,
+      "y": 140.0,
+      "width": 285.0,
+      "height": 84.0,
+      "fill": null,
+      "stroke": null,
+      "fill_paints": [],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "494:3",
+      "name": "decor_section_time_format",
+      "node_type": "frame",
+      "parent_id": "755:11",
+      "order": 0,
+      "path": "Menu_Date/cont_Date/cont_Time_Format_Group/decor_section_time_format",
+      "x": 0.0,
+      "y": 9.0,
+      "width": 22.0,
+      "height": 1.0,
+      "fill": [
+        "#a66a22",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#a66a22"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:546",
+      "name": "label_title_time_format",
+      "node_type": "text",
+      "parent_id": "755:11",
+      "order": 1,
+      "path": "Menu_Date/cont_Date/cont_Time_Format_Group/label_title_time_format",
+      "x": 30.0,
+      "y": 0.0,
+      "width": 245.0,
+      "height": 20.0,
+      "fill": [
+        "#857a5c",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#857a5c"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "TIME FORMAT",
+      "font_size": 16,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "LEFT",
+      "line_height": 20,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:499",
+      "name": "label_time_24",
+      "node_type": "frame",
+      "parent_id": "755:11",
+      "order": 2,
+      "path": "Menu_Date/cont_Date/cont_Time_Format_Group/label_time_24",
+      "x": 0.0,
+      "y": 20.0,
+      "width": 137.0,
+      "height": 64.0,
+      "fill": [
+        "#060606",
+        255
+      ],
+      "stroke": [
+        "#242422",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:500",
+      "name": "24-HOUR",
+      "node_type": "text",
+      "parent_id": "366:499",
+      "order": 0,
+      "path": "Menu_Date/cont_Date/cont_Time_Format_Group/label_time_24/24-HOUR",
+      "x": 8.0,
+      "y": 21.0,
+      "width": 121.0,
+      "height": 22.0,
+      "fill": [
+        "#c7c4b8",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#c7c4b8"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "24-HOUR",
+      "font_size": 23,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "CENTER",
+      "line_height": 22,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:497",
+      "name": "label_time_12",
+      "node_type": "frame",
+      "parent_id": "755:11",
+      "order": 3,
+      "path": "Menu_Date/cont_Date/cont_Time_Format_Group/label_time_12",
+      "x": 148.0,
+      "y": 20.0,
+      "width": 137.0,
+      "height": 64.0,
+      "fill": [
+        "#060606",
+        255
+      ],
+      "stroke": [
+        "#242422",
+        255
+      ],
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#060606"
+        }
+      ],
+      "stroke_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#242422"
+        }
+      ],
+      "stroke_width": 1.0,
+      "corner_radius": 4.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": true,
+      "text": null,
+      "font_size": null,
+      "font_family": null,
+      "font_style": null,
+      "text_align": null,
+      "line_height": null,
+      "image_hash": null,
+      "image_reference": null
+    },
+    {
+      "id": "366:498",
+      "name": "12-HOUR",
+      "node_type": "text",
+      "parent_id": "366:497",
+      "order": 0,
+      "path": "Menu_Date/cont_Date/cont_Time_Format_Group/label_time_12/12-HOUR",
+      "x": 8.0,
+      "y": 21.0,
+      "width": 121.0,
+      "height": 22.0,
+      "fill": [
+        "#c7c4b8",
+        255
+      ],
+      "stroke": null,
+      "fill_paints": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#c7c4b8"
+        }
+      ],
+      "stroke_paints": [],
+      "stroke_width": 1.0,
+      "corner_radius": 0.0,
+      "opacity": 255,
+      "visible": true,
+      "clips_content": false,
+      "text": "12-HOUR",
+      "font_size": 23,
+      "font_family": "Alibaba PuHuiTi 2.0",
+      "font_style": "55 Regular",
+      "text_align": "CENTER",
+      "line_height": 22,
+      "image_hash": null,
+      "image_reference": null
+    }
+  ]
+}

@@ -1,0 +1,3606 @@
+{
+  "schema": "figma-compact-manifest/v1",
+  "rootId": "366:291",
+  "total": 95,
+  "start": 0,
+  "limit": 95,
+  "nodes": [
+    {
+      "id": "366:291",
+      "n": "Menu_Admin",
+      "ty": "FRAME",
+      "p": null,
+      "o": 0,
+      "path": "Menu_Admin",
+      "x": 4138,
+      "y": 1519,
+      "w": 960,
+      "h": 240,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": null,
+      "s": null,
+      "fp": [],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:292",
+      "n": "cont_Admin_Panel",
+      "ty": "FRAME",
+      "p": "366:291",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel",
+      "x": 105,
+      "y": 0,
+      "w": 855,
+      "h": 325,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#050505",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#050505"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:304",
+      "n": "cont_Admin_InitPage1",
+      "ty": "FRAME",
+      "p": "366:292",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage1",
+      "x": 0,
+      "y": 40,
+      "w": 855,
+      "h": 199,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#050505",
+        255
+      ],
+      "s": [
+        "#2e2a1f",
+        0
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#050505"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 0,
+          "c": "#2e2a1f"
+        }
+      ],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:305",
+      "n": "btn_Admin_ConfirmClear",
+      "ty": "FRAME",
+      "p": "366:304",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage1/btn_Admin_ConfirmClear",
+      "x": 343.5,
+      "y": 126,
+      "w": 168,
+      "h": 42,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#070706",
+        255
+      ],
+      "s": [
+        "#403929",
+        219
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070706"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 219,
+          "c": "#403929"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:306",
+      "n": "Sanitize",
+      "ty": "TEXT",
+      "p": "366:305",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage1/btn_Admin_ConfirmClear/Sanitize",
+      "x": 8,
+      "y": 10,
+      "w": 152,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#c7c4b8",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#c7c4b8"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Sanitize",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 22
+      }
+    },
+    {
+      "id": "366:308",
+      "n": "label_Admin_WarningText",
+      "ty": "TEXT",
+      "p": "366:304",
+      "o": 1,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage1/label_Admin_WarningText",
+      "x": 160,
+      "y": 46,
+      "w": 535,
+      "h": 54,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d1bd",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d1bd"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "All user data will be sanitized and the unit will be rebooted!",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 27
+      }
+    },
+    {
+      "id": "366:310",
+      "n": "label_Admin_WarningTitle",
+      "ty": "TEXT",
+      "p": "366:304",
+      "o": 2,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage1/label_Admin_WarningTitle",
+      "x": 315,
+      "y": 8,
+      "w": 225,
+      "h": 27,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d1bd",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d1bd"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "WARNING",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 27
+      }
+    },
+    {
+      "id": "366:311",
+      "n": "cont_Admin_InitPage2",
+      "ty": "FRAME",
+      "p": "366:292",
+      "o": 1,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage2",
+      "x": 0,
+      "y": 40,
+      "w": 855,
+      "h": 199,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#050505",
+        255
+      ],
+      "s": [
+        "#2e2a1f",
+        0
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#050505"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 0,
+          "c": "#2e2a1f"
+        }
+      ],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:312",
+      "n": "btn_Key_test",
+      "ty": "FRAME",
+      "p": "366:311",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage2/btn_Key_test",
+      "x": 150,
+      "y": 22,
+      "w": 168,
+      "h": 42,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#070706",
+        255
+      ],
+      "s": [
+        "#403929",
+        219
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070706"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 219,
+          "c": "#403929"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:313",
+      "n": "Key_test",
+      "ty": "TEXT",
+      "p": "366:312",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage2/btn_Key_test/Key_test",
+      "x": 8,
+      "y": 10,
+      "w": 152,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#c7c4b8",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#c7c4b8"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Key_test",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 22
+      }
+    },
+    {
+      "id": "366:314",
+      "n": "btn_Lcd_test",
+      "ty": "FRAME",
+      "p": "366:311",
+      "o": 1,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage2/btn_Lcd_test",
+      "x": 150,
+      "y": 112,
+      "w": 168,
+      "h": 42,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#070706",
+        255
+      ],
+      "s": [
+        "#403929",
+        219
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070706"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 219,
+          "c": "#403929"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:315",
+      "n": "Lcd_test",
+      "ty": "TEXT",
+      "p": "366:314",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage2/btn_Lcd_test/Lcd_test",
+      "x": 8,
+      "y": 10,
+      "w": 152,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#c7c4b8",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#c7c4b8"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Lcd_test",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 22
+      }
+    },
+    {
+      "id": "366:316",
+      "n": "label_time",
+      "ty": "FRAME",
+      "p": "366:311",
+      "o": 2,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage2/label_time",
+      "x": 392,
+      "y": 108,
+      "w": 117,
+      "h": 34,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#2b2623",
+        178
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 178,
+          "c": "#2b2623"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:317",
+      "n": "1s",
+      "ty": "TEXT",
+      "p": "366:316",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage2/label_time/1s",
+      "x": 8,
+      "y": 6,
+      "w": 101,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#c7c4b8",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#c7c4b8"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "1s",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "RIGHT",
+        "lh": 22
+      }
+    },
+    {
+      "id": "366:319",
+      "n": "label_time_text",
+      "ty": "TEXT",
+      "p": "366:311",
+      "o": 3,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage2/label_time_text",
+      "x": 397,
+      "y": 78,
+      "w": 102,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#c7c4b8",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#c7c4b8"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Time",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 22
+      }
+    },
+    {
+      "id": "366:320",
+      "n": "cont_Admin_InitPage3",
+      "ty": "FRAME",
+      "p": "366:292",
+      "o": 2,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3",
+      "x": 0,
+      "y": 40,
+      "w": 855,
+      "h": 285,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#050505",
+        255
+      ],
+      "s": [
+        "#2e2a1f",
+        229
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#050505"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 229,
+          "c": "#2e2a1f"
+        }
+      ],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "556:25",
+      "n": "cont_6_Firmware",
+      "ty": "FRAME",
+      "p": "366:320",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_6_Firmware",
+      "x": 120,
+      "y": 248,
+      "w": 406,
+      "h": 35,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:343",
+      "n": "label_6_Firmware_set",
+      "ty": "FRAME",
+      "p": "556:25",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_6_Firmware/label_6_Firmware_set",
+      "x": 146,
+      "y": 0,
+      "w": 260,
+      "h": 33,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#070706",
+        255
+      ],
+      "s": [
+        "#403929",
+        219
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070706"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 219,
+          "c": "#403929"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:344",
+      "n": "No model",
+      "ty": "TEXT",
+      "p": "366:343",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_6_Firmware/label_6_Firmware_set/No model",
+      "x": 1,
+      "y": 1,
+      "w": 107,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d1bd",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d1bd"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "No model",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 28
+      }
+    },
+    {
+      "id": "366:321",
+      "n": "label_6_Firmware",
+      "ty": "FRAME",
+      "p": "556:25",
+      "o": 1,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_6_Firmware/label_6_Firmware",
+      "x": 0,
+      "y": 0,
+      "w": 34,
+      "h": 34,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#8a1cc6",
+        255
+      ],
+      "s": [
+        "#d8c7a0",
+        80
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#8a1cc6"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 80,
+          "c": "#d8c7a0"
+        }
+      ],
+      "sw": 1.5,
+      "r": 7,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:322",
+      "n": "6",
+      "ty": "TEXT",
+      "p": "366:321",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_6_Firmware/label_6_Firmware/6",
+      "x": 0,
+      "y": 1.5,
+      "w": 34,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#f4f1eb",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#f4f1eb"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "6",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 22
+      }
+    },
+    {
+      "id": "556:24",
+      "n": "cont_5_Firmware",
+      "ty": "FRAME",
+      "p": "366:320",
+      "o": 1,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_5_Firmware",
+      "x": 120,
+      "y": 202,
+      "w": 406,
+      "h": 35,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:341",
+      "n": "label_5_Firmware_set",
+      "ty": "FRAME",
+      "p": "556:24",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_5_Firmware/label_5_Firmware_set",
+      "x": 146,
+      "y": 0,
+      "w": 260,
+      "h": 33,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#070706",
+        255
+      ],
+      "s": [
+        "#403929",
+        219
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070706"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 219,
+          "c": "#403929"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:342",
+      "n": "No model",
+      "ty": "TEXT",
+      "p": "366:341",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_5_Firmware/label_5_Firmware_set/No model",
+      "x": 1,
+      "y": 1,
+      "w": 107,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d1bd",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d1bd"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "No model",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 28
+      }
+    },
+    {
+      "id": "366:323",
+      "n": "label_5_Firmware",
+      "ty": "FRAME",
+      "p": "556:24",
+      "o": 1,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_5_Firmware/label_5_Firmware",
+      "x": 0,
+      "y": 0,
+      "w": 34,
+      "h": 34,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#10a8bd",
+        255
+      ],
+      "s": [
+        "#d8c7a0",
+        80
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#10a8bd"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 80,
+          "c": "#d8c7a0"
+        }
+      ],
+      "sw": 1.5,
+      "r": 7,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:324",
+      "n": "5",
+      "ty": "TEXT",
+      "p": "366:323",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_5_Firmware/label_5_Firmware/5",
+      "x": 0,
+      "y": 1.5,
+      "w": 34,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#f4f1eb",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#f4f1eb"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "5",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 22
+      }
+    },
+    {
+      "id": "556:23",
+      "n": "cont_4_Firmware",
+      "ty": "FRAME",
+      "p": "366:320",
+      "o": 2,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_4_Firmware",
+      "x": 120,
+      "y": 146,
+      "w": 406,
+      "h": 35,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:339",
+      "n": "label_4_Firmware_set",
+      "ty": "FRAME",
+      "p": "556:23",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_4_Firmware/label_4_Firmware_set",
+      "x": 146,
+      "y": 0,
+      "w": 260,
+      "h": 33,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#070706",
+        255
+      ],
+      "s": [
+        "#403929",
+        219
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070706"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 219,
+          "c": "#403929"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:340",
+      "n": "No model",
+      "ty": "TEXT",
+      "p": "366:339",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_4_Firmware/label_4_Firmware_set/No model",
+      "x": 1,
+      "y": 1,
+      "w": 107,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d1bd",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d1bd"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "No model",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 28
+      }
+    },
+    {
+      "id": "366:325",
+      "n": "label_4_Firmware",
+      "ty": "FRAME",
+      "p": "556:23",
+      "o": 1,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_4_Firmware/label_4_Firmware",
+      "x": 0,
+      "y": 0,
+      "w": 34,
+      "h": 34,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#c51d1d",
+        255
+      ],
+      "s": [
+        "#d8c7a0",
+        80
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#c51d1d"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 80,
+          "c": "#d8c7a0"
+        }
+      ],
+      "sw": 1.5,
+      "r": 7,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:326",
+      "n": "4",
+      "ty": "TEXT",
+      "p": "366:325",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_4_Firmware/label_4_Firmware/4",
+      "x": 0,
+      "y": 1.5,
+      "w": 34,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#f4f1eb",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#f4f1eb"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "4",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 22
+      }
+    },
+    {
+      "id": "556:22",
+      "n": "cont_3_Firmware",
+      "ty": "FRAME",
+      "p": "366:320",
+      "o": 3,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_3_Firmware",
+      "x": 120,
+      "y": 100,
+      "w": 406,
+      "h": 35,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:337",
+      "n": "label_3_Firmware_set",
+      "ty": "FRAME",
+      "p": "556:22",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_3_Firmware/label_3_Firmware_set",
+      "x": 146,
+      "y": 0,
+      "w": 260,
+      "h": 33,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#070706",
+        255
+      ],
+      "s": [
+        "#403929",
+        219
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070706"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 219,
+          "c": "#403929"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:338",
+      "n": "No model",
+      "ty": "TEXT",
+      "p": "366:337",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_3_Firmware/label_3_Firmware_set/No model",
+      "x": 1,
+      "y": 1,
+      "w": 107,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d1bd",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d1bd"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "No model",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 28
+      }
+    },
+    {
+      "id": "366:327",
+      "n": "label_3_Firmware",
+      "ty": "FRAME",
+      "p": "556:22",
+      "o": 1,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_3_Firmware/label_3_Firmware",
+      "x": 0,
+      "y": 0,
+      "w": 34,
+      "h": 34,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#d6b800",
+        255
+      ],
+      "s": [
+        "#d8c7a0",
+        80
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6b800"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 80,
+          "c": "#d8c7a0"
+        }
+      ],
+      "sw": 1.5,
+      "r": 7,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:328",
+      "n": "3",
+      "ty": "TEXT",
+      "p": "366:327",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_3_Firmware/label_3_Firmware/3",
+      "x": 0,
+      "y": 1.5,
+      "w": 34,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#f4f1eb",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#f4f1eb"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "3",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 22
+      }
+    },
+    {
+      "id": "556:21",
+      "n": "cont_2_Firmware",
+      "ty": "FRAME",
+      "p": "366:320",
+      "o": 4,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_2_Firmware",
+      "x": 120,
+      "y": 54,
+      "w": 406,
+      "h": 35,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:335",
+      "n": "label_2_Firmware_set",
+      "ty": "FRAME",
+      "p": "556:21",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_2_Firmware/label_2_Firmware_set",
+      "x": 146,
+      "y": 0,
+      "w": 260,
+      "h": 33,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#070706",
+        255
+      ],
+      "s": [
+        "#403929",
+        219
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070706"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 219,
+          "c": "#403929"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:336",
+      "n": "No model",
+      "ty": "TEXT",
+      "p": "366:335",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_2_Firmware/label_2_Firmware_set/No model",
+      "x": 1,
+      "y": 1,
+      "w": 107,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d1bd",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d1bd"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "No model",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 28
+      }
+    },
+    {
+      "id": "366:329",
+      "n": "label_2_Firmware",
+      "ty": "FRAME",
+      "p": "556:21",
+      "o": 1,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_2_Firmware/label_2_Firmware",
+      "x": 0,
+      "y": 0,
+      "w": 34,
+      "h": 34,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#20a82c",
+        255
+      ],
+      "s": [
+        "#d8c7a0",
+        80
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#20a82c"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 80,
+          "c": "#d8c7a0"
+        }
+      ],
+      "sw": 1.5,
+      "r": 7,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:330",
+      "n": "2",
+      "ty": "TEXT",
+      "p": "366:329",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_2_Firmware/label_2_Firmware/2",
+      "x": 0,
+      "y": 1.5,
+      "w": 34,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#f4f1eb",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#f4f1eb"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "2",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 22
+      }
+    },
+    {
+      "id": "556:20",
+      "n": "cont_1_Firmware",
+      "ty": "FRAME",
+      "p": "366:320",
+      "o": 5,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_1_Firmware",
+      "x": 120,
+      "y": 8,
+      "w": 406,
+      "h": 35,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:333",
+      "n": "label_1_Firmware_set",
+      "ty": "FRAME",
+      "p": "556:20",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_1_Firmware/label_1_Firmware_set",
+      "x": 146,
+      "y": 0,
+      "w": 260,
+      "h": 33,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#070706",
+        255
+      ],
+      "s": [
+        "#403929",
+        219
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070706"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 219,
+          "c": "#403929"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:334",
+      "n": "V1.75-1.97",
+      "ty": "TEXT",
+      "p": "366:333",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_1_Firmware/label_1_Firmware_set/V1.75-1.97",
+      "x": 1,
+      "y": 1,
+      "w": 112,
+      "h": 28,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d1bd",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d1bd"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "V1.75-1.97",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": 28
+      }
+    },
+    {
+      "id": "366:331",
+      "n": "label_1_Firmware",
+      "ty": "FRAME",
+      "p": "556:20",
+      "o": 1,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_1_Firmware/label_1_Firmware",
+      "x": 0,
+      "y": 0,
+      "w": 34,
+      "h": 34,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#2f80ed",
+        255
+      ],
+      "s": [
+        "#d8c7a0",
+        80
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#2f80ed"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 80,
+          "c": "#d8c7a0"
+        }
+      ],
+      "sw": 1.5,
+      "r": 7,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:332",
+      "n": "1",
+      "ty": "TEXT",
+      "p": "366:331",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/cont_1_Firmware/label_1_Firmware/1",
+      "x": 0,
+      "y": 1.5,
+      "w": 34,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#f4f1eb",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#f4f1eb"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "1",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 22
+      }
+    },
+    {
+      "id": "366:345",
+      "n": "btn_Sync",
+      "ty": "FRAME",
+      "p": "366:320",
+      "o": 6,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/btn_Sync",
+      "x": 602,
+      "y": 136,
+      "w": 168,
+      "h": 48,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#070706",
+        255
+      ],
+      "s": [
+        "#403929",
+        219
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070706"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 219,
+          "c": "#403929"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:346",
+      "n": "Sync",
+      "ty": "TEXT",
+      "p": "366:345",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage3/btn_Sync/Sync",
+      "x": 8,
+      "y": 7,
+      "w": 152,
+      "h": 34,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#c7c4b8",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#c7c4b8"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Sync",
+        "fs": 30,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 34
+      }
+    },
+    {
+      "id": "765:2",
+      "n": "cont_Admin_InitPage4",
+      "ty": "FRAME",
+      "p": "366:292",
+      "o": 3,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage4",
+      "x": 0,
+      "y": 40,
+      "w": 855,
+      "h": 199,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#050505",
+        255
+      ],
+      "s": [
+        "#403929",
+        0
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#050505"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 0,
+          "c": "#403929"
+        }
+      ],
+      "sw": 1,
+      "r": 6,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "765:3",
+      "n": "cont_Admin_Old_Password",
+      "ty": "FRAME",
+      "p": "765:2",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage4/cont_Admin_Old_Password",
+      "x": 34,
+      "y": 8,
+      "w": 560,
+      "h": 46,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#050505",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#050505"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "765:4",
+      "n": "label_Admin_Old_Password",
+      "ty": "TEXT",
+      "p": "765:3",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage4/cont_Admin_Old_Password/label_Admin_Old_Password",
+      "x": 0,
+      "y": 1,
+      "w": 218,
+      "h": 42,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#c7c4b8",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#c7c4b8"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Old Password",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": null
+      }
+    },
+    {
+      "id": "765:5",
+      "n": "label_Admin_Old_Password_set",
+      "ty": "FRAME",
+      "p": "765:3",
+      "o": 1,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage4/cont_Admin_Old_Password/label_Admin_Old_Password_set",
+      "x": 230,
+      "y": 3,
+      "w": 330,
+      "h": 40,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#0e0d0c",
+        255
+      ],
+      "s": [
+        "#403929",
+        219
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#0e0d0c"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 219,
+          "c": "#403929"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "765:6",
+      "n": "label_Admin_Old_Password_value",
+      "ty": "TEXT",
+      "p": "765:5",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage4/cont_Admin_Old_Password/label_Admin_Old_Password_set/label_Admin_Old_Password_value",
+      "x": 10,
+      "y": 2,
+      "w": 310,
+      "h": 34,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d1bd",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d1bd"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "••••••",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": null
+      }
+    },
+    {
+      "id": "765:7",
+      "n": "cont_Admin_New_Password",
+      "ty": "FRAME",
+      "p": "765:2",
+      "o": 1,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage4/cont_Admin_New_Password",
+      "x": 34,
+      "y": 66,
+      "w": 560,
+      "h": 46,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#050505",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#050505"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "765:8",
+      "n": "label_Admin_New_Password",
+      "ty": "TEXT",
+      "p": "765:7",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage4/cont_Admin_New_Password/label_Admin_New_Password",
+      "x": 0,
+      "y": 1,
+      "w": 218,
+      "h": 42,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#c7c4b8",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#c7c4b8"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "New Password",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": null
+      }
+    },
+    {
+      "id": "765:9",
+      "n": "label_Admin_New_Password_set",
+      "ty": "FRAME",
+      "p": "765:7",
+      "o": 1,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage4/cont_Admin_New_Password/label_Admin_New_Password_set",
+      "x": 230,
+      "y": 3,
+      "w": 330,
+      "h": 40,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#0e0d0c",
+        255
+      ],
+      "s": [
+        "#403929",
+        219
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#0e0d0c"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 219,
+          "c": "#403929"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "765:10",
+      "n": "label_Admin_New_Password_value",
+      "ty": "TEXT",
+      "p": "765:9",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage4/cont_Admin_New_Password/label_Admin_New_Password_set/label_Admin_New_Password_value",
+      "x": 10,
+      "y": 2,
+      "w": 310,
+      "h": 34,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d1bd",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d1bd"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "••••••",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": null
+      }
+    },
+    {
+      "id": "765:11",
+      "n": "cont_Admin_Retype_Password",
+      "ty": "FRAME",
+      "p": "765:2",
+      "o": 2,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage4/cont_Admin_Retype_Password",
+      "x": 34,
+      "y": 124,
+      "w": 560,
+      "h": 46,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#050505",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#050505"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "765:12",
+      "n": "label_Admin_Retype_Password",
+      "ty": "TEXT",
+      "p": "765:11",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage4/cont_Admin_Retype_Password/label_Admin_Retype_Password",
+      "x": 0,
+      "y": 1,
+      "w": 218,
+      "h": 42,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#c7c4b8",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#c7c4b8"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Retype Password",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": null
+      }
+    },
+    {
+      "id": "765:13",
+      "n": "label_Admin_Retype_Password_set",
+      "ty": "FRAME",
+      "p": "765:11",
+      "o": 1,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage4/cont_Admin_Retype_Password/label_Admin_Retype_Password_set",
+      "x": 230,
+      "y": 3,
+      "w": 330,
+      "h": 40,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#0e0d0c",
+        255
+      ],
+      "s": [
+        "#403929",
+        219
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#0e0d0c"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 219,
+          "c": "#403929"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "765:14",
+      "n": "label_Admin_Retype_Password_value",
+      "ty": "TEXT",
+      "p": "765:13",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage4/cont_Admin_Retype_Password/label_Admin_Retype_Password_set/label_Admin_Retype_Password_value",
+      "x": 10,
+      "y": 2,
+      "w": 310,
+      "h": 34,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d1bd",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d1bd"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "••••••",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "LEFT",
+        "lh": null
+      }
+    },
+    {
+      "id": "765:15",
+      "n": "cont_Admin_Change_Password_Action",
+      "ty": "FRAME",
+      "p": "765:2",
+      "o": 3,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage4/cont_Admin_Change_Password_Action",
+      "x": 617,
+      "y": 127,
+      "w": 219,
+      "h": 46,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#050505",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#050505"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "765:16",
+      "n": "btn_Admin_ChangePassword",
+      "ty": "FRAME",
+      "p": "765:15",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage4/cont_Admin_Change_Password_Action/btn_Admin_ChangePassword",
+      "x": 0,
+      "y": 0,
+      "w": 219,
+      "h": 44,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#070706",
+        255
+      ],
+      "s": [
+        "#403929",
+        219
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070706"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 219,
+          "c": "#403929"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "765:17",
+      "n": "label_Admin_ChangePassword",
+      "ty": "TEXT",
+      "p": "765:16",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_InitPage4/cont_Admin_Change_Password_Action/btn_Admin_ChangePassword/label_Admin_ChangePassword",
+      "x": 8,
+      "y": 2,
+      "w": 211,
+      "h": 40,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d1bd",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d1bd"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Change Password",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": null
+      }
+    },
+    {
+      "id": "755:19",
+      "n": "cont_Admin_Tabs",
+      "ty": "FRAME",
+      "p": "366:292",
+      "o": 4,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_Tabs",
+      "x": 0,
+      "y": 4,
+      "w": 855,
+      "h": 36,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": null,
+      "s": null,
+      "fp": [],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:302",
+      "n": "btn_Admin_TabInit",
+      "ty": "FRAME",
+      "p": "755:19",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_Tabs/btn_Admin_TabInit",
+      "x": 0,
+      "y": 0,
+      "w": 214,
+      "h": 36,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#070707",
+        255
+      ],
+      "s": [
+        "#40361f",
+        229
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070707"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 229,
+          "c": "#40361f"
+        }
+      ],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:303",
+      "n": "System Init",
+      "ty": "TEXT",
+      "p": "366:302",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_Tabs/btn_Admin_TabInit/System Init",
+      "x": 8,
+      "y": 7,
+      "w": 191,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#c7c4b8",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#c7c4b8"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "System Init",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 22
+      }
+    },
+    {
+      "id": "366:300",
+      "n": "btn_Admin_TabFactory",
+      "ty": "FRAME",
+      "p": "755:19",
+      "o": 1,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_Tabs/btn_Admin_TabFactory",
+      "x": 214,
+      "y": 0,
+      "w": 214,
+      "h": 36,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#070707",
+        255
+      ],
+      "s": [
+        "#40361f",
+        229
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070707"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 229,
+          "c": "#40361f"
+        }
+      ],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:301",
+      "n": "Factory Set",
+      "ty": "TEXT",
+      "p": "366:300",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_Tabs/btn_Admin_TabFactory/Factory Set",
+      "x": 8,
+      "y": 7,
+      "w": 191,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#c7c4b8",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#c7c4b8"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Factory Set",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 22
+      }
+    },
+    {
+      "id": "366:298",
+      "n": "btn_Admin_TabFirmware",
+      "ty": "FRAME",
+      "p": "755:19",
+      "o": 2,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_Tabs/btn_Admin_TabFirmware",
+      "x": 428,
+      "y": 0,
+      "w": 214,
+      "h": 36,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#070707",
+        255
+      ],
+      "s": [
+        "#40361f",
+        229
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070707"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 229,
+          "c": "#40361f"
+        }
+      ],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:299",
+      "n": "Firmware Sync",
+      "ty": "TEXT",
+      "p": "366:298",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_Tabs/btn_Admin_TabFirmware/Firmware Sync",
+      "x": 8,
+      "y": 7,
+      "w": 191,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#c7c4b8",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#c7c4b8"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Firmware Sync",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 22
+      }
+    },
+    {
+      "id": "366:296",
+      "n": "btn_Admin_TabPassword",
+      "ty": "FRAME",
+      "p": "755:19",
+      "o": 3,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_Tabs/btn_Admin_TabPassword",
+      "x": 642,
+      "y": 0,
+      "w": 213,
+      "h": 36,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#070707",
+        255
+      ],
+      "s": [
+        "#40361f",
+        229
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070707"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 229,
+          "c": "#40361f"
+        }
+      ],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "366:297",
+      "n": "Change Password",
+      "ty": "TEXT",
+      "p": "366:296",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Panel/cont_Admin_Tabs/btn_Admin_TabPassword/Change Password",
+      "x": 8,
+      "y": 7,
+      "w": 191,
+      "h": 22,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#c7c4b8",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#c7c4b8"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Change Password",
+        "fs": 18,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": 22
+      }
+    },
+    {
+      "id": "765:18",
+      "n": "cont_Admin_Password_Window",
+      "ty": "FRAME",
+      "p": "366:291",
+      "o": 1,
+      "path": "Menu_Admin/cont_Admin_Password_Window",
+      "x": 105,
+      "y": 0,
+      "w": 855,
+      "h": 240,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#050505",
+        255
+      ],
+      "s": [
+        "#403929",
+        219
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#050505"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 219,
+          "c": "#403929"
+        }
+      ],
+      "sw": 1,
+      "r": 6,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "765:19",
+      "n": "cont_Admin_Password_Header",
+      "ty": "FRAME",
+      "p": "765:18",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Password_Window/cont_Admin_Password_Header",
+      "x": 0,
+      "y": 0,
+      "w": 855,
+      "h": 45,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#0e0d0c",
+        255
+      ],
+      "s": [
+        "#403929",
+        219
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#0e0d0c"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 219,
+          "c": "#403929"
+        }
+      ],
+      "sw": 1,
+      "r": 6,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "765:20",
+      "n": "label_Admin_Password_Title",
+      "ty": "TEXT",
+      "p": "765:19",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Password_Window/cont_Admin_Password_Header/label_Admin_Password_Title",
+      "x": 20,
+      "y": 2,
+      "w": 815,
+      "h": 39,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d1bd",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d1bd"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "SYSTEM ADMIN PORTAL",
+        "fs": 28,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": null
+      }
+    },
+    {
+      "id": "765:21",
+      "n": "label_Admin_Password_Hint",
+      "ty": "TEXT",
+      "p": "765:18",
+      "o": 1,
+      "path": "Menu_Admin/cont_Admin_Password_Window/label_Admin_Password_Hint",
+      "x": 120,
+      "y": 50,
+      "w": 615,
+      "h": 31,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#c7c4b8",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#c7c4b8"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Use the numeric keypad to enter",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": null
+      }
+    },
+    {
+      "id": "765:22",
+      "n": "cont_Admin_Password_Inputs",
+      "ty": "FRAME",
+      "p": "765:18",
+      "o": 2,
+      "path": "Menu_Admin/cont_Admin_Password_Window/cont_Admin_Password_Inputs",
+      "x": 152,
+      "y": 84,
+      "w": 550,
+      "h": 52,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#050505",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#050505"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "765:23",
+      "n": "label_Admin_Password_Digit1_set",
+      "ty": "FRAME",
+      "p": "765:22",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Password_Window/cont_Admin_Password_Inputs/label_Admin_Password_Digit1_set",
+      "x": 0,
+      "y": 0,
+      "w": 78,
+      "h": 52,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#0e0d0c",
+        255
+      ],
+      "s": [
+        "#403929",
+        219
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#0e0d0c"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 219,
+          "c": "#403929"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "765:24",
+      "n": "label_Admin_Password_Digit1_value",
+      "ty": "TEXT",
+      "p": "765:23",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Password_Window/cont_Admin_Password_Inputs/label_Admin_Password_Digit1_set/label_Admin_Password_Digit1_value",
+      "x": 6,
+      "y": 4,
+      "w": 66,
+      "h": 44,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d1bd",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d1bd"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "1",
+        "fs": 30,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": null
+      }
+    },
+    {
+      "id": "765:25",
+      "n": "label_Admin_Password_Digit2_set",
+      "ty": "FRAME",
+      "p": "765:22",
+      "o": 1,
+      "path": "Menu_Admin/cont_Admin_Password_Window/cont_Admin_Password_Inputs/label_Admin_Password_Digit2_set",
+      "x": 94,
+      "y": 0,
+      "w": 78,
+      "h": 52,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#0e0d0c",
+        255
+      ],
+      "s": [
+        "#403929",
+        219
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#0e0d0c"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 219,
+          "c": "#403929"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "765:26",
+      "n": "label_Admin_Password_Digit2_value",
+      "ty": "TEXT",
+      "p": "765:25",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Password_Window/cont_Admin_Password_Inputs/label_Admin_Password_Digit2_set/label_Admin_Password_Digit2_value",
+      "x": 6,
+      "y": 3,
+      "w": 66,
+      "h": 44,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d1bd",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d1bd"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "1",
+        "fs": 30,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": null
+      }
+    },
+    {
+      "id": "765:27",
+      "n": "label_Admin_Password_Digit3_set",
+      "ty": "FRAME",
+      "p": "765:22",
+      "o": 2,
+      "path": "Menu_Admin/cont_Admin_Password_Window/cont_Admin_Password_Inputs/label_Admin_Password_Digit3_set",
+      "x": 188,
+      "y": 0,
+      "w": 78,
+      "h": 52,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#0e0d0c",
+        255
+      ],
+      "s": [
+        "#403929",
+        219
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#0e0d0c"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 219,
+          "c": "#403929"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "765:28",
+      "n": "label_Admin_Password_Digit3_value",
+      "ty": "TEXT",
+      "p": "765:27",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Password_Window/cont_Admin_Password_Inputs/label_Admin_Password_Digit3_set/label_Admin_Password_Digit3_value",
+      "x": 6,
+      "y": 3,
+      "w": 66,
+      "h": 44,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d1bd",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d1bd"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "2",
+        "fs": 30,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": null
+      }
+    },
+    {
+      "id": "765:29",
+      "n": "label_Admin_Password_Digit4_set",
+      "ty": "FRAME",
+      "p": "765:22",
+      "o": 3,
+      "path": "Menu_Admin/cont_Admin_Password_Window/cont_Admin_Password_Inputs/label_Admin_Password_Digit4_set",
+      "x": 282,
+      "y": 0,
+      "w": 78,
+      "h": 52,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#0e0d0c",
+        255
+      ],
+      "s": [
+        "#403929",
+        219
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#0e0d0c"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 219,
+          "c": "#403929"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "765:30",
+      "n": "label_Admin_Password_Digit4_value",
+      "ty": "TEXT",
+      "p": "765:29",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Password_Window/cont_Admin_Password_Inputs/label_Admin_Password_Digit4_set/label_Admin_Password_Digit4_value",
+      "x": 6,
+      "y": 3,
+      "w": 66,
+      "h": 44,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d1bd",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d1bd"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "•",
+        "fs": 30,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": null
+      }
+    },
+    {
+      "id": "765:31",
+      "n": "label_Admin_Password_Digit5_set",
+      "ty": "FRAME",
+      "p": "765:22",
+      "o": 4,
+      "path": "Menu_Admin/cont_Admin_Password_Window/cont_Admin_Password_Inputs/label_Admin_Password_Digit5_set",
+      "x": 376,
+      "y": 0,
+      "w": 78,
+      "h": 52,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#0e0d0c",
+        255
+      ],
+      "s": [
+        "#403929",
+        219
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#0e0d0c"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 219,
+          "c": "#403929"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "765:32",
+      "n": "label_Admin_Password_Digit5_value",
+      "ty": "TEXT",
+      "p": "765:31",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Password_Window/cont_Admin_Password_Inputs/label_Admin_Password_Digit5_set/label_Admin_Password_Digit5_value",
+      "x": 6,
+      "y": 3,
+      "w": 66,
+      "h": 44,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d1bd",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d1bd"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "•",
+        "fs": 30,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": null
+      }
+    },
+    {
+      "id": "765:33",
+      "n": "label_Admin_Password_Digit6_set",
+      "ty": "FRAME",
+      "p": "765:22",
+      "o": 5,
+      "path": "Menu_Admin/cont_Admin_Password_Window/cont_Admin_Password_Inputs/label_Admin_Password_Digit6_set",
+      "x": 470,
+      "y": 0,
+      "w": 78,
+      "h": 52,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#0e0d0c",
+        255
+      ],
+      "s": [
+        "#403929",
+        219
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#0e0d0c"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 219,
+          "c": "#403929"
+        }
+      ],
+      "sw": 1,
+      "r": 5,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "765:34",
+      "n": "label_Admin_Password_Digit6_value",
+      "ty": "TEXT",
+      "p": "765:33",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Password_Window/cont_Admin_Password_Inputs/label_Admin_Password_Digit6_set/label_Admin_Password_Digit6_value",
+      "x": 6,
+      "y": 3,
+      "w": 66,
+      "h": 44,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#d6d1bd",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#d6d1bd"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "•",
+        "fs": 30,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": null
+      }
+    },
+    {
+      "id": "765:35",
+      "n": "cont_Admin_Password_Actions",
+      "ty": "FRAME",
+      "p": "765:18",
+      "o": 3,
+      "path": "Menu_Admin/cont_Admin_Password_Window/cont_Admin_Password_Actions",
+      "x": 178,
+      "y": 151,
+      "w": 499,
+      "h": 48,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#050505",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#050505"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "765:36",
+      "n": "btn_Admin_Password_Clear",
+      "ty": "FRAME",
+      "p": "765:35",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Password_Window/cont_Admin_Password_Actions/btn_Admin_Password_Clear",
+      "x": 0,
+      "y": 0,
+      "w": 190,
+      "h": 46,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#070706",
+        255
+      ],
+      "s": [
+        "#c74f47",
+        184
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070706"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 184,
+          "c": "#c74f47"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "765:37",
+      "n": "label_Admin_Password_Clear",
+      "ty": "TEXT",
+      "p": "765:36",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Password_Window/cont_Admin_Password_Actions/btn_Admin_Password_Clear/label_Admin_Password_Clear",
+      "x": 8,
+      "y": 2,
+      "w": 174,
+      "h": 42,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#c74f47",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#c74f47"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Clear",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": null
+      }
+    },
+    {
+      "id": "765:38",
+      "n": "btn_Admin_Password_Submit",
+      "ty": "FRAME",
+      "p": "765:35",
+      "o": 1,
+      "path": "Menu_Admin/cont_Admin_Password_Window/cont_Admin_Password_Actions/btn_Admin_Password_Submit",
+      "x": 309,
+      "y": 0,
+      "w": 190,
+      "h": 46,
+      "v": true,
+      "op": 255,
+      "clip": true,
+      "f": [
+        "#070706",
+        255
+      ],
+      "s": [
+        "#6ebd73",
+        184
+      ],
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#070706"
+        }
+      ],
+      "sp": [
+        {
+          "ty": "SOLID",
+          "op": 184,
+          "c": "#6ebd73"
+        }
+      ],
+      "sw": 1,
+      "r": 4,
+      "img": null,
+      "t": null
+    },
+    {
+      "id": "765:39",
+      "n": "label_Admin_Password_Submit",
+      "ty": "TEXT",
+      "p": "765:38",
+      "o": 0,
+      "path": "Menu_Admin/cont_Admin_Password_Window/cont_Admin_Password_Actions/btn_Admin_Password_Submit/label_Admin_Password_Submit",
+      "x": 8,
+      "y": 2,
+      "w": 174,
+      "h": 42,
+      "v": true,
+      "op": 255,
+      "clip": false,
+      "f": [
+        "#6ebd73",
+        255
+      ],
+      "s": null,
+      "fp": [
+        {
+          "ty": "SOLID",
+          "op": 255,
+          "c": "#6ebd73"
+        }
+      ],
+      "sp": [],
+      "sw": 1,
+      "r": 0,
+      "img": null,
+      "t": {
+        "c": "Submit",
+        "fs": 23,
+        "ff": "Alibaba PuHuiTi 2.0",
+        "fy": "55 Regular",
+        "a": "CENTER",
+        "lh": null
+      }
+    }
+  ]
+}

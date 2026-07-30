@@ -1,0 +1,135 @@
+{
+  "schema_version": "figma-controlled-sync-summary/v1",
+  "manifest": {
+    "path": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\manifests\\v9_all_20260729_context\\index.json",
+    "manifest_version": 9,
+    "version": "2026-07-29-v9-all-full-refresh",
+    "sha256": "8be7022e79d092ba3996e7ac2bcad838eafb266a3847f95325bb10080fcae691",
+    "page_count": 31,
+    "node_count": 1756
+  },
+  "manifest_diff": {
+    "old_pages": 31,
+    "new_pages": 31,
+    "old_nodes": 1615,
+    "new_nodes": 1756,
+    "matched_nodes": 1615,
+    "identity_uncertain": 0,
+    "semantic_or_type_changed": 1,
+    "business_impact_changes": 414,
+    "by_category": {
+      "font_or_size_changed": 6,
+      "geometry_changed": 331,
+      "identity_uncertain": 0,
+      "image_resource_changed": 5,
+      "layer_order_changed": 381,
+      "node_added": 141,
+      "node_renamed": 25,
+      "parent_changed": 388,
+      "semantic_or_type_changed": 1,
+      "style_changed": 292
+    }
+  },
+  "candidate": {
+    "path": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\artifacts\\figma_sync_20260729_v9_controlled\\guiguider_2.0.v9_candidate.guiguider",
+    "sha256": "9e297c7cc62d302fbf307471e28826fd5cdc6bf4ba893d20980a149c7816fd51",
+    "idempotency_sha256": "9e297c7cc62d302fbf307471e28826fd5cdc6bf4ba893d20980a149c7816fd51",
+    "idempotent": true,
+    "ready_for_human_review": true
+  },
+  "formal_project": {
+    "path": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\guiguider_2.0.guiguider",
+    "sha256": "25c5da14485237da5c4bf2ea1ca46f817cbdcd9ea27962e12f8272294b23fc7f",
+    "expected_sha256": "25c5da14485237da5c4bf2ea1ca46f817cbdcd9ea27962e12f8272294b23fc7f",
+    "unchanged": true
+  },
+  "mdk_project_modified": false,
+  "validation": {
+    "blocking_issues": 0,
+    "minimum_visual_similarity": 0.944107,
+    "visual_baseline": 0.940617,
+    "minimum_visual_similarity_delta": 0.003489999999999993,
+    "minimum_regional_visual_similarity": 0.680751,
+    "regional_visual_failures": 0,
+    "image_widget_count": 112,
+    "unique_image_resources": 49,
+    "gui_guider_roundtrip_verified": false
+  },
+  "v8_regression": {
+    "passed": true,
+    "contract_differences": 0,
+    "accepted_visual_differences": 24
+  },
+  "warnings": {
+    "blocking_count": 1,
+    "path": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context\\warnings.json"
+  },
+  "modified_converter_scripts": [
+    "tools/refresh_figma_local_snapshot.py",
+    "tools/sync_completed_figma_to_guiguider.py",
+    "tools/validate_figma_guider_sync.py"
+  ],
+  "new_support_scripts": [
+    "tools/compare_figma_manifests.py",
+    "tools/check_v8_regression.py",
+    "tools/finalize_controlled_sync.py"
+  ],
+  "new_tests": [
+    "tools/test_controlled_sync.py"
+  ],
+  "manual_review": [
+    {
+      "page": "Home",
+      "controls": [
+        "img_status_beep_no",
+        "six changed text/font metrics",
+        "voltage/current/unit regions"
+      ],
+      "reason": "Only control type change: container to image; also the lowest whole-page score."
+    },
+    {
+      "page": "Menu_Admin, Menu_Digital_IO, screen_List, Menu_Date, Menu_Log",
+      "controls": [
+        "reparented and newly added controls"
+      ],
+      "reason": "Highest parent-tree churn."
+    },
+    {
+      "page": "Menu_Protect, Menu_Coupling, Menu_Info, screen_Arb, Menu_Communication",
+      "controls": [
+        "reparented and newly added controls"
+      ],
+      "reason": "Material parent-tree and geometry changes."
+    },
+    {
+      "page": "screen_recall, screen_save",
+      "controls": [
+        "slot index labels"
+      ],
+      "reason": "Confirm 24 existing manual icon-label coordinate corrections remain intentional."
+    },
+    {
+      "page": "screen_mode_select_large, screen_mode_select_small",
+      "controls": [
+        "overlay roots 365:2 and 365:5"
+      ],
+      "reason": "Imported as standalone preview screens; runtime overlay semantics remain manual."
+    },
+    {
+      "page": "Scrollable pages and containers",
+      "controls": [
+        "screen_coupling",
+        "screen_measure",
+        "screen_protect",
+        "screen_config",
+        "screen_digital_io",
+        "screen_admin",
+        "screen_communication",
+        "cont_menu_function",
+        "cont_info_list_cont"
+      ],
+      "reason": "Confirm physical-key focus navigation, clipping, and hidden scrollbars in GUI Guider."
+    }
+  ],
+  "report_directory": "D:\\figma\\V2.0\\guiguider_2.0\\guiguider_2.0\\tools\\sync_reports\\v9_all_20260729_context"
+}
