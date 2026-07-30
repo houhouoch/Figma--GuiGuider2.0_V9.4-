@@ -81,6 +81,7 @@ python tools/prepare_local_project.py `
 
 - 复制字体到 `project/resources/font/AlibabaPuHuiTi2.ttf`；
 - 把 GUI Guider 的 `projectPath` 改成当前克隆目录的绝对路径；
+- 生成独立的本机 `projectId` 和项目名，避免与原始正式工程冲突；
 - 生成 `project/guiguider_2.0.guiguider`。
 
 然后在 GUI Guider 2.0 中打开：
@@ -90,6 +91,9 @@ project/guiguider_2.0.guiguider
 ```
 
 不要直接打开 `*.template.guiguider`。
+
+脚本默认拒绝覆盖已存在的本机工程，避免重新准备时丢失 GUI Guider
+中的手工修改。只有明确需要从模板重新生成时才使用 `--force`。
 
 如需从历史脚本重新生成项目图片，还需要把已获授权的原始素材放入
 `external-assets/source/`，或设置 `FIGMA_GUI_GUIDER_ASSET_ROOT`。仅打开和审查

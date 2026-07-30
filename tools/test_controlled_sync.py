@@ -8,10 +8,29 @@ import tempfile
 import unittest
 from pathlib import Path
 
+import prepare_local_project as local_project
 import sync_completed_figma_to_guiguider as sync
 
 
 class ControlledSyncTests(unittest.TestCase):
+    def test_local_project_identity_is_clone_specific(self) -> None:
+        with tempfile.TemporaryDirectory() as first_directory:
+            with tempfile.TemporaryDirectory() as second_directory:
+                first = Path(first_directory) / "project.guiguider"
+                second = Path(second_directory) / "project.guiguider"
+                first_id = local_project.local_project_id(
+                    local_project.DEFAULT_PROJECT_NAME,
+                    first,
+                )
+                second_id = local_project.local_project_id(
+                    local_project.DEFAULT_PROJECT_NAME,
+                    second,
+                )
+
+        self.assertTrue(first_id.startswith("project-"))
+        self.assertNotEqual(first_id, second_id)
+        self.assertNotEqual(first_id, "project-MRWWUBKD5NV0")
+
     def test_compact_manifest_builds_parent_tree(self) -> None:
         payload = {
             "schema": "figma-compact-manifest/v1",

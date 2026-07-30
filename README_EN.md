@@ -75,13 +75,18 @@ python tools/prepare_local_project.py `
   --font "D:\path\to\AlibabaPuHuiTi2.ttf"
 ```
 
-The script copies the font, replaces the machine-specific `projectPath`, and creates:
+The script copies the font, replaces the machine-specific `projectPath`,
+assigns a clone-specific `projectId` and project name, and creates:
 
 ```text
 project/guiguider_2.0.guiguider
 ```
 
 Open that file in GUI Guider 2.0. Do not open the template directly.
+
+By default, the script refuses to overwrite an existing local project so that
+manual GUI Guider edits cannot be reset accidentally. Use `--force` only when
+an intentional rebuild from the template is required.
 
 Rebuilding project images with the historical conversion scripts additionally
 requires an authorized source-asset pack under `external-assets/source/`, or
