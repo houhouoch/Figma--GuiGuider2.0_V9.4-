@@ -32,6 +32,15 @@
 - An isolated GUI Guider review workspace must use a distinct project ID,
   project name, project path, and resource directory. A different `.guiguider`
   filename alone is not sufficient isolation.
+- A cloned or prepared local project must also receive a clone-specific
+  `projectId`. GUI Guider 2.0 can associate duplicate IDs with the old recent
+  project path, making edits appear locked or unsaved.
+- When GUI Guider restores the wrong project, verify the visible project name,
+  internal `projectId/projectPath`, and
+  `%APPDATA%\GUIGuider\2.0.0\project_history.json`. Process startup alone does
+  not prove that the intended project is loaded.
+- Local preparation tools must refuse to overwrite an existing editable
+  project unless replacement is explicitly requested.
 - Copy the complete resource closure for review, including fonts referenced
   only by `text_family` as well as images with explicit paths. Missing or
   unregistered fonts invalidate size, baseline, clipping, and position review.

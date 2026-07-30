@@ -3,6 +3,7 @@
 ## 中文
 
 - `2026-07-30_FIGMA_TO_GUI_GUIDER_FULL_RETROSPECTIVE.md`：从首次转换到正式晋升、字体修复和经验沉淀的完整复盘。
+- `2026-07-30_GUI_GUIDER_DUPLICATE_PROJECT_ID_BUG.md`：重复项目 ID 导致打开旧工程和修改看似无法保存的专项复盘。
 - `2026-07-29_GUI_GUIDER_FONT_AND_LABEL_RETROSPECTIVE.md`：字体文件、生成符号、Label 高度和模拟器构建专项复盘。
 - `FIGMA_TO_GUI_GUIDER_2_0_LVGL_9_4_GUIDE.md`：可复用操作指南。
 - `FIGMA_TO_LVGL_WORKFLOW_AND_PITFALLS.md`：Figma、GUI Guider、LVGL、MDK 之间的边界和常见故障。
@@ -13,6 +14,7 @@
 ## English
 
 - `2026-07-30_FIGMA_TO_GUI_GUIDER_FULL_RETROSPECTIVE.md`: end-to-end retrospective.
+- `2026-07-30_GUI_GUIDER_DUPLICATE_PROJECT_ID_BUG_EN.md`: duplicate project identity and wrong-project restoration retrospective.
 - `2026-07-29_GUI_GUIDER_FONT_AND_LABEL_RETROSPECTIVE.md`: font, generated-symbol, Label geometry, and simulator-build retrospective.
 - `FIGMA_TO_GUI_GUIDER_2_0_LVGL_9_4_GUIDE.md`: reusable operating guide.
 - `FIGMA_TO_LVGL_WORKFLOW_AND_PITFALLS.md`: product boundaries and common failures.

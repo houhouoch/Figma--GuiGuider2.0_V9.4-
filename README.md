@@ -23,6 +23,7 @@
 完整过程见：
 
 - [全流程工程复盘](docs/2026-07-30_FIGMA_TO_GUI_GUIDER_FULL_RETROSPECTIVE.md)
+- [重复项目 ID 导致打开旧工程](docs/2026-07-30_GUI_GUIDER_DUPLICATE_PROJECT_ID_BUG.md)
 - [字体与 Label 复盘](docs/2026-07-29_GUI_GUIDER_FONT_AND_LABEL_RETROSPECTIVE.md)
 - [Figma → GUI Guider 2.0 / LVGL 9.4 指南](docs/FIGMA_TO_GUI_GUIDER_2_0_LVGL_9_4_GUIDE.md)
 - [工作流与避坑说明](docs/FIGMA_TO_LVGL_WORKFLOW_AND_PITFALLS.md)

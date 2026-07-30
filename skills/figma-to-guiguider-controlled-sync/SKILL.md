@@ -31,6 +31,11 @@ Do not modify MDK unless the user separately requests firmware integration.
 6. Generate an independent candidate. Never overwrite the formal project at this stage.
 7. Generate the candidate twice and require identical semantic output.
 8. Create an isolated review workspace with a distinct project ID, name, path, and resource directory.
+   - Apply the same identity isolation to editable local clones.
+   - GUI Guider 2.0 may associate duplicate `projectId` values with the old
+     recent-project path, making edits appear locked or unsaved.
+   - Verify the visible project name and project history; a launched process
+     does not prove that the intended project was loaded.
 9. Copy the complete resource closure:
    - explicit image paths;
    - fonts referenced only by `text_family`;
@@ -76,6 +81,9 @@ Stop before promotion when any of these occur:
 - unreviewed control-type change;
 - missing image or font;
 - candidate still uses the formal project identity;
+- editable clone reuses another project's `projectId`;
+- local preparation would overwrite an existing edited project without
+  explicit replacement authorization;
 - non-deterministic candidate output;
 - regression or critical visual failure;
 - missing explicit promotion approval;

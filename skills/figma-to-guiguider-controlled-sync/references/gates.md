@@ -46,6 +46,11 @@ Require:
 
 Missing fonts invalidate typography and geometry review.
 
+Duplicate project IDs can cause GUI Guider 2.0 to restore or associate the old
+recent-project path. Validate the visible project name and, when necessary,
+`%APPDATA%\GUIGuider\2.0.0\project_history.json`. A different filename alone is
+not isolation.
+
 ## 4. Promotion Gate
 
 Require:

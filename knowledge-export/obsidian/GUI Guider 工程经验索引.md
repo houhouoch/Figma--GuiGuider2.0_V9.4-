@@ -14,6 +14,7 @@ date: 2026-07-30
 - [[Figma MCP 全量抓取必须可续传且原子完成]]
 - [[Figma 与 GUI Guider 同步需要字段所有权]]
 - [[Figma 到 GUI Guider 必须采用候选工程晋升门禁]]
+- [[GUI Guider 2.0 重复 projectId 会打开旧工程]]
 
 ## 资源和字体
 

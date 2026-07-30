@@ -23,6 +23,7 @@ This repository captures a production-tested, controlled workflow for converting
 Key documents:
 
 - [End-to-end engineering retrospective](docs/2026-07-30_FIGMA_TO_GUI_GUIDER_FULL_RETROSPECTIVE.md)
+- [Duplicate project ID opens the old project](docs/2026-07-30_GUI_GUIDER_DUPLICATE_PROJECT_ID_BUG_EN.md)
 - [Font and Label retrospective](docs/2026-07-29_GUI_GUIDER_FONT_AND_LABEL_RETROSPECTIVE.md)
 - [Figma → GUI Guider 2.0 / LVGL 9.4 guide](docs/FIGMA_TO_GUI_GUIDER_2_0_LVGL_9_4_GUIDE.md)
 - [Workflow and pitfalls](docs/FIGMA_TO_LVGL_WORKFLOW_AND_PITFALLS.md)
